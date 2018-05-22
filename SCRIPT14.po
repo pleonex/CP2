@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Corpse Party 2\n"
+"Report-Msgid-Bugs-To: pleonex <benito356@gmail.com>\n"
+"POT-Creation-Date: 21/05/2018\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: TraduSquare\n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0"
+msgid ""
+"SCRIPT1\n"
+"0"
+msgstr ""
+
+msgctxt "1"
+msgid "●"
+msgstr ""
+
+msgctxt "2"
+msgid "END_SCRIPT"
+msgstr ""
+
+msgctxt "3"
+msgid ""
+"SCRIPT2\n"
+"0"
+msgstr ""
+
+msgctxt "4"
+msgid "●"
+msgstr ""
+
+msgctxt "5"
+msgid "END_SCRIPT"
+msgstr ""
+
+msgctxt "6"
+msgid ""
+"SCRIPT3\n"
+"0"
+msgstr ""
+
+msgctxt "7"
+msgid "●"
+msgstr ""
+
+msgctxt "8"
+msgid "END_SCRIPT"
+msgstr ""
+
+msgctxt "9"
+msgid ""
+"SCRIPT4\n"
+"0"
+msgstr ""
+
+msgctxt "10"
+msgid "●"
+msgstr ""
+
+msgctxt "11"
+msgid "END_SCRIPT"
+msgstr ""
+
+msgctxt "12"
+msgid ""
+"SCRIPT5\n"
+"0"
+msgstr ""
+
+msgctxt "13"
+msgid "●"
+msgstr ""
+
+msgctxt "14"
+msgid "END_SCRIPT"
+msgstr ""

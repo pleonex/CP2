@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Corpse Party 2\n"
+"Report-Msgid-Bugs-To: pleonex <benito356@gmail.com>\n"
+"POT-Creation-Date: 21/05/2018\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: TraduSquare\n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0"
+msgid ""
+"SCRIPT1\n"
+"0"
+msgstr ""
+
+msgctxt "1"
+msgid "●"
+msgstr ""
+
+msgctxt "2"
+msgid "END_SCRIPT"
+msgstr ""
+
+msgctxt "3"
+msgid ""
+"SCRIPT2\n"
+"0"
+msgstr ""
+
+msgctxt "4"
+msgid "所持アイテム分岐:包帯"
+msgstr ""
+
+msgctxt "5"
+msgid "▼:ON"
+msgstr ""
+
+msgctxt "6"
+msgid ""
+"モノローグ:包帯は\n"
+"これ以上持てない\n"
+"\n"
+"なし"
+msgstr ""
+
+msgctxt "7"
+msgid "●"
+msgstr ""
+
+msgctxt "8"
+msgid "▼:OFF"
+msgstr ""
+
+msgctxt "9"
+msgid ""
+"アイテム取得:包帯\n"
+"ON"
+msgstr ""
+
+msgctxt "10"
+msgid "イベント削除:"
+msgstr ""
+
+msgctxt "11"
+msgid "●"
+msgstr ""
+
+msgctxt "12"
+msgid "分岐終了"
+msgstr ""
+
+msgctxt "13"
+msgid "●"
+msgstr ""
+
+msgctxt "14"
+msgid "END_SCRIPT"
+msgstr ""
+
+msgctxt "15"
+msgid ""
+"SCRIPT3\n"
+"0"
+msgstr ""
+
+msgctxt "16"
+msgid "所持アイテム分岐:空き缶"
+msgstr ""
+
+msgctxt "17"
+msgid "▼:ON"
+msgstr ""
+
+msgctxt "18"
+msgid ""
+"モノローグ:空き缶は\n"
+"これ以上持てない\n"
+"\n"
+"なし"
+msgstr ""
+
+msgctxt "19"
+msgid "●"
+msgstr ""
+
+msgctxt "20"
+msgid "▼:OFF"
+msgstr ""
+
+msgctxt "21"
+msgid ""
+"アイテム取得:空き缶\n"
+"ON"
+msgstr ""
+
+msgctxt "22"
+msgid "イベント削除:"
+msgstr ""
+
+msgctxt "23"
+msgid "●"
+msgstr ""
+
+msgctxt "24"
+msgid "分岐終了"
+msgstr ""
+
+msgctxt "25"
+msgid "●"
+msgstr ""
+
+msgctxt "26"
+msgid "END_SCRIPT"
+msgstr ""
+
+msgctxt "27"
+msgid ""
+"SCRIPT4\n"
+"0"
+msgstr ""
+
+msgctxt "28"
+msgid "ロッカー処理:"
+msgstr ""
+
+msgctxt "29"
+msgid "●"
+msgstr ""
+
+msgctxt "30"
+msgid "END_SCRIPT"
+msgstr ""
+
+msgctxt "31"
+msgid ""
+"SCRIPT5\n"
+"0"
+msgstr ""
+
+msgctxt "32"
+msgid "●"
+msgstr ""
+
+msgctxt "33"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "34"
+msgid "END_SCRIPT"
+msgstr ""
+
+msgctxt "35"
+msgid ""
+"SCRIPT6\n"
+"0"
+msgstr ""
+
+msgctxt "36"
+msgid "●"
+msgstr ""
+
+msgctxt "37"
+msgid "END_SCRIPT"
+msgstr ""
+
+msgctxt "38"
+msgid ""
+"SCRIPT7\n"
+"0"
+msgstr ""
+
+msgctxt "39"
+msgid "●"
+msgstr ""
+
+msgctxt "40"
+msgid "END_SCRIPT"
+msgstr ""
+
+msgctxt "41"
+msgid ""
+"SCRIPT8\n"
+"0"
+msgstr ""
+
+msgctxt "42"
+msgid "●"
+msgstr ""
+
+msgctxt "43"
+msgid "END_SCRIPT"
+msgstr ""
