@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Corpse Party 2\n"
 "Report-Msgid-Bugs-To: pleonex <benito356@gmail.com>\n"
 "POT-Creation-Date: 21/05/2018\n"
-"PO-Revision-Date: 2018-05-23 09:37+0000\n"
+"PO-Revision-Date: 2018-05-23 09:46+0000\n"
 "Last-Translator: Van_Kaiji <alejandro.sh94@gmail.com>\n"
 "Language-Team: Spanish <http://54.37.11.10/projects/corpse-party-2/script63/"
 "es/>\n"
@@ -22,11 +22,12 @@ msgstr ""
 
 msgctxt "1"
 msgid "●"
-msgstr ""
+msgstr "●"
 
+#, fuzzy
 msgctxt "2"
 msgid "END_SCRIPT"
-msgstr ""
+msgstr "END_SCRIPT"
 
 msgctxt "3"
 msgid ""
