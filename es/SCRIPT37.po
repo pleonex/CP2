@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: pleonex <benito356@gmail.com>\n"
 "POT-Creation-Date: 21/05/2018\n"
 "PO-Revision-Date: 2018-05-23 15:30+0000\n"
-"Last-Translator: Joguersan <joguersan@gmail.com>\n"
+"Last-Translator: Van_Kaiji <alejandro.sh94@gmail.com>\n"
 "Language-Team: Spanish <http://54.37.11.10/projects/corpse-party-2/script37/"
 "es/>\n"
 "Language: es\n"
@@ -240,11 +240,11 @@ msgstr ""
 
 msgctxt "37"
 msgid "●"
-msgstr ""
+msgstr "●"
 
 msgctxt "38"
 msgid "END_SCRIPT"
-msgstr ""
+msgstr "END_SCRIPT"
 
 msgctxt "39"
 msgid ""
@@ -306,11 +306,11 @@ msgstr ""
 
 msgctxt "49"
 msgid "●"
-msgstr ""
+msgstr "●"
 
 msgctxt "50"
 msgid "END_SCRIPT"
-msgstr ""
+msgstr "END_SCRIPT"
 
 msgctxt "51"
 msgid ""
@@ -366,11 +366,11 @@ msgstr ""
 
 msgctxt "61"
 msgid "●"
-msgstr ""
+msgstr "●"
 
 msgctxt "62"
 msgid "END_SCRIPT"
-msgstr ""
+msgstr "END_SCRIPT"
 
 msgctxt "63"
 msgid ""
@@ -584,11 +584,11 @@ msgstr ""
 
 msgctxt "95"
 msgid "●"
-msgstr ""
+msgstr "●"
 
 msgctxt "96"
 msgid "END_SCRIPT"
-msgstr ""
+msgstr "END_SCRIPT"
 
 msgctxt "97"
 msgid ""
@@ -711,7 +711,7 @@ msgstr ""
 
 msgctxt "114"
 msgid "●"
-msgstr ""
+msgstr "●"
 
 #, fuzzy
 msgctxt "115"
