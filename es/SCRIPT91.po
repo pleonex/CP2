@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Corpse Party 2\n"
 "Report-Msgid-Bugs-To: pleonex <benito356@gmail.com>\n"
 "POT-Creation-Date: 21/05/2018\n"
-"PO-Revision-Date: 2018-05-23 10:48+0000\n"
+"PO-Revision-Date: 2018-05-23 15:31+0000\n"
 "Last-Translator: Van_Kaiji <alejandro.sh94@gmail.com>\n"
 "Language-Team: Spanish <http://54.37.11.10/projects/corpse-party-2/script91/"
 "es/>\n"
@@ -261,11 +261,11 @@ msgstr ""
 
 msgctxt "40"
 msgid "●"
-msgstr ""
+msgstr "●"
 
 msgctxt "41"
 msgid "END_SCRIPT"
-msgstr ""
+msgstr "END_SCRIPT"
 
 msgctxt "42"
 msgid ""
@@ -326,11 +326,11 @@ msgstr ""
 
 msgctxt "51"
 msgid "●"
-msgstr ""
+msgstr "●"
 
 msgctxt "52"
 msgid "END_SCRIPT"
-msgstr ""
+msgstr "END_SCRIPT"
 
 msgctxt "53"
 msgid ""
@@ -489,11 +489,11 @@ msgstr ""
 
 msgctxt "85"
 msgid "●"
-msgstr ""
+msgstr "●"
 
 msgctxt "86"
 msgid "END_SCRIPT"
-msgstr ""
+msgstr "END_SCRIPT"
 
 msgctxt "87"
 msgid ""
@@ -604,7 +604,7 @@ msgstr ""
 
 msgctxt "105"
 msgid "●"
-msgstr ""
+msgstr "●"
 
 msgctxt "106"
 msgid "END_SCRIPT"
@@ -627,11 +627,11 @@ msgstr ""
 
 msgctxt "109"
 msgid "●"
-msgstr ""
+msgstr "●"
 
 msgctxt "110"
 msgid "END_SCRIPT"
-msgstr ""
+msgstr "END_SCRIPT"
 
 msgctxt "111"
 msgid ""
