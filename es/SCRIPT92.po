@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Corpse Party 2\n"
 "Report-Msgid-Bugs-To: pleonex <benito356@gmail.com>\n"
 "POT-Creation-Date: 21/05/2018\n"
-"PO-Revision-Date: 2018-05-23 08:56+0000\n"
+"PO-Revision-Date: 2018-05-23 09:24+0000\n"
 "Last-Translator: Van_Kaiji <alejandro.sh94@gmail.com>\n"
 "Language-Team: Spanish <http://54.37.11.10/projects/corpse-party-2/script92/"
 "es/>\n"
@@ -117,7 +117,6 @@ msgstr ""
 "SCRIPT1\n"
 "0"
 
-#, fuzzy
 msgctxt "1"
 msgid ""
 "時間待ち:60\n"
@@ -126,7 +125,6 @@ msgstr ""
 "時間待ち:60\n"
 "CLOSE"
 
-#, fuzzy
 msgctxt "2"
 msgid ""
 "ＳＥ:CORP2-SE133.wav\n"
@@ -137,7 +135,6 @@ msgstr ""
 "ON\n"
 "ON"
 
-#, fuzzy
 msgctxt "3"
 msgid ""
 "時間待ち:270\n"
@@ -146,7 +143,6 @@ msgstr ""
 "時間待ち:270\n"
 "CLOSE"
 
-#, fuzzy
 msgctxt "4"
 msgid ""
 "ＳＥ:CORP2-SE133.wav\n"
@@ -245,6 +241,7 @@ msgstr ""
 "\"Mensaje del más allá del detective paranormal *****: Formulario de consulta\".\n"
 "なし"
 
+#, fuzzy
 msgctxt "13"
 msgid ""
 "ＳＥ:CORP2-SE136.wav\n"
@@ -255,6 +252,7 @@ msgstr ""
 "ON\n"
 "OFF"
 
+#, fuzzy
 msgctxt "14"
 msgid ""
 "イベント画像表示:eventcg_01.tga\n"
@@ -263,6 +261,11 @@ msgid ""
 "0\n"
 "SS"
 msgstr ""
+"イベント画像表示:eventcg_01.tga\n"
+"60\n"
+"0\n"
+"0\n"
+"SS"
 
 msgctxt "15"
 msgid ""
