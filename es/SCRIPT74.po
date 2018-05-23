@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Corpse Party 2\n"
 "Report-Msgid-Bugs-To: pleonex <benito356@gmail.com>\n"
 "POT-Creation-Date: 21/05/2018\n"
-"PO-Revision-Date: 2018-05-23 10:48+0000\n"
+"PO-Revision-Date: 2018-05-23 15:31+0000\n"
 "Last-Translator: Van_Kaiji <alejandro.sh94@gmail.com>\n"
 "Language-Team: Spanish <http://54.37.11.10/projects/corpse-party-2/script74/"
 "es/>\n"
@@ -166,7 +166,7 @@ msgstr ""
 
 msgctxt "25"
 msgid "●"
-msgstr ""
+msgstr "●"
 
 msgctxt "26"
 msgid "▼:OFF"
@@ -243,7 +243,7 @@ msgstr ""
 
 msgctxt "40"
 msgid "●"
-msgstr ""
+msgstr "●"
 
 msgctxt "41"
 msgid "分岐終了"
@@ -331,7 +331,7 @@ msgstr ""
 
 msgctxt "55"
 msgid "●"
-msgstr ""
+msgstr "●"
 
 msgctxt "56"
 msgid "▼:OFF"
@@ -408,7 +408,7 @@ msgstr ""
 
 msgctxt "70"
 msgid "●"
-msgstr ""
+msgstr "●"
 
 msgctxt "71"
 msgid "分岐終了"
@@ -496,7 +496,7 @@ msgstr ""
 
 msgctxt "85"
 msgid "●"
-msgstr ""
+msgstr "●"
 
 msgctxt "86"
 msgid "▼:OFF"
@@ -531,7 +531,7 @@ msgstr ""
 
 msgctxt "90"
 msgid "●"
-msgstr ""
+msgstr "●"
 
 msgctxt "91"
 msgid "分岐終了"
@@ -553,7 +553,7 @@ msgstr ""
 
 msgctxt "95"
 msgid "●"
-msgstr ""
+msgstr "●"
 
 msgctxt "96"
 msgid "分岐終了"
@@ -573,7 +573,7 @@ msgstr ""
 
 msgctxt "100"
 msgid "●"
-msgstr ""
+msgstr "●"
 
 msgctxt "101"
 msgid "分岐終了"
