@@ -5,111 +5,15 @@ msgstr ""
 "POT-Creation-Date: 21/05/2018\n"
 "PO-Revision-Date: 2018-05-23 15:31+0000\n"
 "Last-Translator: Joguersan <joguersan@gmail.com>\n"
-"Language-Team: Spanish <http://54.37.11.10/projects/corpse-party-2/script92/"
-"es/>\n"
+"Language-Team: Spanish <http://54.37.11.10/projects/corpse-party-2/script92/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.20\n"
-"X-Poedit-Basepath: .\n"
-"X-Poedit-SearchPath-0: SCRIPT0.po\n"
-"X-Poedit-SearchPath-1: SCRIPT1.po\n"
-"X-Poedit-SearchPath-2: SCRIPT2.po\n"
-"X-Poedit-SearchPath-3: SCRIPT3.po\n"
-"X-Poedit-SearchPath-4: SCRIPT4.po\n"
-"X-Poedit-SearchPath-5: SCRIPT5.po\n"
-"X-Poedit-SearchPath-6: SCRIPT6.po\n"
-"X-Poedit-SearchPath-7: SCRIPT7.po\n"
-"X-Poedit-SearchPath-8: SCRIPT8.po\n"
-"X-Poedit-SearchPath-9: SCRIPT9.po\n"
-"X-Poedit-SearchPath-10: SCRIPT10.po\n"
-"X-Poedit-SearchPath-11: SCRIPT11.po\n"
-"X-Poedit-SearchPath-12: SCRIPT12.po\n"
-"X-Poedit-SearchPath-13: SCRIPT13.po\n"
-"X-Poedit-SearchPath-14: SCRIPT14.po\n"
-"X-Poedit-SearchPath-15: SCRIPT15.po\n"
-"X-Poedit-SearchPath-16: SCRIPT16.po\n"
-"X-Poedit-SearchPath-17: SCRIPT17.po\n"
-"X-Poedit-SearchPath-18: SCRIPT18.po\n"
-"X-Poedit-SearchPath-19: SCRIPT19.po\n"
-"X-Poedit-SearchPath-20: SCRIPT20.po\n"
-"X-Poedit-SearchPath-21: SCRIPT21.po\n"
-"X-Poedit-SearchPath-22: SCRIPT22.po\n"
-"X-Poedit-SearchPath-23: SCRIPT23.po\n"
-"X-Poedit-SearchPath-24: SCRIPT24.po\n"
-"X-Poedit-SearchPath-25: SCRIPT25.po\n"
-"X-Poedit-SearchPath-26: SCRIPT26.po\n"
-"X-Poedit-SearchPath-27: SCRIPT27.po\n"
-"X-Poedit-SearchPath-28: SCRIPT28.po\n"
-"X-Poedit-SearchPath-29: SCRIPT29.po\n"
-"X-Poedit-SearchPath-30: SCRIPT30.po\n"
-"X-Poedit-SearchPath-31: SCRIPT31.po\n"
-"X-Poedit-SearchPath-32: SCRIPT32.po\n"
-"X-Poedit-SearchPath-33: SCRIPT33.po\n"
-"X-Poedit-SearchPath-34: SCRIPT34.po\n"
-"X-Poedit-SearchPath-35: SCRIPT35.po\n"
-"X-Poedit-SearchPath-36: SCRIPT36.po\n"
-"X-Poedit-SearchPath-37: SCRIPT37.po\n"
-"X-Poedit-SearchPath-38: SCRIPT38.po\n"
-"X-Poedit-SearchPath-39: SCRIPT39.po\n"
-"X-Poedit-SearchPath-40: SCRIPT40.po\n"
-"X-Poedit-SearchPath-41: SCRIPT41.po\n"
-"X-Poedit-SearchPath-42: SCRIPT42.po\n"
-"X-Poedit-SearchPath-43: SCRIPT43.po\n"
-"X-Poedit-SearchPath-44: SCRIPT44.po\n"
-"X-Poedit-SearchPath-45: SCRIPT45.po\n"
-"X-Poedit-SearchPath-46: SCRIPT46.po\n"
-"X-Poedit-SearchPath-47: SCRIPT47.po\n"
-"X-Poedit-SearchPath-48: SCRIPT48.po\n"
-"X-Poedit-SearchPath-49: SCRIPT49.po\n"
-"X-Poedit-SearchPath-50: SCRIPT50.po\n"
-"X-Poedit-SearchPath-51: SCRIPT51.po\n"
-"X-Poedit-SearchPath-52: SCRIPT52.po\n"
-"X-Poedit-SearchPath-53: SCRIPT53.po\n"
-"X-Poedit-SearchPath-54: SCRIPT54.po\n"
-"X-Poedit-SearchPath-55: SCRIPT55.po\n"
-"X-Poedit-SearchPath-56: SCRIPT56.po\n"
-"X-Poedit-SearchPath-57: SCRIPT57.po\n"
-"X-Poedit-SearchPath-58: SCRIPT58.po\n"
-"X-Poedit-SearchPath-59: SCRIPT59.po\n"
-"X-Poedit-SearchPath-60: SCRIPT60.po\n"
-"X-Poedit-SearchPath-61: SCRIPT61.po\n"
-"X-Poedit-SearchPath-62: SCRIPT62.po\n"
-"X-Poedit-SearchPath-63: SCRIPT63.po\n"
-"X-Poedit-SearchPath-64: SCRIPT64.po\n"
-"X-Poedit-SearchPath-65: SCRIPT65.po\n"
-"X-Poedit-SearchPath-66: SCRIPT66.po\n"
-"X-Poedit-SearchPath-67: SCRIPT67.po\n"
-"X-Poedit-SearchPath-68: SCRIPT68.po\n"
-"X-Poedit-SearchPath-69: SCRIPT69.po\n"
-"X-Poedit-SearchPath-70: SCRIPT70.po\n"
-"X-Poedit-SearchPath-71: SCRIPT71.po\n"
-"X-Poedit-SearchPath-72: SCRIPT72.po\n"
-"X-Poedit-SearchPath-73: SCRIPT73.po\n"
-"X-Poedit-SearchPath-74: SCRIPT74.po\n"
-"X-Poedit-SearchPath-75: SCRIPT75.po\n"
-"X-Poedit-SearchPath-76: SCRIPT76.po\n"
-"X-Poedit-SearchPath-77: SCRIPT77.po\n"
-"X-Poedit-SearchPath-78: SCRIPT78.po\n"
-"X-Poedit-SearchPath-79: SCRIPT79.po\n"
-"X-Poedit-SearchPath-80: SCRIPT80.po\n"
-"X-Poedit-SearchPath-81: SCRIPT81.po\n"
-"X-Poedit-SearchPath-82: SCRIPT82.po\n"
-"X-Poedit-SearchPath-83: SCRIPT83.po\n"
-"X-Poedit-SearchPath-84: SCRIPT84.po\n"
-"X-Poedit-SearchPath-85: SCRIPT85.po\n"
-"X-Poedit-SearchPath-86: SCRIPT86.po\n"
-"X-Poedit-SearchPath-87: SCRIPT87.po\n"
-"X-Poedit-SearchPath-88: SCRIPT88.po\n"
-"X-Poedit-SearchPath-89: SCRIPT89.po\n"
-"X-Poedit-SearchPath-90: SCRIPT90.po\n"
-"X-Poedit-SearchPath-91: SCRIPT91.po\n"
-"X-Poedit-SearchPath-92: SCRIPT92.po\n"
-"X-Poedit-SearchPath-93: SCRIPT93.po\n"
 
-msgctxt "0"
+#, ignore-same
+msgctxt "SCRIPT92: 0"
 msgid ""
 "SCRIPT1\n"
 "0"
@@ -117,7 +21,8 @@ msgstr ""
 "SCRIPT1\n"
 "0"
 
-msgctxt "1"
+#, ignore-same
+msgctxt "SCRIPT92: 1"
 msgid ""
 "時間待ち:60\n"
 "CLOSE"
@@ -125,7 +30,8 @@ msgstr ""
 "時間待ち:60\n"
 "CLOSE"
 
-msgctxt "2"
+#, ignore-same
+msgctxt "SCRIPT92: 2"
 msgid ""
 "ＳＥ:CORP2-SE133.wav\n"
 "ON\n"
@@ -135,7 +41,8 @@ msgstr ""
 "ON\n"
 "ON"
 
-msgctxt "3"
+#, ignore-same
+msgctxt "SCRIPT92: 3"
 msgid ""
 "時間待ち:270\n"
 "CLOSE"
@@ -143,7 +50,8 @@ msgstr ""
 "時間待ち:270\n"
 "CLOSE"
 
-msgctxt "4"
+#, ignore-same
+msgctxt "SCRIPT92: 4"
 msgid ""
 "ＳＥ:CORP2-SE133.wav\n"
 "OFF\n"
@@ -153,7 +61,8 @@ msgstr ""
 "OFF\n"
 "ON"
 
-msgctxt "5"
+#, ignore-same
+msgctxt "SCRIPT92: 5"
 msgid ""
 "フェード:イン\n"
 "9\n"
@@ -163,7 +72,8 @@ msgstr ""
 "9\n"
 "白"
 
-msgctxt "6"
+#, ignore-same
+msgctxt "SCRIPT92: 6"
 msgid ""
 "ＳＥ:CORP2-SE135.wav\n"
 "ON\n"
@@ -173,7 +83,8 @@ msgstr ""
 "ON\n"
 "OFF"
 
-msgctxt "7"
+#, ignore-same
+msgctxt "SCRIPT92: 7"
 msgid ""
 "環境音:CORP2-SE109-KNKYO.wav\n"
 "ON\n"
@@ -185,7 +96,8 @@ msgstr ""
 "ON\n"
 "140"
 
-msgctxt "8"
+#, ignore-same
+msgctxt "SCRIPT92: 8"
 msgid ""
 "時間待ち:130\n"
 "CLOSE"
@@ -193,7 +105,8 @@ msgstr ""
 "時間待ち:130\n"
 "CLOSE"
 
-msgctxt "9"
+#, ignore-same
+msgctxt "SCRIPT92: 9"
 msgid ""
 "ＳＥ:CORP2-SE134.wav\n"
 "ON\n"
@@ -203,7 +116,8 @@ msgstr ""
 "ON\n"
 "OFF"
 
-msgctxt "10"
+#, ignore-same
+msgctxt "SCRIPT92: 10"
 msgid ""
 "時間待ち:110\n"
 "CLOSE"
@@ -211,7 +125,8 @@ msgstr ""
 "時間待ち:110\n"
 "CLOSE"
 
-msgctxt "11"
+#, ignore-same
+msgctxt "SCRIPT92: 11"
 msgid ""
 "モノローグ:薄暗い部屋の中、コン……とメール受信音が響く。\n"
 "\n"
@@ -223,7 +138,8 @@ msgstr ""
 "\n"
 "なし"
 
-msgctxt "12"
+#, ignore-same
+msgctxt "SCRIPT92: 12"
 msgid ""
 "モノローグ:キーボードを打っていた人物がメールボックスを開くと、\n"
 "ずらりと受信したメールが並ぶ。件名は全て、\n"
@@ -235,7 +151,8 @@ msgstr ""
 "\"Mensaje del más allá del detective paranormal *****: Formulario de consulta\".\n"
 "なし"
 
-msgctxt "13"
+#, ignore-same
+msgctxt "SCRIPT92: 13"
 msgid ""
 "ＳＥ:CORP2-SE136.wav\n"
 "ON\n"
@@ -245,7 +162,8 @@ msgstr ""
 "ON\n"
 "OFF"
 
-msgctxt "14"
+#, ignore-same
+msgctxt "SCRIPT92: 14"
 msgid ""
 "イベント画像表示:eventcg_01.tga\n"
 "60\n"
@@ -259,7 +177,8 @@ msgstr ""
 "0\n"
 "SS"
 
-msgctxt "15"
+#, ignore-same
+msgctxt "SCRIPT92: 15"
 msgid ""
 "時間待ち:200\n"
 "CLOSE"
@@ -267,7 +186,8 @@ msgstr ""
 "時間待ち:200\n"
 "CLOSE"
 
-msgctxt "16"
+#, ignore-same
+msgctxt "SCRIPT92: 16"
 msgid ""
 "モノローグ:黒髪短髪の男性はふうとため息をつき、部屋の隅を振り返る。\n"
 "\n"
@@ -279,7 +199,8 @@ msgstr ""
 "\n"
 "なし"
 
-msgctxt "17"
+#, ignore-same
+msgctxt "SCRIPT92: 17"
 msgid ""
 "文字表示:沢山来てるぜ、どうしようかこれ……？\n"
 " \n"
@@ -293,7 +214,8 @@ msgstr ""
 "なし\n"
 "100"
 
-msgctxt "18"
+#, ignore-same
+msgctxt "SCRIPT92: 18"
 msgid ""
 "時間待ち:40\n"
 "CLOSE"
@@ -301,11 +223,13 @@ msgstr ""
 "時間待ち:40\n"
 "CLOSE"
 
-msgctxt "19"
+#, ignore-same
+msgctxt "SCRIPT92: 19"
 msgid "イベント画像非表示:"
 msgstr "イベント画像非表示:"
 
-msgctxt "20"
+#, ignore-same
+msgctxt "SCRIPT92: 20"
 msgid ""
 "時間待ち:30\n"
 "CLOSE"
@@ -313,7 +237,8 @@ msgstr ""
 "時間待ち:30\n"
 "CLOSE"
 
-msgctxt "21"
+#, ignore-same
+msgctxt "SCRIPT92: 21"
 msgid ""
 "モノローグ:困ったように、しかし気遣うような優しいトーンで、男性は話しかける。\n"
 "\n"
@@ -325,7 +250,8 @@ msgstr ""
 "\n"
 "なし"
 
-msgctxt "22"
+#, ignore-same
+msgctxt "SCRIPT92: 22"
 msgid ""
 "時間待ち:20\n"
 "CLOSE"
@@ -333,7 +259,8 @@ msgstr ""
 "時間待ち:20\n"
 "CLOSE"
 
-msgctxt "23"
+#, ignore-same
+msgctxt "SCRIPT92: 23"
 msgid ""
 "イベント画像表示:eventcg_02.tga\n"
 "60\n"
@@ -347,7 +274,8 @@ msgstr ""
 "0\n"
 "SS"
 
-msgctxt "24"
+#, ignore-same
+msgctxt "SCRIPT92: 24"
 msgid ""
 "時間待ち:200\n"
 "CLOSE"
@@ -355,25 +283,26 @@ msgstr ""
 "時間待ち:200\n"
 "CLOSE"
 
-msgctxt "25"
+#, ignore-same
+msgctxt "SCRIPT92: 25"
 msgid ""
 "モノローグ:部屋の隅には、窓から差す光に照らされて、椅子に座り\n"
 "身じろぎもしない女性がいる。白いカーディガンに、目の焦点も合っていない彼女に\n"
 "意思の力は感じない。日の光のなかで植物のようだった。\n"
 "なし"
 msgstr ""
-"モノローグ:En un rincón de la sala hay una joven, quieta y en silencio, iluminada "
-"por la luz que entra a través de la ventana.\n"
-"Lleva puesta una rebeca blanca y sus ojos se muestran ausentes, con una "
-"mirada que no evoca ningun tipo de pensamiento.\n"
+"モノローグ:En un rincón de la sala hay una joven, quieta y en silencio, iluminada por la luz que entra a través de la ventana.\n"
+"Lleva puesta una rebeca blanca y sus ojos se muestran ausentes, con una mirada que no evoca ningun tipo de pensamiento.\n"
 "A la luz del día aparece mustia como una planta.\n"
 "なし"
 
-msgctxt "26"
+#, ignore-same
+msgctxt "SCRIPT92: 26"
 msgid "イベント画像非表示:"
 msgstr "イベント画像非表示:"
 
-msgctxt "27"
+#, ignore-same
+msgctxt "SCRIPT92: 27"
 msgid ""
 "時間待ち:60\n"
 "CLOSE"
@@ -381,7 +310,8 @@ msgstr ""
 "時間待ち:60\n"
 "CLOSE"
 
-msgctxt "28"
+#, ignore-same
+msgctxt "SCRIPT92: 28"
 msgid ""
 "文字表示:……さ、窓閉めようか。　　　　　　　　　　　　　　\n"
 "風邪引くぞ、篠崎――。\n"
@@ -395,7 +325,8 @@ msgstr ""
 "なし\n"
 "100"
 
-msgctxt "29"
+#, ignore-same
+msgctxt "SCRIPT92: 29"
 msgid ""
 "時間待ち:5\n"
 "CLOSE"
@@ -403,7 +334,8 @@ msgstr ""
 "時間待ち:5\n"
 "CLOSE"
 
-msgctxt "30"
+#, ignore-same
+msgctxt "SCRIPT92: 30"
 msgid ""
 "環境音:c01_07_man_a_003.wav\n"
 "OFF\n"
@@ -415,7 +347,8 @@ msgstr ""
 "ON\n"
 "140"
 
-msgctxt "31"
+#, ignore-same
+msgctxt "SCRIPT92: 31"
 msgid ""
 "時間待ち:130\n"
 "CLOSE"
@@ -423,7 +356,8 @@ msgstr ""
 "時間待ち:130\n"
 "CLOSE"
 
-msgctxt "32"
+#, ignore-same
+msgctxt "SCRIPT92: 32"
 msgid ""
 "フェード:アウト\n"
 "30\n"
@@ -433,7 +367,8 @@ msgstr ""
 "30\n"
 "黒"
 
-msgctxt "33"
+#, ignore-same
+msgctxt "SCRIPT92: 33"
 msgid ""
 "場所移動:#01手術室(カットシーン）\n"
 "20\n"
@@ -455,15 +390,18 @@ msgstr ""
 "なし\n"
 "off"
 
-msgctxt "34"
+#, ignore-same
+msgctxt "SCRIPT92: 34"
 msgid "●"
 msgstr "●"
 
-msgctxt "35"
+#, ignore-same
+msgctxt "SCRIPT92: 35"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "36"
+#, ignore-same
+msgctxt "SCRIPT92: 36"
 msgid ""
 "SCRIPT2\n"
 "0"
@@ -471,7 +409,8 @@ msgstr ""
 "SCRIPT2\n"
 "0"
 
-msgctxt "37"
+#, ignore-same
+msgctxt "SCRIPT92: 37"
 msgid ""
 "文字表示:テスト\n"
 " \n"
@@ -485,7 +424,8 @@ msgstr ""
 "なし\n"
 "100"
 
-msgctxt "38"
+#, ignore-same
+msgctxt "SCRIPT92: 38"
 msgid ""
 "イベントコピー:-1\n"
 "-1\n"
@@ -497,15 +437,18 @@ msgstr ""
 "イベントテンポラリ\n"
 "deadPatient01"
 
-msgctxt "39"
+#, ignore-same
+msgctxt "SCRIPT92: 39"
 msgid "●"
 msgstr "●"
 
-msgctxt "40"
+#, ignore-same
+msgctxt "SCRIPT92: 40"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "41"
+#, ignore-same
+msgctxt "SCRIPT92: 41"
 msgid ""
 "SCRIPT3\n"
 "0"
@@ -513,8 +456,8 @@ msgstr ""
 "SCRIPT3\n"
 "0"
 
-#, fuzzy
-msgctxt "42"
+#, ignore-same
+msgctxt "SCRIPT92: 42"
 msgid ""
 "アイテム取得:松葉杖\n"
 "ON"
@@ -522,15 +465,18 @@ msgstr ""
 "Objeto obtenido: Muletas\n"
 "ON"
 
-msgctxt "43"
+#, ignore-same
+msgctxt "SCRIPT92: 43"
 msgid "●"
 msgstr "●"
 
-msgctxt "44"
+#, ignore-same
+msgctxt "SCRIPT92: 44"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "45"
+#, ignore-same
+msgctxt "SCRIPT92: 45"
 msgid ""
 "SCRIPT4\n"
 "0"
@@ -538,7 +484,8 @@ msgstr ""
 "SCRIPT4\n"
 "0"
 
-msgctxt "46"
+#, ignore-same
+msgctxt "SCRIPT92: 46"
 msgid ""
 "場所移動:■薬剤室受付\n"
 "7\n"
@@ -560,15 +507,18 @@ msgstr ""
 "なし\n"
 "on"
 
-msgctxt "47"
+#, ignore-same
+msgctxt "SCRIPT92: 47"
 msgid "●"
 msgstr "●"
 
-msgctxt "48"
+#, ignore-same
+msgctxt "SCRIPT92: 48"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "49"
+#, ignore-same
+msgctxt "SCRIPT92: 49"
 msgid ""
 "SCRIPT5\n"
 "0"
@@ -576,8 +526,8 @@ msgstr ""
 "SCRIPT5\n"
 "0"
 
-#, fuzzy
-msgctxt "50"
+#, ignore-same
+msgctxt "SCRIPT92: 50"
 msgid ""
 "アイテム取得:懐中電灯\n"
 "ON"
@@ -585,15 +535,18 @@ msgstr ""
 "Objeto obtenido: Linterna\n"
 "ON"
 
-msgctxt "51"
+#, ignore-same
+msgctxt "SCRIPT92: 51"
 msgid "●"
 msgstr "●"
 
-msgctxt "52"
+#, ignore-same
+msgctxt "SCRIPT92: 52"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "53"
+#, ignore-same
+msgctxt "SCRIPT92: 53"
 msgid ""
 "SCRIPT6\n"
 "0"
@@ -601,19 +554,23 @@ msgstr ""
 "SCRIPT6\n"
 "0"
 
-msgctxt "54"
+#, ignore-same
+msgctxt "SCRIPT92: 54"
 msgid "ロッカー処理:"
 msgstr "ロッカー処理:"
 
-msgctxt "55"
+#, ignore-same
+msgctxt "SCRIPT92: 55"
 msgid "●"
 msgstr "●"
 
-msgctxt "56"
+#, ignore-same
+msgctxt "SCRIPT92: 56"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "57"
+#, ignore-same
+msgctxt "SCRIPT92: 57"
 msgid ""
 "SCRIPT7\n"
 "0"
@@ -621,15 +578,18 @@ msgstr ""
 "SCRIPT7\n"
 "0"
 
-msgctxt "58"
+#, ignore-same
+msgctxt "SCRIPT92: 58"
 msgid "●"
 msgstr "●"
 
-msgctxt "59"
+#, ignore-same
+msgctxt "SCRIPT92: 59"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "60"
+#, ignore-same
+msgctxt "SCRIPT92: 60"
 msgid ""
 "SCRIPT8\n"
 "0"
@@ -637,15 +597,18 @@ msgstr ""
 "SCRIPT8\n"
 "0"
 
-msgctxt "61"
+#, ignore-same
+msgctxt "SCRIPT92: 61"
 msgid "●"
 msgstr "●"
 
-msgctxt "62"
+#, ignore-same
+msgctxt "SCRIPT92: 62"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "63"
+#, ignore-same
+msgctxt "SCRIPT92: 63"
 msgid ""
 "SCRIPT9\n"
 "0"
@@ -653,15 +616,18 @@ msgstr ""
 "SCRIPT9\n"
 "0"
 
-msgctxt "64"
+#, ignore-same
+msgctxt "SCRIPT92: 64"
 msgid "●"
 msgstr "●"
 
-msgctxt "65"
+#, ignore-same
+msgctxt "SCRIPT92: 65"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "66"
+#, ignore-same
+msgctxt "SCRIPT92: 66"
 msgid ""
 "SCRIPT10\n"
 "0"
@@ -669,15 +635,18 @@ msgstr ""
 "SCRIPT10\n"
 "0"
 
-msgctxt "67"
+#, ignore-same
+msgctxt "SCRIPT92: 67"
 msgid "●"
 msgstr "●"
 
-msgctxt "68"
+#, ignore-same
+msgctxt "SCRIPT92: 68"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "69"
+#, ignore-same
+msgctxt "SCRIPT92: 69"
 msgid ""
 "SCRIPT11\n"
 "0"
@@ -685,15 +654,18 @@ msgstr ""
 "SCRIPT11\n"
 "0"
 
-msgctxt "70"
+#, ignore-same
+msgctxt "SCRIPT92: 70"
 msgid "●"
 msgstr "●"
 
-msgctxt "71"
+#, ignore-same
+msgctxt "SCRIPT92: 71"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "72"
+#, ignore-same
+msgctxt "SCRIPT92: 72"
 msgid ""
 "SCRIPT12\n"
 "0"
@@ -701,15 +673,18 @@ msgstr ""
 "SCRIPT12\n"
 "0"
 
-msgctxt "73"
+#, ignore-same
+msgctxt "SCRIPT92: 73"
 msgid "●"
 msgstr "●"
 
-msgctxt "74"
+#, ignore-same
+msgctxt "SCRIPT92: 74"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "75"
+#, ignore-same
+msgctxt "SCRIPT92: 75"
 msgid ""
 "SCRIPT13\n"
 "0"
@@ -717,15 +692,18 @@ msgstr ""
 "SCRIPT13\n"
 "0"
 
-msgctxt "76"
+#, ignore-same
+msgctxt "SCRIPT92: 76"
 msgid "●"
 msgstr "●"
 
-msgctxt "77"
+#, ignore-same
+msgctxt "SCRIPT92: 77"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "78"
+#, ignore-same
+msgctxt "SCRIPT92: 78"
 msgid ""
 "SCRIPT14\n"
 "0"
@@ -733,15 +711,18 @@ msgstr ""
 "SCRIPT14\n"
 "0"
 
-msgctxt "79"
+#, ignore-same
+msgctxt "SCRIPT92: 79"
 msgid "●"
 msgstr "●"
 
-msgctxt "80"
+#, ignore-same
+msgctxt "SCRIPT92: 80"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "81"
+#, ignore-same
+msgctxt "SCRIPT92: 81"
 msgid ""
 "SCRIPT15\n"
 "0"
@@ -749,15 +730,18 @@ msgstr ""
 "SCRIPT15\n"
 "0"
 
-msgctxt "82"
+#, ignore-same
+msgctxt "SCRIPT92: 82"
 msgid "●"
 msgstr "●"
 
-msgctxt "83"
+#, ignore-same
+msgctxt "SCRIPT92: 83"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "84"
+#, ignore-same
+msgctxt "SCRIPT92: 84"
 msgid ""
 "SCRIPT16\n"
 "0"
@@ -765,15 +749,18 @@ msgstr ""
 "SCRIPT16\n"
 "0"
 
-msgctxt "85"
+#, ignore-same
+msgctxt "SCRIPT92: 85"
 msgid "●"
 msgstr "●"
 
-msgctxt "86"
+#, ignore-same
+msgctxt "SCRIPT92: 86"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "87"
+#, ignore-same
+msgctxt "SCRIPT92: 87"
 msgid ""
 "SCRIPT17\n"
 "0"
@@ -781,7 +768,8 @@ msgstr ""
 "SCRIPT17\n"
 "0"
 
-msgctxt "88"
+#, ignore-same
+msgctxt "SCRIPT92: 88"
 msgid ""
 "フラグ:80:託児室照明左上\n"
 "ON\n"
@@ -793,7 +781,8 @@ msgstr ""
 "0\n"
 "OFF"
 
-msgctxt "89"
+#, ignore-same
+msgctxt "SCRIPT92: 89"
 msgid ""
 "ＳＥ:CORP2-SE021.wav\n"
 "ON\n"
@@ -803,15 +792,18 @@ msgstr ""
 "ON\n"
 "OFF"
 
-msgctxt "90"
+#, ignore-same
+msgctxt "SCRIPT92: 90"
 msgid "●"
 msgstr "●"
 
-msgctxt "91"
+#, ignore-same
+msgctxt "SCRIPT92: 91"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "92"
+#, ignore-same
+msgctxt "SCRIPT92: 92"
 msgid ""
 "SCRIPT18\n"
 "0"
@@ -819,7 +811,8 @@ msgstr ""
 "SCRIPT18\n"
 "0"
 
-msgctxt "93"
+#, ignore-same
+msgctxt "SCRIPT92: 93"
 msgid ""
 "フラグ:82:託児室照明左下\n"
 "ON\n"
@@ -831,7 +824,8 @@ msgstr ""
 "0\n"
 "OFF"
 
-msgctxt "94"
+#, ignore-same
+msgctxt "SCRIPT92: 94"
 msgid ""
 "ＳＥ:CORP2-SE021.wav\n"
 "ON\n"
@@ -841,15 +835,18 @@ msgstr ""
 "ON\n"
 "OFF"
 
-msgctxt "95"
+#, ignore-same
+msgctxt "SCRIPT92: 95"
 msgid "●"
 msgstr "●"
 
-msgctxt "96"
+#, ignore-same
+msgctxt "SCRIPT92: 96"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "97"
+#, ignore-same
+msgctxt "SCRIPT92: 97"
 msgid ""
 "SCRIPT19\n"
 "0"
@@ -857,7 +854,8 @@ msgstr ""
 "SCRIPT19\n"
 "0"
 
-msgctxt "98"
+#, ignore-same
+msgctxt "SCRIPT92: 98"
 msgid ""
 "フラグ:81:託児室照明右上\n"
 "ON\n"
@@ -869,7 +867,8 @@ msgstr ""
 "0\n"
 "OFF"
 
-msgctxt "99"
+#, ignore-same
+msgctxt "SCRIPT92: 99"
 msgid ""
 "ＳＥ:CORP2-SE021.wav\n"
 "ON\n"
@@ -879,15 +878,18 @@ msgstr ""
 "ON\n"
 "OFF"
 
-msgctxt "100"
+#, ignore-same
+msgctxt "SCRIPT92: 100"
 msgid "●"
 msgstr "●"
 
-msgctxt "101"
+#, ignore-same
+msgctxt "SCRIPT92: 101"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "102"
+#, ignore-same
+msgctxt "SCRIPT92: 102"
 msgid ""
 "SCRIPT20\n"
 "0"
@@ -895,7 +897,8 @@ msgstr ""
 "SCRIPT20\n"
 "0"
 
-msgctxt "103"
+#, ignore-same
+msgctxt "SCRIPT92: 103"
 msgid ""
 "フラグ:83:託児室照明右下\n"
 "ON\n"
@@ -907,7 +910,8 @@ msgstr ""
 "0\n"
 "OFF"
 
-msgctxt "104"
+#, ignore-same
+msgctxt "SCRIPT92: 104"
 msgid ""
 "ＳＥ:CORP2-SE021.wav\n"
 "ON\n"
@@ -917,16 +921,18 @@ msgstr ""
 "ON\n"
 "OFF"
 
-msgctxt "105"
+#, ignore-same
+msgctxt "SCRIPT92: 105"
 msgid "●"
 msgstr "●"
 
-#, fuzzy
-msgctxt "106"
+#, ignore-same
+msgctxt "SCRIPT92: 106"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "107"
+#, ignore-same
+msgctxt "SCRIPT92: 107"
 msgid ""
 "SCRIPT21\n"
 "0"
@@ -934,7 +940,8 @@ msgstr ""
 "SCRIPT21\n"
 "0"
 
-msgctxt "108"
+#, ignore-same
+msgctxt "SCRIPT92: 108"
 msgid ""
 "文字表示:テスト\n"
 " \n"
@@ -948,15 +955,18 @@ msgstr ""
 "なし\n"
 "100"
 
-msgctxt "109"
+#, ignore-same
+msgctxt "SCRIPT92: 109"
 msgid "●"
 msgstr "●"
 
-msgctxt "110"
+#, ignore-same
+msgctxt "SCRIPT92: 110"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "111"
+#, ignore-same
+msgctxt "SCRIPT92: 111"
 msgid ""
 "SCRIPT22\n"
 "0"
@@ -964,8 +974,8 @@ msgstr ""
 "SCRIPT22\n"
 "0"
 
-#, fuzzy
-msgctxt "112"
+#, ignore-same
+msgctxt "SCRIPT92: 112"
 msgid ""
 "アイテム取得:ガラガラ\n"
 "ON"
@@ -973,15 +983,17 @@ msgstr ""
 "アイテム取得:ガラガラ\n"
 "ON"
 
-msgctxt "113"
+#, ignore-same
+msgctxt "SCRIPT92: 113"
 msgid "イベント削除:"
 msgstr "イベント削除:"
 
-msgctxt "114"
+#, ignore-same
+msgctxt "SCRIPT92: 114"
 msgid "●"
 msgstr "●"
 
-#, fuzzy
-msgctxt "115"
+#, ignore-same
+msgctxt "SCRIPT92: 115"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"

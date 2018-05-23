@@ -5,16 +5,15 @@ msgstr ""
 "POT-Creation-Date: 21/05/2018\n"
 "PO-Revision-Date: 2018-05-23 15:31+0000\n"
 "Last-Translator: Van_Kaiji <alejandro.sh94@gmail.com>\n"
-"Language-Team: Spanish <http://54.37.11.10/projects/corpse-party-2/script83/"
-"es/>\n"
+"Language-Team: Spanish <http://54.37.11.10/projects/corpse-party-2/script83/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.20\n"
 
-msgctxt "0"
+#, ignore-same
+msgctxt "SCRIPT83: 0"
 msgid ""
 "SCRIPT1\n"
 "0"
@@ -22,7 +21,8 @@ msgstr ""
 "SCRIPT1\n"
 "0"
 
-msgctxt "1"
+#, ignore-same
+msgctxt "SCRIPT83: 1"
 msgid ""
 "場所移動:■廊下２F\n"
 "16\n"
@@ -34,21 +34,25 @@ msgid ""
 "なし"
 msgstr ""
 
-msgctxt "2"
+#, ignore-same
+msgctxt "SCRIPT83: 2"
 msgid "●"
 msgstr ""
 
-msgctxt "3"
+#, ignore-same
+msgctxt "SCRIPT83: 3"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "4"
+#, ignore-same
+msgctxt "SCRIPT83: 4"
 msgid ""
 "SCRIPT1\n"
 "1"
 msgstr ""
 
-msgctxt "5"
+#, ignore-same
+msgctxt "SCRIPT83: 5"
 msgid ""
 "場所移動:■廊下２F（暗）\n"
 "16\n"
@@ -61,21 +65,25 @@ msgid ""
 "on"
 msgstr ""
 
-msgctxt "6"
+#, ignore-same
+msgctxt "SCRIPT83: 6"
 msgid "●"
 msgstr ""
 
-msgctxt "7"
+#, ignore-same
+msgctxt "SCRIPT83: 7"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "8"
+#, ignore-same
+msgctxt "SCRIPT83: 8"
 msgid ""
 "SCRIPT2\n"
 "0"
 msgstr ""
 
-msgctxt "9"
+#, ignore-same
+msgctxt "SCRIPT83: 9"
 msgid ""
 "場所移動:■廊下１Ｆ\n"
 "15\n"
@@ -87,21 +95,25 @@ msgid ""
 "なし"
 msgstr ""
 
-msgctxt "10"
+#, ignore-same
+msgctxt "SCRIPT83: 10"
 msgid "●"
 msgstr "●"
 
-msgctxt "11"
+#, ignore-same
+msgctxt "SCRIPT83: 11"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "12"
+#, ignore-same
+msgctxt "SCRIPT83: 12"
 msgid ""
 "SCRIPT2\n"
 "1"
 msgstr ""
 
-msgctxt "13"
+#, ignore-same
+msgctxt "SCRIPT83: 13"
 msgid ""
 "場所移動:■廊下１Ｆ（暗）\n"
 "15\n"
@@ -114,33 +126,40 @@ msgid ""
 "on"
 msgstr ""
 
-msgctxt "14"
+#, ignore-same
+msgctxt "SCRIPT83: 14"
 msgid "●"
 msgstr ""
 
-msgctxt "15"
+#, ignore-same
+msgctxt "SCRIPT83: 15"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "16"
+#, ignore-same
+msgctxt "SCRIPT83: 16"
 msgid ""
 "SCRIPT3\n"
 "0"
 msgstr ""
 
-msgctxt "17"
+#, ignore-same
+msgctxt "SCRIPT83: 17"
 msgid "南階段前で、階段エリアへ入ってゆく老人を見つける。目覚めてから初めて見かけた人影に、"
 msgstr ""
 
-msgctxt "18"
+#, ignore-same
+msgctxt "SCRIPT83: 18"
 msgid "あやめはあわてて近寄る。階段に入ると、老人が階下に入って行くのが見えた。"
 msgstr ""
 
-msgctxt "19"
+#, ignore-same
+msgctxt "SCRIPT83: 19"
 msgid "階段を下りると【お経のような声（霊接近BGM）】が聞こえ始め、線香の匂いが鼻をかすめる。"
 msgstr ""
 
-msgctxt "20"
+#, ignore-same
+msgctxt "SCRIPT83: 20"
 msgid ""
 "カメラ移動:0\n"
 "0a13\n"
@@ -149,7 +168,8 @@ msgid ""
 "ON"
 msgstr ""
 
-msgctxt "21"
+#, ignore-same
+msgctxt "SCRIPT83: 21"
 msgid ""
 "ＢＧＭ音量:ON\n"
 "100\n"
@@ -157,14 +177,16 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "22"
+#, ignore-same
+msgctxt "SCRIPT83: 22"
 msgid ""
 "ＳＥ:CORP2-SE035.wav\n"
 "ON\n"
 "OFF"
 msgstr ""
 
-msgctxt "23"
+#, ignore-same
+msgctxt "SCRIPT83: 23"
 msgid ""
 "グラフィック変更:4\n"
 "oldman_normal\n"
@@ -179,7 +201,8 @@ msgid ""
 "1"
 msgstr ""
 
-msgctxt "24"
+#, ignore-same
+msgctxt "SCRIPT83: 24"
 msgid ""
 "イベント移動:4\n"
 "0b0d0b14\n"
@@ -188,7 +211,8 @@ msgid ""
 "ON"
 msgstr ""
 
-msgctxt "25"
+#, ignore-same
+msgctxt "SCRIPT83: 25"
 msgid ""
 "グラフィック変更:4\n"
 "なし\n"
@@ -203,13 +227,15 @@ msgid ""
 "0"
 msgstr ""
 
-msgctxt "26"
+#, ignore-same
+msgctxt "SCRIPT83: 26"
 msgid ""
 "時間待ち:90\n"
 "CLOSE"
 msgstr ""
 
-msgctxt "27"
+#, ignore-same
+msgctxt "SCRIPT83: 27"
 msgid ""
 "イベント移動:0\n"
 "0e13\n"
@@ -218,18 +244,21 @@ msgid ""
 "ON"
 msgstr ""
 
-msgctxt "28"
+#, ignore-same
+msgctxt "SCRIPT83: 28"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "29"
+#, ignore-same
+msgctxt "SCRIPT83: 29"
 msgid ""
 "バストショット:bs_ayame_a01_a02.tga\n"
 "左\n"
 "OFF"
 msgstr ""
 
-msgctxt "30"
+#, ignore-same
+msgctxt "SCRIPT83: 30"
 msgid ""
 "文字表示:あやめ:……？　お線香の香りがする……\n"
 "\n"
@@ -243,62 +272,74 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "31"
+#, ignore-same
+msgctxt "SCRIPT83: 31"
 msgid ""
 "バストショット:なし\n"
 "左\n"
 "OFF"
 msgstr ""
 
-msgctxt "32"
+#, ignore-same
+msgctxt "SCRIPT83: 32"
 msgid ""
 "フラグ:6:\n"
 "ON"
 msgstr ""
 
-msgctxt "33"
+#, ignore-same
+msgctxt "SCRIPT83: 33"
 msgid "●"
 msgstr ""
 
-msgctxt "34"
+#, ignore-same
+msgctxt "SCRIPT83: 34"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "35"
+#, ignore-same
+msgctxt "SCRIPT83: 35"
 msgid ""
 "SCRIPT3\n"
 "1"
 msgstr ""
 
-msgctxt "36"
+#, ignore-same
+msgctxt "SCRIPT83: 36"
 msgid "●"
 msgstr ""
 
-msgctxt "37"
+#, ignore-same
+msgctxt "SCRIPT83: 37"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "38"
+#, ignore-same
+msgctxt "SCRIPT83: 38"
 msgid ""
 "SCRIPT4\n"
 "0"
 msgstr ""
 
-msgctxt "39"
+#, ignore-same
+msgctxt "SCRIPT83: 39"
 msgid "●"
 msgstr "●"
 
-msgctxt "40"
+#, ignore-same
+msgctxt "SCRIPT83: 40"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "41"
+#, ignore-same
+msgctxt "SCRIPT83: 41"
 msgid ""
 "SCRIPT5\n"
 "0"
 msgstr ""
 
-msgctxt "42"
+#, ignore-same
+msgctxt "SCRIPT83: 42"
 msgid ""
 "環境音:CORP2-SE058-KNKYO.wav\n"
 "ON\n"
@@ -306,7 +347,8 @@ msgid ""
 "100"
 msgstr ""
 
-msgctxt "43"
+#, ignore-same
+msgctxt "SCRIPT83: 43"
 msgid ""
 "ＢＧＭ:CORP2-BGM008.wav\n"
 "OFF\n"
@@ -316,100 +358,120 @@ msgid ""
 "100"
 msgstr ""
 
-msgctxt "44"
+#, ignore-same
+msgctxt "SCRIPT83: 44"
 msgid ""
 "ローカルフラグ:0:BGMを鳴らした。\n"
 "ON"
 msgstr ""
 
-msgctxt "45"
+#, ignore-same
+msgctxt "SCRIPT83: 45"
 msgid "●"
 msgstr ""
 
-msgctxt "46"
+#, ignore-same
+msgctxt "SCRIPT83: 46"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "47"
+#, ignore-same
+msgctxt "SCRIPT83: 47"
 msgid ""
 "SCRIPT5\n"
 "1"
 msgstr ""
 
-msgctxt "48"
+#, ignore-same
+msgctxt "SCRIPT83: 48"
 msgid "●"
 msgstr ""
 
-msgctxt "49"
+#, ignore-same
+msgctxt "SCRIPT83: 49"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "50"
+#, ignore-same
+msgctxt "SCRIPT83: 50"
 msgid ""
 "SCRIPT6\n"
 "0"
 msgstr ""
 
-msgctxt "51"
+#, ignore-same
+msgctxt "SCRIPT83: 51"
 msgid "●"
 msgstr "●"
 
-msgctxt "52"
+#, ignore-same
+msgctxt "SCRIPT83: 52"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "53"
+#, ignore-same
+msgctxt "SCRIPT83: 53"
 msgid ""
 "SCRIPT7\n"
 "0"
 msgstr ""
 
-msgctxt "54"
+#, ignore-same
+msgctxt "SCRIPT83: 54"
 msgid "●"
 msgstr ""
 
-msgctxt "55"
+#, ignore-same
+msgctxt "SCRIPT83: 55"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "56"
+#, ignore-same
+msgctxt "SCRIPT83: 56"
 msgid ""
 "SCRIPT8\n"
 "0"
 msgstr ""
 
-msgctxt "57"
+#, ignore-same
+msgctxt "SCRIPT83: 57"
 msgid ""
 "音声再生:VOICE/c01_14/c01_14_bougo_a/c01_14_bougo_a_001.wav\n"
 "0\n"
 "100"
 msgstr ""
 
-msgctxt "58"
+#, ignore-same
+msgctxt "SCRIPT83: 58"
 msgid ""
 "フラグ:132:階段でSWATの声を聞いた\n"
 "ON\n"
 "0"
 msgstr ""
 
-msgctxt "59"
+#, ignore-same
+msgctxt "SCRIPT83: 59"
 msgid "●"
 msgstr ""
 
-msgctxt "60"
+#, ignore-same
+msgctxt "SCRIPT83: 60"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "61"
+#, ignore-same
+msgctxt "SCRIPT83: 61"
 msgid ""
 "SCRIPT8\n"
 "1"
 msgstr ""
 
-msgctxt "62"
+#, ignore-same
+msgctxt "SCRIPT83: 62"
 msgid "●"
 msgstr ""
 
-msgctxt "63"
+#, ignore-same
+msgctxt "SCRIPT83: 63"
 msgid "END_SCRIPT"
 msgstr ""

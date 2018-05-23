@@ -5,16 +5,15 @@ msgstr ""
 "POT-Creation-Date: 21/05/2018\n"
 "PO-Revision-Date: 2018-05-23 10:48+0000\n"
 "Last-Translator: Van_Kaiji <alejandro.sh94@gmail.com>\n"
-"Language-Team: Spanish <http://54.37.11.10/projects/corpse-party-2/script46/"
-"es/>\n"
+"Language-Team: Spanish <http://54.37.11.10/projects/corpse-party-2/script46/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.20\n"
 
-msgctxt "0"
+#, ignore-same
+msgctxt "SCRIPT46: 0"
 msgid ""
 "SCRIPT0\n"
 "0"
@@ -22,15 +21,18 @@ msgstr ""
 "SCRIPT0\n"
 "0"
 
-msgctxt "1"
+#, ignore-same
+msgctxt "SCRIPT46: 1"
 msgid "●"
 msgstr "●"
 
-msgctxt "2"
+#, ignore-same
+msgctxt "SCRIPT46: 2"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "3"
+#, ignore-same
+msgctxt "SCRIPT46: 3"
 msgid ""
 "SCRIPT1\n"
 "0"
@@ -38,15 +40,18 @@ msgstr ""
 "SCRIPT1\n"
 "0"
 
-msgctxt "4"
+#, ignore-same
+msgctxt "SCRIPT46: 4"
 msgid "●"
 msgstr "●"
 
-msgctxt "5"
+#, ignore-same
+msgctxt "SCRIPT46: 5"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "6"
+#, ignore-same
+msgctxt "SCRIPT46: 6"
 msgid ""
 "SCRIPT2\n"
 "0"
@@ -54,15 +59,18 @@ msgstr ""
 "SCRIPT2\n"
 "0"
 
-msgctxt "7"
+#, ignore-same
+msgctxt "SCRIPT46: 7"
 msgid "●"
 msgstr "●"
 
-msgctxt "8"
+#, ignore-same
+msgctxt "SCRIPT46: 8"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "9"
+#, ignore-same
+msgctxt "SCRIPT46: 9"
 msgid ""
 "SCRIPT3\n"
 "0"
@@ -70,15 +78,18 @@ msgstr ""
 "SCRIPT3\n"
 "0"
 
-msgctxt "10"
+#, ignore-same
+msgctxt "SCRIPT46: 10"
 msgid "●"
 msgstr "●"
 
-msgctxt "11"
+#, ignore-same
+msgctxt "SCRIPT46: 11"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "12"
+#, ignore-same
+msgctxt "SCRIPT46: 12"
 msgid ""
 "SCRIPT4\n"
 "0"
@@ -86,15 +97,18 @@ msgstr ""
 "SCRIPT4\n"
 "0"
 
-msgctxt "13"
+#, ignore-same
+msgctxt "SCRIPT46: 13"
 msgid "●"
 msgstr "●"
 
-msgctxt "14"
+#, ignore-same
+msgctxt "SCRIPT46: 14"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "15"
+#, ignore-same
+msgctxt "SCRIPT46: 15"
 msgid ""
 "SCRIPT5\n"
 "0"
@@ -102,15 +116,18 @@ msgstr ""
 "SCRIPT5\n"
 "0"
 
-msgctxt "16"
+#, ignore-same
+msgctxt "SCRIPT46: 16"
 msgid "●"
 msgstr "●"
 
-msgctxt "17"
+#, ignore-same
+msgctxt "SCRIPT46: 17"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "18"
+#, ignore-same
+msgctxt "SCRIPT46: 18"
 msgid ""
 "SCRIPT6\n"
 "0"
@@ -118,15 +135,18 @@ msgstr ""
 "SCRIPT6\n"
 "0"
 
-msgctxt "19"
+#, ignore-same
+msgctxt "SCRIPT46: 19"
 msgid "●"
 msgstr "●"
 
-msgctxt "20"
+#, ignore-same
+msgctxt "SCRIPT46: 20"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "21"
+#, ignore-same
+msgctxt "SCRIPT46: 21"
 msgid ""
 "SCRIPT7\n"
 "0"
@@ -134,10 +154,12 @@ msgstr ""
 "SCRIPT7\n"
 "0"
 
-msgctxt "22"
+#, ignore-same
+msgctxt "SCRIPT46: 22"
 msgid "●"
 msgstr "●"
 
-msgctxt "23"
+#, ignore-same
+msgctxt "SCRIPT46: 23"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"

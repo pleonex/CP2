@@ -5,16 +5,15 @@ msgstr ""
 "POT-Creation-Date: 21/05/2018\n"
 "PO-Revision-Date: 2018-05-23 15:30+0000\n"
 "Last-Translator: Van_Kaiji <alejandro.sh94@gmail.com>\n"
-"Language-Team: Spanish <http://54.37.11.10/projects/corpse-party-2/script26/"
-"es/>\n"
+"Language-Team: Spanish <http://54.37.11.10/projects/corpse-party-2/script26/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.20\n"
 
-msgctxt "0"
+#, ignore-same
+msgctxt "SCRIPT26: 0"
 msgid ""
 "SCRIPT1\n"
 "0"
@@ -22,15 +21,18 @@ msgstr ""
 "SCRIPT1\n"
 "0"
 
-msgctxt "1"
+#, ignore-same
+msgctxt "SCRIPT26: 1"
 msgid "●"
 msgstr "●"
 
-msgctxt "2"
+#, ignore-same
+msgctxt "SCRIPT26: 2"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "3"
+#, ignore-same
+msgctxt "SCRIPT26: 3"
 msgid ""
 "SCRIPT2\n"
 "0"
@@ -38,15 +40,18 @@ msgstr ""
 "SCRIPT2\n"
 "0"
 
-msgctxt "4"
+#, ignore-same
+msgctxt "SCRIPT26: 4"
 msgid "●"
 msgstr "●"
 
-msgctxt "5"
+#, ignore-same
+msgctxt "SCRIPT26: 5"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "6"
+#, ignore-same
+msgctxt "SCRIPT26: 6"
 msgid ""
 "SCRIPT3\n"
 "0"
@@ -54,15 +59,18 @@ msgstr ""
 "SCRIPT3\n"
 "0"
 
-msgctxt "7"
+#, ignore-same
+msgctxt "SCRIPT26: 7"
 msgid "●"
 msgstr "●"
 
-msgctxt "8"
+#, ignore-same
+msgctxt "SCRIPT26: 8"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "9"
+#, ignore-same
+msgctxt "SCRIPT26: 9"
 msgid ""
 "SCRIPT4\n"
 "0"
@@ -70,15 +78,18 @@ msgstr ""
 "SCRIPT4\n"
 "0"
 
-msgctxt "10"
+#, ignore-same
+msgctxt "SCRIPT26: 10"
 msgid "●"
 msgstr "●"
 
-msgctxt "11"
+#, ignore-same
+msgctxt "SCRIPT26: 11"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "12"
+#, ignore-same
+msgctxt "SCRIPT26: 12"
 msgid ""
 "SCRIPT5\n"
 "0"
@@ -86,15 +97,18 @@ msgstr ""
 "SCRIPT5\n"
 "0"
 
-msgctxt "13"
+#, ignore-same
+msgctxt "SCRIPT26: 13"
 msgid "●"
 msgstr "●"
 
-msgctxt "14"
+#, ignore-same
+msgctxt "SCRIPT26: 14"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "15"
+#, ignore-same
+msgctxt "SCRIPT26: 15"
 msgid ""
 "SCRIPT6\n"
 "0"
@@ -102,14 +116,16 @@ msgstr ""
 "SCRIPT6\n"
 "0"
 
-msgctxt "16"
+#, ignore-same
+msgctxt "SCRIPT26: 16"
 msgid ""
 "バストショット:cps2_bs_ayame_a2.tga\n"
 "左\n"
 "OFF"
 msgstr ""
 
-msgctxt "17"
+#, ignore-same
+msgctxt "SCRIPT26: 17"
 msgid ""
 "文字表示:あやめ:この椅子だけななめってるわっ！\n"
 " \n"
@@ -123,42 +139,50 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "18"
+#, ignore-same
+msgctxt "SCRIPT26: 18"
 msgid "●"
 msgstr ""
 
-msgctxt "19"
+#, ignore-same
+msgctxt "SCRIPT26: 19"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "20"
+#, ignore-same
+msgctxt "SCRIPT26: 20"
 msgid ""
 "SCRIPT7\n"
 "0"
 msgstr ""
 
-msgctxt "21"
+#, ignore-same
+msgctxt "SCRIPT26: 21"
 msgid "●"
 msgstr ""
 
-msgctxt "22"
+#, ignore-same
+msgctxt "SCRIPT26: 22"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "23"
+#, ignore-same
+msgctxt "SCRIPT26: 23"
 msgid ""
 "SCRIPT8\n"
 "0"
 msgstr ""
 
-msgctxt "24"
+#, ignore-same
+msgctxt "SCRIPT26: 24"
 msgid ""
 "バストショット:cps2_bs_ayame_a2.tga\n"
 "左\n"
 "OFF"
 msgstr ""
 
-msgctxt "25"
+#, ignore-same
+msgctxt "SCRIPT26: 25"
 msgid ""
 "文字表示:あやめ:この椅子だけななめってるわっ！\n"
 " \n"
@@ -172,35 +196,42 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "26"
+#, ignore-same
+msgctxt "SCRIPT26: 26"
 msgid "●"
 msgstr ""
 
-msgctxt "27"
+#, ignore-same
+msgctxt "SCRIPT26: 27"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "28"
+#, ignore-same
+msgctxt "SCRIPT26: 28"
 msgid ""
 "SCRIPT9\n"
 "0"
 msgstr ""
 
-msgctxt "29"
+#, ignore-same
+msgctxt "SCRIPT26: 29"
 msgid "●"
 msgstr ""
 
-msgctxt "30"
+#, ignore-same
+msgctxt "SCRIPT26: 30"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "31"
+#, ignore-same
+msgctxt "SCRIPT26: 31"
 msgid ""
 "SCRIPT10\n"
 "0"
 msgstr ""
 
-msgctxt "32"
+#, ignore-same
+msgctxt "SCRIPT26: 32"
 msgid ""
 "場所移動:#08廊下１F\n"
 "85\n"
@@ -212,95 +243,115 @@ msgid ""
 "なし"
 msgstr ""
 
-msgctxt "33"
+#, ignore-same
+msgctxt "SCRIPT26: 33"
 msgid "●"
 msgstr ""
 
-msgctxt "34"
+#, ignore-same
+msgctxt "SCRIPT26: 34"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "35"
+#, ignore-same
+msgctxt "SCRIPT26: 35"
 msgid ""
 "SCRIPT11\n"
 "0"
 msgstr ""
 
-msgctxt "36"
+#, ignore-same
+msgctxt "SCRIPT26: 36"
 msgid "●"
 msgstr ""
 
-msgctxt "37"
+#, ignore-same
+msgctxt "SCRIPT26: 37"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "38"
+#, ignore-same
+msgctxt "SCRIPT26: 38"
 msgid ""
 "SCRIPT12\n"
 "0"
 msgstr ""
 
-msgctxt "39"
+#, ignore-same
+msgctxt "SCRIPT26: 39"
 msgid "●"
 msgstr "●"
 
-msgctxt "40"
+#, ignore-same
+msgctxt "SCRIPT26: 40"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "41"
+#, ignore-same
+msgctxt "SCRIPT26: 41"
 msgid ""
 "SCRIPT13\n"
 "0"
 msgstr ""
 
-msgctxt "42"
+#, ignore-same
+msgctxt "SCRIPT26: 42"
 msgid "●"
 msgstr ""
 
-msgctxt "43"
+#, ignore-same
+msgctxt "SCRIPT26: 43"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "44"
+#, ignore-same
+msgctxt "SCRIPT26: 44"
 msgid ""
 "SCRIPT14\n"
 "0"
 msgstr ""
 
-msgctxt "45"
+#, ignore-same
+msgctxt "SCRIPT26: 45"
 msgid "●"
 msgstr ""
 
-msgctxt "46"
+#, ignore-same
+msgctxt "SCRIPT26: 46"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "47"
+#, ignore-same
+msgctxt "SCRIPT26: 47"
 msgid ""
 "SCRIPT15\n"
 "0"
 msgstr ""
 
-msgctxt "48"
+#, ignore-same
+msgctxt "SCRIPT26: 48"
 msgid "●"
 msgstr ""
 
-msgctxt "49"
+#, ignore-same
+msgctxt "SCRIPT26: 49"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "50"
+#, ignore-same
+msgctxt "SCRIPT26: 50"
 msgid ""
 "SCRIPT16\n"
 "0"
 msgstr ""
 
-msgctxt "51"
+#, ignore-same
+msgctxt "SCRIPT26: 51"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "52"
+#, ignore-same
+msgctxt "SCRIPT26: 52"
 msgid ""
 "文字表示:【緊迫BGM：低アレンジ】開://SE:しばらく、扉をドンドンと叩く音が続く\n"
 "千代美「あけてー！　ねぇー！　やだー！　ちょっとぉー！」（音声のみ・扉越し加工）\n"
@@ -314,7 +365,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "53"
+#, ignore-same
+msgctxt "SCRIPT26: 53"
 msgid ""
 "文字表示:あやめ:千代美ちゃん……！\n"
 "\n"
@@ -328,7 +380,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "54"
+#, ignore-same
+msgctxt "SCRIPT26: 54"
 msgid ""
 "文字表示:律子:馬鹿は一人いれば充分よ\n"
 "しっかり見て、我がふり直しなさい！\n"
@@ -342,89 +395,110 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "55"
+#, ignore-same
+msgctxt "SCRIPT26: 55"
 msgid "千代美「あやめー！　律子、クソババー！　……もぅーー！　……んん～（泣き入り）」"
 msgstr ""
 
-msgctxt "56"
+#, ignore-same
+msgctxt "SCRIPT26: 56"
 msgid "（音声のみ・扉越し加工）"
 msgstr ""
 
-msgctxt "57"
+#, ignore-same
+msgctxt "SCRIPT26: 57"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "58"
+#, ignore-same
+msgctxt "SCRIPT26: 58"
 msgid "やがて千代美はいなくなり、辺りはしんとなる。"
 msgstr ""
 
-msgctxt "59"
+#, ignore-same
+msgctxt "SCRIPT26: 59"
 msgid "部屋の中、律子と二人きりになるあやめ。"
 msgstr ""
 
-msgctxt "60"
+#, ignore-same
+msgctxt "SCRIPT26: 60"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "61"
+#, ignore-same
+msgctxt "SCRIPT26: 61"
 msgid "律子「……ふん」（音声のみ）"
 msgstr ""
 
-msgctxt "62"
+#, ignore-same
+msgctxt "SCRIPT26: 62"
 msgid "千代美がズラした重しを扉の前に戻さず、悠然と部屋奥に戻る律子。"
 msgstr ""
 
-msgctxt "63"
+#, ignore-same
+msgctxt "SCRIPT26: 63"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "64"
+#, ignore-same
+msgctxt "SCRIPT26: 64"
 msgid "あやめは外への扉のすぐそばにいる。"
 msgstr ""
 
-msgctxt "65"
+#, ignore-same
+msgctxt "SCRIPT26: 65"
 msgid "今にも千代美を追いかけて行きたい衝動にかられる……"
 msgstr ""
 
-msgctxt "66"
+#, ignore-same
+msgctxt "SCRIPT26: 66"
 msgid "●"
 msgstr ""
 
-msgctxt "67"
+#, ignore-same
+msgctxt "SCRIPT26: 67"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "68"
+#, ignore-same
+msgctxt "SCRIPT26: 68"
 msgid ""
 "SCRIPT17\n"
 "0"
 msgstr ""
 
-msgctxt "69"
+#, ignore-same
+msgctxt "SCRIPT26: 69"
 msgid "■※分岐展開※■"
 msgstr ""
 
-msgctxt "70"
+#, ignore-same
+msgctxt "SCRIPT26: 70"
 msgid "　千代美の後を追うと律子が殺されてバッドエンドルートへ。******************"
 msgstr ""
 
-msgctxt "71"
+#, ignore-same
+msgctxt "SCRIPT26: 71"
 msgid "　追わずに、しばらく律子と話すとトゥルーエンドへ。"
 msgstr ""
 
-msgctxt "72"
+#, ignore-same
+msgctxt "SCRIPT26: 72"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "73"
+#, ignore-same
+msgctxt "SCRIPT26: 73"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "74"
+#, ignore-same
+msgctxt "SCRIPT26: 74"
 msgid "■扉を開けようと（出ようと）すると**************"
 msgstr ""
 
-msgctxt "75"
+#, ignore-same
+msgctxt "SCRIPT26: 75"
 msgid ""
 "文字表示:律子:やめなさい！　出たら終わりよ？\n"
 "いいの？\n"
@@ -438,15 +512,18 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "76"
+#, ignore-same
+msgctxt "SCRIPT26: 76"
 msgid "部屋に向き直るあやめ。"
 msgstr ""
 
-msgctxt "77"
+#, ignore-same
+msgctxt "SCRIPT26: 77"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "78"
+#, ignore-same
+msgctxt "SCRIPT26: 78"
 msgid ""
 "文字表示:あやめ:（千代美ちゃん、ひとりじゃ危ないわ\n"
 "　なんとかしないと……）\n"
@@ -460,29 +537,35 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "79"
+#, ignore-same
+msgctxt "SCRIPT26: 79"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "80"
+#, ignore-same
+msgctxt "SCRIPT26: 80"
 msgid "●"
 msgstr ""
 
-msgctxt "81"
+#, ignore-same
+msgctxt "SCRIPT26: 81"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "82"
+#, ignore-same
+msgctxt "SCRIPT26: 82"
 msgid ""
 "SCRIPT18\n"
 "0"
 msgstr ""
 
-msgctxt "83"
+#, ignore-same
+msgctxt "SCRIPT26: 83"
 msgid "■律子に話しかけると**************"
 msgstr ""
 
-msgctxt "84"
+#, ignore-same
+msgctxt "SCRIPT26: 84"
 msgid ""
 "文字表示:律子:あなたは馬鹿じゃないでしょう？\n"
 "知ってるわ\n"
@@ -496,19 +579,23 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "85"
+#, ignore-same
+msgctxt "SCRIPT26: 85"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "86"
+#, ignore-same
+msgctxt "SCRIPT26: 86"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "87"
+#, ignore-same
+msgctxt "SCRIPT26: 87"
 msgid "■律子に話しかけると（２回目）********"
 msgstr ""
 
-msgctxt "88"
+#, ignore-same
+msgctxt "SCRIPT26: 88"
 msgid ""
 "文字表示:律子:危機的状況においては、助け合いじゃなく\n"
 "個々なの\n"
@@ -522,7 +609,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "89"
+#, ignore-same
+msgctxt "SCRIPT26: 89"
 msgid ""
 "文字表示:律子:それぞれが自分を律して身を守ること\n"
 "それがひいては皆を救う――協力になるのよ\n"
@@ -536,19 +624,23 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "90"
+#, ignore-same
+msgctxt "SCRIPT26: 90"
 msgid "【選択肢】"
 msgstr ""
 
-msgctxt "91"
+#, ignore-same
+msgctxt "SCRIPT26: 91"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "92"
+#, ignore-same
+msgctxt "SCRIPT26: 92"
 msgid "・「違うと思います」***"
 msgstr ""
 
-msgctxt "93"
+#, ignore-same
+msgctxt "SCRIPT26: 93"
 msgid ""
 "文字表示:律子:……ま、子供に問う内容じゃないかしらね\n"
 "\n"
@@ -562,7 +654,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "94"
+#, ignore-same
+msgctxt "SCRIPT26: 94"
 msgid ""
 "文字表示:律子:ヒロイックな感情の先に、何かがあると\n"
 "思っているんでしょう？\n"
@@ -576,11 +669,13 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "95"
+#, ignore-same
+msgctxt "SCRIPT26: 95"
 msgid "・「わかります」*******"
 msgstr ""
 
-msgctxt "96"
+#, ignore-same
+msgctxt "SCRIPT26: 96"
 msgid ""
 "文字表示:律子:……うん\n"
 "\n"
@@ -594,7 +689,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "97"
+#, ignore-same
+msgctxt "SCRIPT26: 97"
 msgid ""
 "文字表示:律子:いい子ね\n"
 "……あなたみたいな子、好きよ？\n"
@@ -608,15 +704,18 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "98"
+#, ignore-same
+msgctxt "SCRIPT26: 98"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "99"
+#, ignore-same
+msgctxt "SCRIPT26: 99"
 msgid "※脱出フラグON以降、律子に話しかけると*****"
 msgstr ""
 
-msgctxt "100"
+#, ignore-same
+msgctxt "SCRIPT26: 100"
 msgid ""
 "文字表示:律子:いい子ね\n"
 "……あなたみたいな子、好きよ？\n"
@@ -630,41 +729,50 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "101"
+#, ignore-same
+msgctxt "SCRIPT26: 101"
 msgid "●"
 msgstr ""
 
-msgctxt "102"
+#, ignore-same
+msgctxt "SCRIPT26: 102"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "103"
+#, ignore-same
+msgctxt "SCRIPT26: 103"
 msgid ""
 "SCRIPT19\n"
 "0"
 msgstr ""
 
-msgctxt "104"
+#, ignore-same
+msgctxt "SCRIPT26: 104"
 msgid "■脱出フラグONから４秒後に自動発生イベント**********"
 msgstr ""
 
-msgctxt "105"
+#, ignore-same
+msgctxt "SCRIPT26: 105"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "106"
+#, ignore-same
+msgctxt "SCRIPT26: 106"
 msgid "SE:ピロロロロロロ！"
 msgstr ""
 
-msgctxt "107"
+#, ignore-same
+msgctxt "SCRIPT26: 107"
 msgid "雅巳（律子彼氏）からメールの返信。"
 msgstr ""
 
-msgctxt "108"
+#, ignore-same
+msgctxt "SCRIPT26: 108"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "109"
+#, ignore-same
+msgctxt "SCRIPT26: 109"
 msgid ""
 "文字表示:律子:！\n"
 "\n"
@@ -678,19 +786,23 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "110"
+#, ignore-same
+msgctxt "SCRIPT26: 110"
 msgid "Se:ピッ"
 msgstr ""
 
-msgctxt "111"
+#, ignore-same
+msgctxt "SCRIPT26: 111"
 msgid "携帯を見る律子。"
 msgstr ""
 
-msgctxt "112"
+#, ignore-same
+msgctxt "SCRIPT26: 112"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "113"
+#, ignore-same
+msgctxt "SCRIPT26: 113"
 msgid ""
 "文字表示:律子:雅巳からだわ！\n"
 "……『どこも怪我して無い？』だって\n"
@@ -704,7 +816,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "114"
+#, ignore-same
+msgctxt "SCRIPT26: 114"
 msgid ""
 "文字表示:あやめ:っ……！\n"
 "//救いの手にあやめも安堵\n"
@@ -718,7 +831,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "115"
+#, ignore-same
+msgctxt "SCRIPT26: 115"
 msgid ""
 "文字表示:律子:……ふふ、優しいんだから\n"
 "私のが年上だっての……\n"
@@ -732,7 +846,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "116"
+#, ignore-same
+msgctxt "SCRIPT26: 116"
 msgid ""
 "文字表示:律子:返事しとくわね\n"
 "『手を少し切った程度、全然平気』って\n"
@@ -746,41 +861,50 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "117"
+#, ignore-same
+msgctxt "SCRIPT26: 117"
 msgid "SE:ピッピッピッ、……ピッ……ピッピッ……（携帯操作音ループ）"
 msgstr ""
 
-msgctxt "118"
+#, ignore-same
+msgctxt "SCRIPT26: 118"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "119"
+#, ignore-same
+msgctxt "SCRIPT26: 119"
 msgid "あやめに背を向けてメールを打ち始める律子。"
 msgstr ""
 
-msgctxt "120"
+#, ignore-same
+msgctxt "SCRIPT26: 120"
 msgid "扉をチラッと見るあやめ。"
 msgstr ""
 
-msgctxt "121"
+#, ignore-same
+msgctxt "SCRIPT26: 121"
 msgid "●"
 msgstr ""
 
-msgctxt "122"
+#, ignore-same
+msgctxt "SCRIPT26: 122"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "123"
+#, ignore-same
+msgctxt "SCRIPT26: 123"
 msgid ""
 "SCRIPT20\n"
 "0"
 msgstr ""
 
-msgctxt "124"
+#, ignore-same
+msgctxt "SCRIPT26: 124"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "125"
+#, ignore-same
+msgctxt "SCRIPT26: 125"
 msgid ""
 "文字表示:あやめ:（律子さん……ごめんなさい！）\n"
 "【緊迫BGM：中アレンジ】へ移行\n"
@@ -794,7 +918,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "126"
+#, ignore-same
+msgctxt "SCRIPT26: 126"
 msgid ""
 "文字表示:【緊迫BGM：中アレンジ】へ移:\n"
 "律子が背を向けメールを打っている隙に扉をそっと開け、外へ出るあやめ。\n"
@@ -808,77 +933,95 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "127"
+#, ignore-same
+msgctxt "SCRIPT26: 127"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "128"
+#, ignore-same
+msgctxt "SCRIPT26: 128"
 msgid "そこには、患者服を着た人（黒患者）が立っていた。"
 msgstr ""
 
-msgctxt "129"
+#, ignore-same
+msgctxt "SCRIPT26: 129"
 msgid "頭がもやもやと黒く煙り、顔が見えない。"
 msgstr ""
 
-msgctxt "130"
+#, ignore-same
+msgctxt "SCRIPT26: 130"
 msgid "あやめの姿を見ると追いかけてくる。（掴まると顔を食われて死亡）"
 msgstr ""
 
-msgctxt "131"
+#, ignore-same
+msgctxt "SCRIPT26: 131"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "132"
+#, ignore-same
+msgctxt "SCRIPT26: 132"
 msgid "プレイヤーが逃げると追いかけてこないが、"
 msgstr ""
 
-msgctxt "133"
+#, ignore-same
+msgctxt "SCRIPT26: 133"
 msgid "黒患者がナースステーションの扉を向き直るデモが入る。"
 msgstr ""
 
-msgctxt "134"
+#, ignore-same
+msgctxt "SCRIPT26: 134"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "135"
+#, ignore-same
+msgctxt "SCRIPT26: 135"
 msgid "【分岐開始】律子死亡ルート（03bEX）へ　　"
 msgstr ""
 
-msgctxt "136"
+#, ignore-same
+msgctxt "SCRIPT26: 136"
 msgid "●"
 msgstr ""
 
-msgctxt "137"
+#, ignore-same
+msgctxt "SCRIPT26: 137"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "138"
+#, ignore-same
+msgctxt "SCRIPT26: 138"
 msgid ""
 "SCRIPT21\n"
 "0"
 msgstr ""
 
-msgctxt "139"
+#, ignore-same
+msgctxt "SCRIPT26: 139"
 msgid "SE:ピッピッピッ、……ピッ……ピッピッ……（律子携帯操作ループ）"
 msgstr ""
 
-msgctxt "140"
+#, ignore-same
+msgctxt "SCRIPT26: 140"
 msgid "携帯でメールを打ち続ける律子。"
 msgstr ""
 
-msgctxt "141"
+#, ignore-same
+msgctxt "SCRIPT26: 141"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "142"
+#, ignore-same
+msgctxt "SCRIPT26: 142"
 msgid "あやめ、口に手を当て考えるポーズ。"
 msgstr ""
 
-msgctxt "143"
+#, ignore-same
+msgctxt "SCRIPT26: 143"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "144"
+#, ignore-same
+msgctxt "SCRIPT26: 144"
 msgid ""
 "文字表示:あやめ:（千代美ちゃんも心配だけれど……）\n"
 "\n"
@@ -892,7 +1035,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "145"
+#, ignore-same
+msgctxt "SCRIPT26: 145"
 msgid ""
 "文字表示:あやめ:（律子さんも放ってはおけないわ\n"
 "　ちゃんと説得しよう……）\n"
@@ -906,15 +1050,18 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "146"
+#, ignore-same
+msgctxt "SCRIPT26: 146"
 msgid "近寄って、"
 msgstr ""
 
-msgctxt "147"
+#, ignore-same
+msgctxt "SCRIPT26: 147"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "148"
+#, ignore-same
+msgctxt "SCRIPT26: 148"
 msgid ""
 "文字表示:あやめ:律子さん、私やっぱり千代美ちゃんが心配です\n"
 "\n"
@@ -928,7 +1075,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "149"
+#, ignore-same
+msgctxt "SCRIPT26: 149"
 msgid ""
 "文字表示:あやめ:こういう時の助け合いって……やっぱり\n"
 "足の引っ張り合いとは、違うと思うんです\n"
@@ -942,15 +1090,18 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "150"
+#, ignore-same
+msgctxt "SCRIPT26: 150"
 msgid "SE:ピッピッ、……ピッ（律子携帯操作ループ）→STOP"
 msgstr ""
 
-msgctxt "151"
+#, ignore-same
+msgctxt "SCRIPT26: 151"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "152"
+#, ignore-same
+msgctxt "SCRIPT26: 152"
 msgid ""
 "文字表示:あやめ:他の友達が心配なのは確かですが……そうでなくても、\n"
 "無事な人がいるなら救いに行くべきです\n"
@@ -964,7 +1115,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "153"
+#, ignore-same
+msgctxt "SCRIPT26: 153"
 msgid ""
 "文字表示:律子:子供ね、話にならないわ\n"
 "\n"
@@ -978,31 +1130,38 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "154"
+#, ignore-same
+msgctxt "SCRIPT26: 154"
 msgid "SE:ピロロロロロロ！"
 msgstr ""
 
-msgctxt "155"
+#, ignore-same
+msgctxt "SCRIPT26: 155"
 msgid "雅巳（律子彼氏）からメールの返信。"
 msgstr ""
 
-msgctxt "156"
+#, ignore-same
+msgctxt "SCRIPT26: 156"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "157"
+#, ignore-same
+msgctxt "SCRIPT26: 157"
 msgid "Se:ピッ"
 msgstr ""
 
-msgctxt "158"
+#, ignore-same
+msgctxt "SCRIPT26: 158"
 msgid "携帯を見る律子。"
 msgstr ""
 
-msgctxt "159"
+#, ignore-same
+msgctxt "SCRIPT26: 159"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "160"
+#, ignore-same
+msgctxt "SCRIPT26: 160"
 msgid ""
 "文字表示:律子:あっ……もう病院前に着いたみたいよ、\n"
 "「部屋から出ないで待て」だって\n"
@@ -1016,7 +1175,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "161"
+#, ignore-same
+msgctxt "SCRIPT26: 161"
 msgid ""
 "文字表示:あやめ:そ、そう……ですか\n"
 "\n"
@@ -1030,7 +1190,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "162"
+#, ignore-same
+msgctxt "SCRIPT26: 162"
 msgid ""
 "文字表示:律子:よかった！　……意外と早く出られそうね\n"
 "\n"
@@ -1044,82 +1205,100 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "163"
+#, ignore-same
+msgctxt "SCRIPT26: 163"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "164"
+#, ignore-same
+msgctxt "SCRIPT26: 164"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "165"
+#, ignore-same
+msgctxt "SCRIPT26: 165"
 msgid "●"
 msgstr ""
 
-msgctxt "166"
+#, ignore-same
+msgctxt "SCRIPT26: 166"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "167"
+#, ignore-same
+msgctxt "SCRIPT26: 167"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "168"
+#, ignore-same
+msgctxt "SCRIPT26: 168"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "169"
+#, ignore-same
+msgctxt "SCRIPT26: 169"
 msgid ""
 "SCRIPT22\n"
 "0"
 msgstr ""
 
-msgctxt "170"
+#, ignore-same
+msgctxt "SCRIPT26: 170"
 msgid "●"
 msgstr ""
 
-msgctxt "171"
+#, ignore-same
+msgctxt "SCRIPT26: 171"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "172"
+#, ignore-same
+msgctxt "SCRIPT26: 172"
 msgid ""
 "SCRIPT23\n"
 "0"
 msgstr ""
 
-msgctxt "173"
+#, ignore-same
+msgctxt "SCRIPT26: 173"
 msgid "●"
 msgstr ""
 
-msgctxt "174"
+#, ignore-same
+msgctxt "SCRIPT26: 174"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "175"
+#, ignore-same
+msgctxt "SCRIPT26: 175"
 msgid ""
 "SCRIPT24\n"
 "0"
 msgstr ""
 
-msgctxt "176"
+#, ignore-same
+msgctxt "SCRIPT26: 176"
 msgid "●"
 msgstr ""
 
-msgctxt "177"
+#, ignore-same
+msgctxt "SCRIPT26: 177"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "178"
+#, ignore-same
+msgctxt "SCRIPT26: 178"
 msgid ""
 "SCRIPT25\n"
 "0"
 msgstr ""
 
-msgctxt "179"
+#, ignore-same
+msgctxt "SCRIPT26: 179"
 msgid "●"
 msgstr ""
 
-msgctxt "180"
+#, ignore-same
+msgctxt "SCRIPT26: 180"
 msgid "END_SCRIPT"
 msgstr ""

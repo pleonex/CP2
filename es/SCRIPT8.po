@@ -5,16 +5,15 @@ msgstr ""
 "POT-Creation-Date: 21/05/2018\n"
 "PO-Revision-Date: 2018-05-23 10:48+0000\n"
 "Last-Translator: Van_Kaiji <alejandro.sh94@gmail.com>\n"
-"Language-Team: Spanish <http://54.37.11.10/projects/corpse-party-2/script8/"
-"es/>\n"
+"Language-Team: Spanish <http://54.37.11.10/projects/corpse-party-2/script8/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.20\n"
 
-msgctxt "0"
+#, ignore-same
+msgctxt "SCRIPT8: 0"
 msgid ""
 "SCRIPT0\n"
 "0"
@@ -22,15 +21,18 @@ msgstr ""
 "SCRIPT0\n"
 "0"
 
-msgctxt "1"
+#, ignore-same
+msgctxt "SCRIPT8: 1"
 msgid "●"
 msgstr "●"
 
-msgctxt "2"
+#, ignore-same
+msgctxt "SCRIPT8: 2"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "3"
+#, ignore-same
+msgctxt "SCRIPT8: 3"
 msgid ""
 "SCRIPT1\n"
 "0"
@@ -38,15 +40,18 @@ msgstr ""
 "SCRIPT1\n"
 "0"
 
-msgctxt "4"
+#, ignore-same
+msgctxt "SCRIPT8: 4"
 msgid "●"
 msgstr "●"
 
-msgctxt "5"
+#, ignore-same
+msgctxt "SCRIPT8: 5"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "6"
+#, ignore-same
+msgctxt "SCRIPT8: 6"
 msgid ""
 "SCRIPT2\n"
 "0"
@@ -54,15 +59,18 @@ msgstr ""
 "SCRIPT2\n"
 "0"
 
-msgctxt "7"
+#, ignore-same
+msgctxt "SCRIPT8: 7"
 msgid "●"
 msgstr "●"
 
-msgctxt "8"
+#, ignore-same
+msgctxt "SCRIPT8: 8"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "9"
+#, ignore-same
+msgctxt "SCRIPT8: 9"
 msgid ""
 "SCRIPT3\n"
 "0"
@@ -70,15 +78,18 @@ msgstr ""
 "SCRIPT3\n"
 "0"
 
-msgctxt "10"
+#, ignore-same
+msgctxt "SCRIPT8: 10"
 msgid "●"
 msgstr "●"
 
-msgctxt "11"
+#, ignore-same
+msgctxt "SCRIPT8: 11"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "12"
+#, ignore-same
+msgctxt "SCRIPT8: 12"
 msgid ""
 "SCRIPT4\n"
 "0"
@@ -86,15 +97,18 @@ msgstr ""
 "SCRIPT4\n"
 "0"
 
-msgctxt "13"
+#, ignore-same
+msgctxt "SCRIPT8: 13"
 msgid "●"
 msgstr "●"
 
-msgctxt "14"
+#, ignore-same
+msgctxt "SCRIPT8: 14"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "15"
+#, ignore-same
+msgctxt "SCRIPT8: 15"
 msgid ""
 "SCRIPT5\n"
 "0"
@@ -102,7 +116,8 @@ msgstr ""
 "SCRIPT5\n"
 "0"
 
-msgctxt "16"
+#, ignore-same
+msgctxt "SCRIPT8: 16"
 msgid ""
 "文字表示:？？:……きゃあああぁぁぁぁぁぁぁ！！！\n"
 "\n"
@@ -116,7 +131,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "17"
+#, ignore-same
+msgctxt "SCRIPT8: 17"
 msgid ""
 "文字表示:【ＳＥ：タタタタタタ……！:暗闇の向こうから白い服の少女が駆けて来る。\n"
 "\n"
@@ -130,7 +146,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "18"
+#, ignore-same
+msgctxt "SCRIPT8: 18"
 msgid ""
 "文字表示:？？:はぁ、はぁ、はぁ……\n"
 "\n"
@@ -144,7 +161,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "19"
+#, ignore-same
+msgctxt "SCRIPT8: 19"
 msgid ""
 "文字表示:あやめ:？！　……あなた……どうしたの？\n"
 "一人……？\n"
@@ -158,7 +176,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "20"
+#, ignore-same
+msgctxt "SCRIPT8: 20"
 msgid ""
 "文字表示:？？:……！\n"
 "\n"
@@ -172,7 +191,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "21"
+#, ignore-same
+msgctxt "SCRIPT8: 21"
 msgid ""
 "文字表示:テキスト:泣いて疲弊した幼い少女の顔が、\n"
 "みるみる恐怖の色に染まる\n"
@@ -186,7 +206,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "22"
+#, ignore-same
+msgctxt "SCRIPT8: 22"
 msgid ""
 "文字表示:？？:あああぁぁぁぁぁぁぁぁ！！！\n"
 "\n"
@@ -200,14 +221,17 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "23"
+#, ignore-same
+msgctxt "SCRIPT8: 23"
 msgid "直後、激しい悲鳴をあげたところでフラッシュバックは覚める。"
 msgstr ""
 
-msgctxt "24"
+#, ignore-same
+msgctxt "SCRIPT8: 24"
 msgid "●"
 msgstr ""
 
-msgctxt "25"
+#, ignore-same
+msgctxt "SCRIPT8: 25"
 msgid "END_SCRIPT"
 msgstr ""

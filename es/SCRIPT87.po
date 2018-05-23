@@ -5,16 +5,15 @@ msgstr ""
 "POT-Creation-Date: 21/05/2018\n"
 "PO-Revision-Date: 2018-05-23 15:31+0000\n"
 "Last-Translator: Van_Kaiji <alejandro.sh94@gmail.com>\n"
-"Language-Team: Spanish <http://54.37.11.10/projects/corpse-party-2/script87/"
-"es/>\n"
+"Language-Team: Spanish <http://54.37.11.10/projects/corpse-party-2/script87/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.20\n"
 
-msgctxt "0"
+#, ignore-same
+msgctxt "SCRIPT87: 0"
 msgid ""
 "SCRIPT1\n"
 "0"
@@ -22,7 +21,8 @@ msgstr ""
 "SCRIPT1\n"
 "0"
 
-msgctxt "1"
+#, ignore-same
+msgctxt "SCRIPT87: 1"
 msgid ""
 "グラフィック変更:0\n"
 "なし\n"
@@ -37,7 +37,8 @@ msgid ""
 "0"
 msgstr ""
 
-msgctxt "2"
+#, ignore-same
+msgctxt "SCRIPT87: 2"
 msgid ""
 "文字表示:『輪切りですよね……』\n"
 " \n"
@@ -51,7 +52,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "3"
+#, ignore-same
+msgctxt "SCRIPT87: 3"
 msgid ""
 "文字表示:『……胸部の臓器は必要なので頭部のみ……』\n"
 " \n"
@@ -65,7 +67,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "4"
+#, ignore-same
+msgctxt "SCRIPT87: 4"
 msgid ""
 "文字表示:『……迅速に……』\n"
 " \n"
@@ -79,7 +82,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "5"
+#, ignore-same
+msgctxt "SCRIPT87: 5"
 msgid ""
 "文字表示:「う……」\n"
 " \n"
@@ -93,7 +97,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "6"
+#, ignore-same
+msgctxt "SCRIPT87: 6"
 msgid ""
 "文字表示:動け……ない……？\n"
 "これは……身体は眠っているのに、\n"
@@ -107,7 +112,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "7"
+#, ignore-same
+msgctxt "SCRIPT87: 7"
 msgid ""
 "文字表示:「う……ぅ……」\n"
 "声を出した……と思う。\n"
@@ -121,7 +127,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "8"
+#, ignore-same
+msgctxt "SCRIPT87: 8"
 msgid ""
 "文字表示:『……おい覚醒しかかっているぞ、\n"
 "N2Oの濃度が下がっているんじゃないか』\n"
@@ -135,7 +142,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "9"
+#, ignore-same
+msgctxt "SCRIPT87: 9"
 msgid ""
 "文字表示:『いえ、５０％は出ています……』\n"
 " \n"
@@ -149,7 +157,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "10"
+#, ignore-same
+msgctxt "SCRIPT87: 10"
 msgid ""
 "文字表示:『……構わないからもっと上げるん……』\n"
 " \n"
@@ -163,7 +172,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "11"
+#, ignore-same
+msgctxt "SCRIPT87: 11"
 msgid ""
 "文字表示:『筋弛緩反応は続いているのでこれ以上は生体に危険が』\n"
 " \n"
@@ -177,7 +187,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "12"
+#, ignore-same
+msgctxt "SCRIPT87: 12"
 msgid ""
 "文字表示:白目の血管が、破裂しそうな勢いで血液を溜め込んで膨張する。\n"
 " \n"
@@ -191,7 +202,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "13"
+#, ignore-same
+msgctxt "SCRIPT87: 13"
 msgid ""
 "文字表示:眼球の痛みで悲鳴をあげようとした。けれど……声が出ない。\n"
 " \n"
@@ -205,7 +217,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "14"
+#, ignore-same
+msgctxt "SCRIPT87: 14"
 msgid ""
 "文字表示:だんだんと、意識が白んでゆく……\n"
 " \n"
@@ -219,7 +232,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "15"
+#, ignore-same
+msgctxt "SCRIPT87: 15"
 msgid ""
 "文字表示:痛い……痛い！　……輪切りって……？\n"
 "このまま意識を失ってはいけない……！　\n"
@@ -233,7 +247,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "16"
+#, ignore-same
+msgctxt "SCRIPT87: 16"
 msgid ""
 "文字表示:助けて……！　誰か……！\n"
 " \n"
@@ -247,7 +262,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "17"
+#, ignore-same
+msgctxt "SCRIPT87: 17"
 msgid ""
 "文字表示:意識が白み、記憶が途切れる。\n"
 " \n"
@@ -261,7 +277,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "18"
+#, ignore-same
+msgctxt "SCRIPT87: 18"
 msgid ""
 "文字表示:どれだけの時間が挟まっていたのかわからないけれど……\n"
 "次に私が意識を取り戻した時、私のいた場所は\n"
@@ -275,13 +292,15 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "19"
+#, ignore-same
+msgctxt "SCRIPT87: 19"
 msgid ""
 "ローカルフラグ:0:オープニング終了\n"
 "ON"
 msgstr ""
 
-msgctxt "20"
+#, ignore-same
+msgctxt "SCRIPT87: 20"
 msgid ""
 "場所移動:手術室（脱出１）\n"
 "19\n"
@@ -293,21 +312,25 @@ msgid ""
 "なし"
 msgstr ""
 
-msgctxt "21"
+#, ignore-same
+msgctxt "SCRIPT87: 21"
 msgid "●"
 msgstr ""
 
-msgctxt "22"
+#, ignore-same
+msgctxt "SCRIPT87: 22"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "23"
+#, ignore-same
+msgctxt "SCRIPT87: 23"
 msgid ""
 "SCRIPT2\n"
 "0"
 msgstr ""
 
-msgctxt "24"
+#, ignore-same
+msgctxt "SCRIPT87: 24"
 msgid ""
 "文字表示:オープニングを見ますか？\n"
 " \n"
@@ -321,17 +344,20 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "25"
+#, ignore-same
+msgctxt "SCRIPT87: 25"
 msgid ""
 "選択肢:はい\n"
 "いいえ"
 msgstr ""
 
-msgctxt "26"
+#, ignore-same
+msgctxt "SCRIPT87: 26"
 msgid "▼:はい"
 msgstr ""
 
-msgctxt "27"
+#, ignore-same
+msgctxt "SCRIPT87: 27"
 msgid ""
 "場所移動:手術室シーン＃０１\n"
 "20\n"
@@ -343,15 +369,18 @@ msgid ""
 "なし"
 msgstr ""
 
-msgctxt "28"
+#, ignore-same
+msgctxt "SCRIPT87: 28"
 msgid "●"
 msgstr "●"
 
-msgctxt "29"
+#, ignore-same
+msgctxt "SCRIPT87: 29"
 msgid "▼:いいえ"
 msgstr ""
 
-msgctxt "30"
+#, ignore-same
+msgctxt "SCRIPT87: 30"
 msgid ""
 "場所移動:手術室（脱出１）\n"
 "20\n"
@@ -363,18 +392,22 @@ msgid ""
 "なし"
 msgstr ""
 
-msgctxt "31"
+#, ignore-same
+msgctxt "SCRIPT87: 31"
 msgid "●"
 msgstr "●"
 
-msgctxt "32"
+#, ignore-same
+msgctxt "SCRIPT87: 32"
 msgid "選択終了"
 msgstr ""
 
-msgctxt "33"
+#, ignore-same
+msgctxt "SCRIPT87: 33"
 msgid "●"
 msgstr ""
 
-msgctxt "34"
+#, ignore-same
+msgctxt "SCRIPT87: 34"
 msgid "END_SCRIPT"
 msgstr ""

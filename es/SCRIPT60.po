@@ -5,16 +5,15 @@ msgstr ""
 "POT-Creation-Date: 21/05/2018\n"
 "PO-Revision-Date: 2018-05-23 15:31+0000\n"
 "Last-Translator: Joguersan <joguersan@gmail.com>\n"
-"Language-Team: Spanish <http://54.37.11.10/projects/corpse-party-2/script60/"
-"es/>\n"
+"Language-Team: Spanish <http://54.37.11.10/projects/corpse-party-2/script60/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.20\n"
 
-msgctxt "0"
+#, ignore-same
+msgctxt "SCRIPT60: 0"
 msgid ""
 "SCRIPT1\n"
 "0"
@@ -22,15 +21,18 @@ msgstr ""
 "SCRIPT1\n"
 "0"
 
-msgctxt "1"
+#, ignore-same
+msgctxt "SCRIPT60: 1"
 msgid "●"
 msgstr "●"
 
-msgctxt "2"
+#, ignore-same
+msgctxt "SCRIPT60: 2"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "3"
+#, ignore-same
+msgctxt "SCRIPT60: 3"
 msgid ""
 "SCRIPT2\n"
 "0"
@@ -38,144 +40,174 @@ msgstr ""
 "SCRIPT2\n"
 "0"
 
-msgctxt "4"
+#, ignore-same
+msgctxt "SCRIPT60: 4"
 msgid "セーブポイント:ナースステーション"
 msgstr ""
 
-msgctxt "5"
+#, ignore-same
+msgctxt "SCRIPT60: 5"
 msgid "●"
 msgstr ""
 
-msgctxt "6"
+#, ignore-same
+msgctxt "SCRIPT60: 6"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "7"
+#, ignore-same
+msgctxt "SCRIPT60: 7"
 msgid ""
 "SCRIPT2\n"
 "1"
 msgstr ""
 
-msgctxt "8"
+#, ignore-same
+msgctxt "SCRIPT60: 8"
 msgid "●"
 msgstr ""
 
-msgctxt "9"
+#, ignore-same
+msgctxt "SCRIPT60: 9"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "10"
+#, ignore-same
+msgctxt "SCRIPT60: 10"
 msgid ""
 "SCRIPT3\n"
 "0"
 msgstr ""
 
-msgctxt "11"
+#, ignore-same
+msgctxt "SCRIPT60: 11"
 msgid "●"
 msgstr ""
 
-msgctxt "12"
+#, ignore-same
+msgctxt "SCRIPT60: 12"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "13"
+#, ignore-same
+msgctxt "SCRIPT60: 13"
 msgid ""
 "SCRIPT4\n"
 "0"
 msgstr ""
 
-msgctxt "14"
+#, ignore-same
+msgctxt "SCRIPT60: 14"
 msgid "●"
 msgstr ""
 
-msgctxt "15"
+#, ignore-same
+msgctxt "SCRIPT60: 15"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "16"
+#, ignore-same
+msgctxt "SCRIPT60: 16"
 msgid ""
 "SCRIPT5\n"
 "0"
 msgstr ""
 
-msgctxt "17"
+#, ignore-same
+msgctxt "SCRIPT60: 17"
 msgid "●"
 msgstr ""
 
-msgctxt "18"
+#, ignore-same
+msgctxt "SCRIPT60: 18"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "19"
+#, ignore-same
+msgctxt "SCRIPT60: 19"
 msgid ""
 "SCRIPT5\n"
 "1"
 msgstr ""
 
-msgctxt "20"
+#, ignore-same
+msgctxt "SCRIPT60: 20"
 msgid "●"
 msgstr ""
 
-msgctxt "21"
+#, ignore-same
+msgctxt "SCRIPT60: 21"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "22"
+#, ignore-same
+msgctxt "SCRIPT60: 22"
 msgid ""
 "SCRIPT5\n"
 "2"
 msgstr ""
 
-msgctxt "23"
+#, ignore-same
+msgctxt "SCRIPT60: 23"
 msgid "●"
 msgstr ""
 
-msgctxt "24"
+#, ignore-same
+msgctxt "SCRIPT60: 24"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "25"
+#, ignore-same
+msgctxt "SCRIPT60: 25"
 msgid ""
 "SCRIPT6\n"
 "0"
 msgstr ""
 
-msgctxt "26"
+#, ignore-same
+msgctxt "SCRIPT60: 26"
 msgid "●"
 msgstr ""
 
-msgctxt "27"
+#, ignore-same
+msgctxt "SCRIPT60: 27"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "28"
+#, ignore-same
+msgctxt "SCRIPT60: 28"
 msgid ""
 "SCRIPT7\n"
 "0"
 msgstr ""
 
-msgctxt "29"
+#, ignore-same
+msgctxt "SCRIPT60: 29"
 msgid "●"
 msgstr ""
 
-msgctxt "30"
+#, ignore-same
+msgctxt "SCRIPT60: 30"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "31"
+#, ignore-same
+msgctxt "SCRIPT60: 31"
 msgid ""
 "SCRIPT8\n"
 "0"
 msgstr ""
 
-msgctxt "32"
+#, ignore-same
+msgctxt "SCRIPT60: 32"
 msgid ""
 "バストショット:cps2_bs_ayame_a2.tga\n"
 "左\n"
 "OFF"
 msgstr ""
 
-msgctxt "33"
+#, ignore-same
+msgctxt "SCRIPT60: 33"
 msgid ""
 "文字表示:あやめ:この椅子だけななめってるわっ！\n"
 " \n"
@@ -189,35 +221,42 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "34"
+#, ignore-same
+msgctxt "SCRIPT60: 34"
 msgid "●"
 msgstr "●"
 
-msgctxt "35"
+#, ignore-same
+msgctxt "SCRIPT60: 35"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "36"
+#, ignore-same
+msgctxt "SCRIPT60: 36"
 msgid ""
 "SCRIPT9\n"
 "0"
 msgstr ""
 
-msgctxt "37"
+#, ignore-same
+msgctxt "SCRIPT60: 37"
 msgid "●"
 msgstr "●"
 
-msgctxt "38"
+#, ignore-same
+msgctxt "SCRIPT60: 38"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "39"
+#, ignore-same
+msgctxt "SCRIPT60: 39"
 msgid ""
 "SCRIPT10\n"
 "0"
 msgstr ""
 
-msgctxt "40"
+#, ignore-same
+msgctxt "SCRIPT60: 40"
 msgid ""
 "場所移動:廊下１F\n"
 "85\n"
@@ -227,21 +266,25 @@ msgid ""
 "そのまま"
 msgstr ""
 
-msgctxt "41"
+#, ignore-same
+msgctxt "SCRIPT60: 41"
 msgid "●"
 msgstr ""
 
-msgctxt "42"
+#, ignore-same
+msgctxt "SCRIPT60: 42"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "43"
+#, ignore-same
+msgctxt "SCRIPT60: 43"
 msgid ""
 "SCRIPT10\n"
 "1"
 msgstr ""
 
-msgctxt "44"
+#, ignore-same
+msgctxt "SCRIPT60: 44"
 msgid ""
 "文字表示:律子:やめなさい！　出たら終わりよ？\n"
 "いいの？\n"
@@ -255,7 +298,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "45"
+#, ignore-same
+msgctxt "SCRIPT60: 45"
 msgid ""
 "キャラクター移動:0\n"
 "↑↑\n"
@@ -264,21 +308,25 @@ msgid ""
 "ON"
 msgstr ""
 
-msgctxt "46"
+#, ignore-same
+msgctxt "SCRIPT60: 46"
 msgid "●"
 msgstr "●"
 
-msgctxt "47"
+#, ignore-same
+msgctxt "SCRIPT60: 47"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "48"
+#, ignore-same
+msgctxt "SCRIPT60: 48"
 msgid ""
 "SCRIPT10\n"
 "2"
 msgstr ""
 
-msgctxt "49"
+#, ignore-same
+msgctxt "SCRIPT60: 49"
 msgid ""
 "文字表示:律子:やめなさい！　出たら終わりよ？\n"
 "いいの？\n"
@@ -292,17 +340,20 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "50"
+#, ignore-same
+msgctxt "SCRIPT60: 50"
 msgid ""
 "選択肢:はい\n"
 "いいえ"
 msgstr ""
 
-msgctxt "51"
+#, ignore-same
+msgctxt "SCRIPT60: 51"
 msgid "▼:はい"
 msgstr ""
 
-msgctxt "52"
+#, ignore-same
+msgctxt "SCRIPT60: 52"
 msgid ""
 "文字表示:あやめ:（律子さん……ごめんなさい！）\n"
 " \n"
@@ -311,14 +362,16 @@ msgid ""
 "1"
 msgstr ""
 
-msgctxt "53"
+#, ignore-same
+msgctxt "SCRIPT60: 53"
 msgid ""
 "フラグ:160:ＥＸ開始\n"
 "ON\n"
 "0"
 msgstr ""
 
-msgctxt "54"
+#, ignore-same
+msgctxt "SCRIPT60: 54"
 msgid ""
 "場所移動:■廊下１Ｆ\n"
 "85\n"
@@ -331,15 +384,18 @@ msgid ""
 "on"
 msgstr ""
 
-msgctxt "55"
+#, ignore-same
+msgctxt "SCRIPT60: 55"
 msgid "●"
 msgstr "●"
 
-msgctxt "56"
+#, ignore-same
+msgctxt "SCRIPT60: 56"
 msgid "▼:いいえ"
 msgstr ""
 
-msgctxt "57"
+#, ignore-same
+msgctxt "SCRIPT60: 57"
 msgid ""
 "キャラクター移動:0\n"
 "↑↑\n"
@@ -348,29 +404,35 @@ msgid ""
 "ON"
 msgstr ""
 
-msgctxt "58"
+#, ignore-same
+msgctxt "SCRIPT60: 58"
 msgid "●"
 msgstr "●"
 
-msgctxt "59"
+#, ignore-same
+msgctxt "SCRIPT60: 59"
 msgid "選択終了"
 msgstr ""
 
-msgctxt "60"
+#, ignore-same
+msgctxt "SCRIPT60: 60"
 msgid "●"
 msgstr ""
 
-msgctxt "61"
+#, ignore-same
+msgctxt "SCRIPT60: 61"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "62"
+#, ignore-same
+msgctxt "SCRIPT60: 62"
 msgid ""
 "SCRIPT10\n"
 "3"
 msgstr ""
 
-msgctxt "63"
+#, ignore-same
+msgctxt "SCRIPT60: 63"
 msgid ""
 "文字表示:部屋を出ますか？\n"
 " \n"
@@ -379,17 +441,20 @@ msgid ""
 "100"
 msgstr ""
 
-msgctxt "64"
+#, ignore-same
+msgctxt "SCRIPT60: 64"
 msgid ""
 "選択肢:はい\n"
 "いいえ"
 msgstr ""
 
-msgctxt "65"
+#, ignore-same
+msgctxt "SCRIPT60: 65"
 msgid "▼:はい"
 msgstr ""
 
-msgctxt "66"
+#, ignore-same
+msgctxt "SCRIPT60: 66"
 msgid ""
 "文字表示:あやめ:（律子さん……ごめんなさい！）\n"
 " \n"
@@ -398,14 +463,16 @@ msgid ""
 "1"
 msgstr ""
 
-msgctxt "67"
+#, ignore-same
+msgctxt "SCRIPT60: 67"
 msgid ""
 "フラグ:160:ＥＸ開始\n"
 "ON\n"
 "0"
 msgstr ""
 
-msgctxt "68"
+#, ignore-same
+msgctxt "SCRIPT60: 68"
 msgid ""
 "場所移動:■廊下１Ｆ\n"
 "85\n"
@@ -418,15 +485,18 @@ msgid ""
 "on"
 msgstr ""
 
-msgctxt "69"
+#, ignore-same
+msgctxt "SCRIPT60: 69"
 msgid "●"
 msgstr ""
 
-msgctxt "70"
+#, ignore-same
+msgctxt "SCRIPT60: 70"
 msgid "▼:いいえ"
 msgstr ""
 
-msgctxt "71"
+#, ignore-same
+msgctxt "SCRIPT60: 71"
 msgid ""
 "キャラクター移動:0\n"
 "↑↑\n"
@@ -435,29 +505,35 @@ msgid ""
 "ON"
 msgstr ""
 
-msgctxt "72"
+#, ignore-same
+msgctxt "SCRIPT60: 72"
 msgid "●"
 msgstr ""
 
-msgctxt "73"
+#, ignore-same
+msgctxt "SCRIPT60: 73"
 msgid "選択終了"
 msgstr ""
 
-msgctxt "74"
+#, ignore-same
+msgctxt "SCRIPT60: 74"
 msgid "●"
 msgstr ""
 
-msgctxt "75"
+#, ignore-same
+msgctxt "SCRIPT60: 75"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "76"
+#, ignore-same
+msgctxt "SCRIPT60: 76"
 msgid ""
 "SCRIPT10\n"
 "4"
 msgstr ""
 
-msgctxt "77"
+#, ignore-same
+msgctxt "SCRIPT60: 77"
 msgid ""
 "文字表示:向こう側から何かを打ち付けられていて\n"
 "外に出られない\n"
@@ -466,49 +542,59 @@ msgid ""
 "100"
 msgstr ""
 
-msgctxt "78"
+#, ignore-same
+msgctxt "SCRIPT60: 78"
 msgid "●"
 msgstr ""
 
-msgctxt "79"
+#, ignore-same
+msgctxt "SCRIPT60: 79"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "80"
+#, ignore-same
+msgctxt "SCRIPT60: 80"
 msgid ""
 "SCRIPT11\n"
 "0"
 msgstr ""
 
-msgctxt "81"
+#, ignore-same
+msgctxt "SCRIPT60: 81"
 msgid "●"
 msgstr ""
 
-msgctxt "82"
+#, ignore-same
+msgctxt "SCRIPT60: 82"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "83"
+#, ignore-same
+msgctxt "SCRIPT60: 83"
 msgid ""
 "SCRIPT12\n"
 "0"
 msgstr ""
 
-msgctxt "84"
+#, ignore-same
+msgctxt "SCRIPT60: 84"
 msgid "●"
 msgstr ""
 
-msgctxt "85"
+#, ignore-same
+msgctxt "SCRIPT60: 85"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "86"
+#, ignore-same
+msgctxt "SCRIPT60: 86"
 msgid ""
 "SCRIPT13\n"
 "0"
 msgstr ""
 
-msgctxt "87"
+#, ignore-same
+msgctxt "SCRIPT60: 87"
 msgid ""
 "文字表示:あやめ:あ、TV……見つけました！\n"
 "\n"
@@ -522,25 +608,29 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "88"
+#, ignore-same
+msgctxt "SCRIPT60: 88"
 msgid ""
 "フェード:アウト\n"
 "30\n"
 "黒"
 msgstr ""
 
-msgctxt "89"
+#, ignore-same
+msgctxt "SCRIPT60: 89"
 msgid "カットシーン:#08-03CS"
 msgstr ""
 
-msgctxt "90"
+#, ignore-same
+msgctxt "SCRIPT60: 90"
 msgid ""
 "フラグ:45:テレビを見つけた\n"
 "ON\n"
 "0"
 msgstr ""
 
-msgctxt "91"
+#, ignore-same
+msgctxt "SCRIPT60: 91"
 msgid ""
 "イベント移動:3\n"
 "1003\n"
@@ -549,66 +639,79 @@ msgid ""
 "ON"
 msgstr ""
 
-msgctxt "92"
+#, ignore-same
+msgctxt "SCRIPT60: 92"
 msgid ""
 "フェード:イン\n"
 "30\n"
 "黒"
 msgstr ""
 
-msgctxt "93"
+#, ignore-same
+msgctxt "SCRIPT60: 93"
 msgid "目的表示:"
 msgstr ""
 
-msgctxt "94"
+#, ignore-same
+msgctxt "SCRIPT60: 94"
 msgid "●"
 msgstr ""
 
-msgctxt "95"
+#, ignore-same
+msgctxt "SCRIPT60: 95"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "96"
+#, ignore-same
+msgctxt "SCRIPT60: 96"
 msgid ""
 "SCRIPT13\n"
 "1"
 msgstr ""
 
-msgctxt "97"
+#, ignore-same
+msgctxt "SCRIPT60: 97"
 msgid "●"
 msgstr ""
 
-msgctxt "98"
+#, ignore-same
+msgctxt "SCRIPT60: 98"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "99"
+#, ignore-same
+msgctxt "SCRIPT60: 99"
 msgid ""
 "SCRIPT14\n"
 "0"
 msgstr ""
 
-msgctxt "100"
+#, ignore-same
+msgctxt "SCRIPT60: 100"
 msgid ""
 "アイテム取得:１０円玉\n"
 "ON"
 msgstr ""
 
-msgctxt "101"
+#, ignore-same
+msgctxt "SCRIPT60: 101"
 msgid "●"
 msgstr ""
 
-msgctxt "102"
+#, ignore-same
+msgctxt "SCRIPT60: 102"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "103"
+#, ignore-same
+msgctxt "SCRIPT60: 103"
 msgid ""
 "SCRIPT15\n"
 "0"
 msgstr ""
 
-msgctxt "104"
+#, ignore-same
+msgctxt "SCRIPT60: 104"
 msgid ""
 "キャラクター移動:このイベント\n"
 "Ｐ\n"
@@ -617,7 +720,8 @@ msgid ""
 "ON"
 msgstr ""
 
-msgctxt "105"
+#, ignore-same
+msgctxt "SCRIPT60: 105"
 msgid ""
 "文字表示:千代美:ちよみのケータイあればなぁ、TVとかネットとか\n"
 "みれたのになぁ……へぶしっ\n"
@@ -626,21 +730,25 @@ msgid ""
 "100"
 msgstr ""
 
-msgctxt "106"
+#, ignore-same
+msgctxt "SCRIPT60: 106"
 msgid "●"
 msgstr ""
 
-msgctxt "107"
+#, ignore-same
+msgctxt "SCRIPT60: 107"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "108"
+#, ignore-same
+msgctxt "SCRIPT60: 108"
 msgid ""
 "SCRIPT15\n"
 "1"
 msgstr ""
 
-msgctxt "109"
+#, ignore-same
+msgctxt "SCRIPT60: 109"
 msgid ""
 "キャラクター移動:このイベント\n"
 "Ｐ\n"
@@ -649,7 +757,8 @@ msgid ""
 "ON"
 msgstr ""
 
-msgctxt "110"
+#, ignore-same
+msgctxt "SCRIPT60: 110"
 msgid ""
 "文字表示:千代美:どきどきするから、早く見つけてほしいにょ\n"
 " \n"
@@ -658,50 +767,59 @@ msgid ""
 "100"
 msgstr ""
 
-msgctxt "111"
+#, ignore-same
+msgctxt "SCRIPT60: 111"
 msgid "●"
 msgstr ""
 
-msgctxt "112"
+#, ignore-same
+msgctxt "SCRIPT60: 112"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "113"
+#, ignore-same
+msgctxt "SCRIPT60: 113"
 msgid ""
 "SCRIPT15\n"
 "2"
 msgstr ""
 
-msgctxt "114"
+#, ignore-same
+msgctxt "SCRIPT60: 114"
 msgid "●"
 msgstr "●"
 
-#, fuzzy
-msgctxt "115"
+#, ignore-same
+msgctxt "SCRIPT60: 115"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "116"
+#, ignore-same
+msgctxt "SCRIPT60: 116"
 msgid ""
 "SCRIPT15\n"
 "3"
 msgstr ""
 
-msgctxt "117"
+#, ignore-same
+msgctxt "SCRIPT60: 117"
 msgid "●"
 msgstr ""
 
-msgctxt "118"
+#, ignore-same
+msgctxt "SCRIPT60: 118"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "119"
+#, ignore-same
+msgctxt "SCRIPT60: 119"
 msgid ""
 "SCRIPT16\n"
 "0"
 msgstr ""
 
-msgctxt "120"
+#, ignore-same
+msgctxt "SCRIPT60: 120"
 msgid ""
 "文字表示:律子:ったく……会社支給のスマホがあれば\n"
 "……ぶつぶつ\n"
@@ -715,21 +833,25 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "121"
+#, ignore-same
+msgctxt "SCRIPT60: 121"
 msgid "●"
 msgstr ""
 
-msgctxt "122"
+#, ignore-same
+msgctxt "SCRIPT60: 122"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "123"
+#, ignore-same
+msgctxt "SCRIPT60: 123"
 msgid ""
 "SCRIPT16\n"
 "1"
 msgstr ""
 
-msgctxt "124"
+#, ignore-same
+msgctxt "SCRIPT60: 124"
 msgid ""
 "キャラクター移動:このイベント\n"
 "Ｐ\n"
@@ -738,7 +860,8 @@ msgid ""
 "ON"
 msgstr ""
 
-msgctxt "125"
+#, ignore-same
+msgctxt "SCRIPT60: 125"
 msgid ""
 "文字表示:律子:うるさいわねぇ･･･\n"
 "どこから鳴ってるの？\n"
@@ -747,21 +870,25 @@ msgid ""
 "1"
 msgstr ""
 
-msgctxt "126"
+#, ignore-same
+msgctxt "SCRIPT60: 126"
 msgid "●"
 msgstr ""
 
-msgctxt "127"
+#, ignore-same
+msgctxt "SCRIPT60: 127"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "128"
+#, ignore-same
+msgctxt "SCRIPT60: 128"
 msgid ""
 "SCRIPT16\n"
 "2"
 msgstr ""
 
-msgctxt "129"
+#, ignore-same
+msgctxt "SCRIPT60: 129"
 msgid ""
 "キャラクター移動:このイベント\n"
 "Ｐ\n"
@@ -770,7 +897,8 @@ msgid ""
 "ON"
 msgstr ""
 
-msgctxt "130"
+#, ignore-same
+msgctxt "SCRIPT60: 130"
 msgid ""
 "文字表示:律子:あなたは馬鹿じゃないでしょう？\n"
 "知ってるわ\n"
@@ -784,14 +912,16 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "131"
+#, ignore-same
+msgctxt "SCRIPT60: 131"
 msgid ""
 "ローカルフラグ:32:律子に話しかけた１回目\n"
 "ON\n"
 "0"
 msgstr ""
 
-msgctxt "132"
+#, ignore-same
+msgctxt "SCRIPT60: 132"
 msgid ""
 "キャラクター移動:このイベント\n"
 "下\n"
@@ -800,21 +930,25 @@ msgid ""
 "ON"
 msgstr ""
 
-msgctxt "133"
+#, ignore-same
+msgctxt "SCRIPT60: 133"
 msgid "●"
 msgstr ""
 
-msgctxt "134"
+#, ignore-same
+msgctxt "SCRIPT60: 134"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "135"
+#, ignore-same
+msgctxt "SCRIPT60: 135"
 msgid ""
 "SCRIPT16\n"
 "3"
 msgstr ""
 
-msgctxt "136"
+#, ignore-same
+msgctxt "SCRIPT60: 136"
 msgid ""
 "キャラクター移動:このイベント\n"
 "Ｐ\n"
@@ -823,7 +957,8 @@ msgid ""
 "ON"
 msgstr ""
 
-msgctxt "137"
+#, ignore-same
+msgctxt "SCRIPT60: 137"
 msgid ""
 "文字表示:律子:危機的状況においては、助け合いじゃなく\n"
 "個々なの\n"
@@ -837,7 +972,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "138"
+#, ignore-same
+msgctxt "SCRIPT60: 138"
 msgid ""
 "文字表示:律子:それぞれが自分を律して身を守ること\n"
 "それがひいては皆を救う――協力になるのよ\n"
@@ -851,17 +987,20 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "139"
+#, ignore-same
+msgctxt "SCRIPT60: 139"
 msgid ""
 "選択肢:違うと思います\n"
 "わかります"
 msgstr ""
 
-msgctxt "140"
+#, ignore-same
+msgctxt "SCRIPT60: 140"
 msgid "▼:違うと思います"
 msgstr ""
 
-msgctxt "141"
+#, ignore-same
+msgctxt "SCRIPT60: 141"
 msgid ""
 "文字表示:律子:……ま、子供に問う内容じゃないかしらね\n"
 "\n"
@@ -875,7 +1014,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "142"
+#, ignore-same
+msgctxt "SCRIPT60: 142"
 msgid ""
 "文字表示:律子:ヒロイックな感情の先に、何かがあると\n"
 "思っているんでしょう？\n"
@@ -884,7 +1024,8 @@ msgid ""
 "100"
 msgstr ""
 
-msgctxt "143"
+#, ignore-same
+msgctxt "SCRIPT60: 143"
 msgid ""
 "キャラクター移動:このイベント\n"
 "下\n"
@@ -893,15 +1034,18 @@ msgid ""
 "ON"
 msgstr ""
 
-msgctxt "144"
+#, ignore-same
+msgctxt "SCRIPT60: 144"
 msgid "●"
 msgstr ""
 
-msgctxt "145"
+#, ignore-same
+msgctxt "SCRIPT60: 145"
 msgid "▼:わかります"
 msgstr ""
 
-msgctxt "146"
+#, ignore-same
+msgctxt "SCRIPT60: 146"
 msgid ""
 "文字表示:律子:……うん\n"
 "\n"
@@ -915,7 +1059,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "147"
+#, ignore-same
+msgctxt "SCRIPT60: 147"
 msgid ""
 "文字表示:律子:いい子ね\n"
 "……あなたみたいな子、好きよ？\n"
@@ -924,7 +1069,8 @@ msgid ""
 "100"
 msgstr ""
 
-msgctxt "148"
+#, ignore-same
+msgctxt "SCRIPT60: 148"
 msgid ""
 "イベント移動:このイベント\n"
 "120f120b150b\n"
@@ -933,43 +1079,51 @@ msgid ""
 "ON"
 msgstr ""
 
-msgctxt "149"
+#, ignore-same
+msgctxt "SCRIPT60: 149"
 msgid ""
 "ローカルフラグ:33:律子に話しかけた２回目\n"
 "ON\n"
 "0"
 msgstr ""
 
-msgctxt "150"
+#, ignore-same
+msgctxt "SCRIPT60: 150"
 msgid ""
 "ローカルフラグ:34:脱出フラグ\n"
 "ON\n"
 "300"
 msgstr ""
 
-msgctxt "151"
+#, ignore-same
+msgctxt "SCRIPT60: 151"
 msgid "●"
 msgstr ""
 
-msgctxt "152"
+#, ignore-same
+msgctxt "SCRIPT60: 152"
 msgid "選択終了"
 msgstr ""
 
-msgctxt "153"
+#, ignore-same
+msgctxt "SCRIPT60: 153"
 msgid "●"
 msgstr ""
 
-msgctxt "154"
+#, ignore-same
+msgctxt "SCRIPT60: 154"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "155"
+#, ignore-same
+msgctxt "SCRIPT60: 155"
 msgid ""
 "SCRIPT16\n"
 "4"
 msgstr ""
 
-msgctxt "156"
+#, ignore-same
+msgctxt "SCRIPT60: 156"
 msgid ""
 "キャラクター移動:このイベント\n"
 "Ｐ\n"
@@ -978,7 +1132,8 @@ msgid ""
 "ON"
 msgstr ""
 
-msgctxt "157"
+#, ignore-same
+msgctxt "SCRIPT60: 157"
 msgid ""
 "文字表示:律子:いい子ね\n"
 "……あなたみたいな子、好きよ？\n"
@@ -992,7 +1147,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "158"
+#, ignore-same
+msgctxt "SCRIPT60: 158"
 msgid ""
 "キャラクター移動:このイベント\n"
 "上\n"
@@ -1001,116 +1157,139 @@ msgid ""
 "ON"
 msgstr ""
 
-msgctxt "159"
+#, ignore-same
+msgctxt "SCRIPT60: 159"
 msgid "●"
 msgstr ""
 
-msgctxt "160"
+#, ignore-same
+msgctxt "SCRIPT60: 160"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "161"
+#, ignore-same
+msgctxt "SCRIPT60: 161"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "162"
+#, ignore-same
+msgctxt "SCRIPT60: 162"
 msgid ""
 "SCRIPT16\n"
 "5"
 msgstr ""
 
-msgctxt "163"
+#, ignore-same
+msgctxt "SCRIPT60: 163"
 msgid "●"
 msgstr ""
 
-msgctxt "164"
+#, ignore-same
+msgctxt "SCRIPT60: 164"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "165"
+#, ignore-same
+msgctxt "SCRIPT60: 165"
 msgid ""
 "SCRIPT17\n"
 "0"
 msgstr ""
 
-msgctxt "166"
+#, ignore-same
+msgctxt "SCRIPT60: 166"
 msgid "●"
 msgstr ""
 
-msgctxt "167"
+#, ignore-same
+msgctxt "SCRIPT60: 167"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "168"
+#, ignore-same
+msgctxt "SCRIPT60: 168"
 msgid ""
 "SCRIPT17\n"
 "1"
 msgstr ""
 
-msgctxt "169"
+#, ignore-same
+msgctxt "SCRIPT60: 169"
 msgid ""
 "フラグ:44:ダクトをあけた\n"
 "ON\n"
 "0"
 msgstr ""
 
-msgctxt "170"
+#, ignore-same
+msgctxt "SCRIPT60: 170"
 msgid "●"
 msgstr ""
 
-msgctxt "171"
+#, ignore-same
+msgctxt "SCRIPT60: 171"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "172"
+#, ignore-same
+msgctxt "SCRIPT60: 172"
 msgid ""
 "SCRIPT18\n"
 "0"
 msgstr ""
 
-msgctxt "173"
+#, ignore-same
+msgctxt "SCRIPT60: 173"
 msgid "●"
 msgstr ""
 
-msgctxt "174"
+#, ignore-same
+msgctxt "SCRIPT60: 174"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "175"
+#, ignore-same
+msgctxt "SCRIPT60: 175"
 msgid ""
 "SCRIPT19\n"
 "0"
 msgstr ""
 
-msgctxt "176"
+#, ignore-same
+msgctxt "SCRIPT60: 176"
 msgid ""
 "音声再生:VOICE/se/se_ritsuko/se_ritsuko_027.wav\n"
 "0\n"
 "100"
 msgstr ""
 
-msgctxt "177"
+#, ignore-same
+msgctxt "SCRIPT60: 177"
 msgid "●"
 msgstr ""
 
-msgctxt "178"
+#, ignore-same
+msgctxt "SCRIPT60: 178"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "179"
+#, ignore-same
+msgctxt "SCRIPT60: 179"
 msgid ""
 "SCRIPT20\n"
 "0"
 msgstr ""
 
-msgctxt "180"
+#, ignore-same
+msgctxt "SCRIPT60: 180"
 msgid ""
 "ＳＥ:CORP2-SE127.wav\n"
 "ON\n"
 "OFF"
 msgstr ""
 
-msgctxt "181"
+#, ignore-same
+msgctxt "SCRIPT60: 181"
 msgid ""
 "文字表示:律子:！\n"
 "\n"
@@ -1124,19 +1303,23 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "182"
+#, ignore-same
+msgctxt "SCRIPT60: 182"
 msgid "Se:ピッ"
 msgstr ""
 
-msgctxt "183"
+#, ignore-same
+msgctxt "SCRIPT60: 183"
 msgid "携帯を見る律子。"
 msgstr ""
 
-msgctxt "184"
+#, ignore-same
+msgctxt "SCRIPT60: 184"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "185"
+#, ignore-same
+msgctxt "SCRIPT60: 185"
 msgid ""
 "イベント画像表示:eventcg_09.tga\n"
 "30\n"
@@ -1145,7 +1328,8 @@ msgid ""
 "SS"
 msgstr ""
 
-msgctxt "186"
+#, ignore-same
+msgctxt "SCRIPT60: 186"
 msgid ""
 "文字表示:律子:雅巳からだわ！\n"
 "……『どこも怪我して無い？』だって\n"
@@ -1159,7 +1343,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "187"
+#, ignore-same
+msgctxt "SCRIPT60: 187"
 msgid ""
 "文字表示:あやめ:っ……！\n"
 " \n"
@@ -1168,7 +1353,8 @@ msgid ""
 "1"
 msgstr ""
 
-msgctxt "188"
+#, ignore-same
+msgctxt "SCRIPT60: 188"
 msgid ""
 "文字表示:律子:……ふふ、優しいんだから\n"
 "私のが年上だっての……\n"
@@ -1182,7 +1368,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "189"
+#, ignore-same
+msgctxt "SCRIPT60: 189"
 msgid ""
 "キャラクター移動:16\n"
 "Ｐ\n"
@@ -1191,7 +1378,8 @@ msgid ""
 "ON"
 msgstr ""
 
-msgctxt "190"
+#, ignore-same
+msgctxt "SCRIPT60: 190"
 msgid ""
 "文字表示:律子:返事しとくわね\n"
 "『手を少し切った程度、全然平気』って\n"
@@ -1205,18 +1393,21 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "191"
+#, ignore-same
+msgctxt "SCRIPT60: 191"
 msgid "イベント画像非表示:"
 msgstr ""
 
-msgctxt "192"
+#, ignore-same
+msgctxt "SCRIPT60: 192"
 msgid ""
 "ローカルフラグ:35:雅巳からのメールを確認\n"
 "ON\n"
 "0"
 msgstr ""
 
-msgctxt "193"
+#, ignore-same
+msgctxt "SCRIPT60: 193"
 msgid ""
 "キャラクター移動:16\n"
 "上\n"
@@ -1225,57 +1416,68 @@ msgid ""
 "ON"
 msgstr ""
 
-msgctxt "194"
+#, ignore-same
+msgctxt "SCRIPT60: 194"
 msgid "●"
 msgstr ""
 
-msgctxt "195"
+#, ignore-same
+msgctxt "SCRIPT60: 195"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "196"
+#, ignore-same
+msgctxt "SCRIPT60: 196"
 msgid ""
 "SCRIPT20\n"
 "1"
 msgstr ""
 
-msgctxt "197"
+#, ignore-same
+msgctxt "SCRIPT60: 197"
 msgid "●"
 msgstr ""
 
-msgctxt "198"
+#, ignore-same
+msgctxt "SCRIPT60: 198"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "199"
+#, ignore-same
+msgctxt "SCRIPT60: 199"
 msgid ""
 "SCRIPT21\n"
 "0"
 msgstr ""
 
-msgctxt "200"
+#, ignore-same
+msgctxt "SCRIPT60: 200"
 msgid ""
 "フェード:アウト\n"
 "30\n"
 "黒"
 msgstr ""
 
-msgctxt "201"
+#, ignore-same
+msgctxt "SCRIPT60: 201"
 msgid "カットシーン:#09-01CS"
 msgstr ""
 
-msgctxt "202"
+#, ignore-same
+msgctxt "SCRIPT60: 202"
 msgid ""
 "ローカルフラグ:37:ダクトを探す\n"
 "ON\n"
 "0"
 msgstr ""
 
-msgctxt "203"
+#, ignore-same
+msgctxt "SCRIPT60: 203"
 msgid "目的表示:脱出口を探す"
 msgstr ""
 
-msgctxt "204"
+#, ignore-same
+msgctxt "SCRIPT60: 204"
 msgid ""
 "ローカルフラグ:41:ガスで死亡\n"
 "ON\n"
@@ -1283,35 +1485,42 @@ msgid ""
 "ON"
 msgstr ""
 
-msgctxt "205"
+#, ignore-same
+msgctxt "SCRIPT60: 205"
 msgid "●"
 msgstr ""
 
-msgctxt "206"
+#, ignore-same
+msgctxt "SCRIPT60: 206"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "207"
+#, ignore-same
+msgctxt "SCRIPT60: 207"
 msgid ""
 "SCRIPT21\n"
 "1"
 msgstr ""
 
-msgctxt "208"
+#, ignore-same
+msgctxt "SCRIPT60: 208"
 msgid "●"
 msgstr ""
 
-msgctxt "209"
+#, ignore-same
+msgctxt "SCRIPT60: 209"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "210"
+#, ignore-same
+msgctxt "SCRIPT60: 210"
 msgid ""
 "SCRIPT22\n"
 "0"
 msgstr ""
 
-msgctxt "211"
+#, ignore-same
+msgctxt "SCRIPT60: 211"
 msgid ""
 "キャラアニメ:0\n"
 "99\n"
@@ -1319,15 +1528,18 @@ msgid ""
 "0"
 msgstr ""
 
-msgctxt "212"
+#, ignore-same
+msgctxt "SCRIPT60: 212"
 msgid "フラグ分岐:44:ダクトをあけた"
 msgstr ""
 
-msgctxt "213"
+#, ignore-same
+msgctxt "SCRIPT60: 213"
 msgid "▼:ON"
 msgstr ""
 
-msgctxt "214"
+#, ignore-same
+msgctxt "SCRIPT60: 214"
 msgid ""
 "文字表示:ダクトの奥に暗闇が広がる\n"
 " \n"
@@ -1336,15 +1548,18 @@ msgid ""
 "100"
 msgstr ""
 
-msgctxt "215"
+#, ignore-same
+msgctxt "SCRIPT60: 215"
 msgid "●"
 msgstr ""
 
-msgctxt "216"
+#, ignore-same
+msgctxt "SCRIPT60: 216"
 msgid "▼:OFF"
 msgstr ""
 
-msgctxt "217"
+#, ignore-same
+msgctxt "SCRIPT60: 217"
 msgid ""
 "文字表示:テキスト:プラスティックのフラップで塞がれた、風導管（ダクト）がある。\n"
 "人がギリギリ入って行けそうな、大きめの空調設備だ。\n"
@@ -1358,7 +1573,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "218"
+#, ignore-same
+msgctxt "SCRIPT60: 218"
 msgid ""
 "文字表示:テキスト:フラップは四隅をマイナスネジで留められている。\n"
 " \n"
@@ -1367,15 +1583,18 @@ msgid ""
 "1"
 msgstr ""
 
-msgctxt "219"
+#, ignore-same
+msgctxt "SCRIPT60: 219"
 msgid "使用アイテム分岐:１０円玉"
 msgstr ""
 
-msgctxt "220"
+#, ignore-same
+msgctxt "SCRIPT60: 220"
 msgid "▼:ON"
 msgstr ""
 
-msgctxt "221"
+#, ignore-same
+msgctxt "SCRIPT60: 221"
 msgid ""
 "文字表示:１０円玉を使って、フラップを取り外した\n"
 " \n"
@@ -1384,14 +1603,16 @@ msgid ""
 "100"
 msgstr ""
 
-msgctxt "222"
+#, ignore-same
+msgctxt "SCRIPT60: 222"
 msgid ""
 "フラグ:44:ダクトをあけた\n"
 "ON\n"
 "0"
 msgstr ""
 
-msgctxt "223"
+#, ignore-same
+msgctxt "SCRIPT60: 223"
 msgid ""
 "キャラアニメ:17\n"
 "176\n"
@@ -1399,40 +1620,48 @@ msgid ""
 "2"
 msgstr ""
 
-msgctxt "224"
+#, ignore-same
+msgctxt "SCRIPT60: 224"
 msgid ""
 "ＳＥ:CORP2-SE020.wav\n"
 "ON\n"
 "OFF"
 msgstr ""
 
-msgctxt "225"
+#, ignore-same
+msgctxt "SCRIPT60: 225"
 msgid ""
 "アイテム取得:１０円玉\n"
 "OFF"
 msgstr ""
 
-msgctxt "226"
+#, ignore-same
+msgctxt "SCRIPT60: 226"
 msgid "フラグカウントキャンセル:"
 msgstr ""
 
-msgctxt "227"
+#, ignore-same
+msgctxt "SCRIPT60: 227"
 msgid "●"
 msgstr ""
 
-msgctxt "228"
+#, ignore-same
+msgctxt "SCRIPT60: 228"
 msgid "▼:OFF"
 msgstr ""
 
-msgctxt "229"
+#, ignore-same
+msgctxt "SCRIPT60: 229"
 msgid "●"
 msgstr ""
 
-msgctxt "230"
+#, ignore-same
+msgctxt "SCRIPT60: 230"
 msgid "分岐終了"
 msgstr ""
 
-msgctxt "231"
+#, ignore-same
+msgctxt "SCRIPT60: 231"
 msgid ""
 "キャラアニメ:0\n"
 "99\n"
@@ -1440,48 +1669,58 @@ msgid ""
 "0"
 msgstr ""
 
-msgctxt "232"
+#, ignore-same
+msgctxt "SCRIPT60: 232"
 msgid "●"
 msgstr ""
 
-msgctxt "233"
+#, ignore-same
+msgctxt "SCRIPT60: 233"
 msgid "分岐終了"
 msgstr ""
 
-msgctxt "234"
+#, ignore-same
+msgctxt "SCRIPT60: 234"
 msgid "●"
 msgstr ""
 
-msgctxt "235"
+#, ignore-same
+msgctxt "SCRIPT60: 235"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "236"
+#, ignore-same
+msgctxt "SCRIPT60: 236"
 msgid ""
 "SCRIPT22\n"
 "1"
 msgstr ""
 
-msgctxt "237"
+#, ignore-same
+msgctxt "SCRIPT60: 237"
 msgid "フラグ分岐:44:"
 msgstr ""
 
-msgctxt "238"
+#, ignore-same
+msgctxt "SCRIPT60: 238"
 msgid "▼:ON"
 msgstr ""
 
-msgctxt "239"
+#, ignore-same
+msgctxt "SCRIPT60: 239"
 msgid ""
 "フェード:アウト\n"
 "30\n"
 "黒"
 msgstr ""
 
-msgctxt "240"
+#, ignore-same
+msgctxt "SCRIPT60: 240"
 msgid "カットシーン:#09-02CS"
 msgstr ""
 
-msgctxt "241"
+#, ignore-same
+msgctxt "SCRIPT60: 241"
 msgid ""
 "場所移動:■ダクト\n"
 "57\n"
@@ -1494,7 +1733,8 @@ msgid ""
 "on"
 msgstr ""
 
-msgctxt "242"
+#, ignore-same
+msgctxt "SCRIPT60: 242"
 msgid ""
 "ＢＧＭ:CORP2-BGM001.wav\n"
 "OFF\n"
@@ -1504,22 +1744,26 @@ msgid ""
 "100"
 msgstr ""
 
-msgctxt "243"
+#, ignore-same
+msgctxt "SCRIPT60: 243"
 msgid ""
 "ＳＥ:CORP2-SE113-KANKYO.wav\n"
 "OFF\n"
 "OFF"
 msgstr ""
 
-msgctxt "244"
+#, ignore-same
+msgctxt "SCRIPT60: 244"
 msgid "●"
 msgstr ""
 
-msgctxt "245"
+#, ignore-same
+msgctxt "SCRIPT60: 245"
 msgid "▼:OFF"
 msgstr ""
 
-msgctxt "246"
+#, ignore-same
+msgctxt "SCRIPT60: 246"
 msgid ""
 "キャラアニメ:0\n"
 "99\n"
@@ -1527,7 +1771,8 @@ msgid ""
 "0"
 msgstr ""
 
-msgctxt "247"
+#, ignore-same
+msgctxt "SCRIPT60: 247"
 msgid ""
 "文字表示:テキスト:プラスティックのフラップで塞がれた、風導管（ダクト）がある。\n"
 "人がギリギリ入って行けそうな、大きめの空調設備だ。\n"
@@ -1541,7 +1786,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "248"
+#, ignore-same
+msgctxt "SCRIPT60: 248"
 msgid ""
 "文字表示:テキスト:フラップは四隅をマイナスネジで留められている。\n"
 " \n"
@@ -1550,15 +1796,18 @@ msgid ""
 "1"
 msgstr ""
 
-msgctxt "249"
+#, ignore-same
+msgctxt "SCRIPT60: 249"
 msgid "使用アイテム分岐:１０円玉"
 msgstr ""
 
-msgctxt "250"
+#, ignore-same
+msgctxt "SCRIPT60: 250"
 msgid "▼:ON"
 msgstr ""
 
-msgctxt "251"
+#, ignore-same
+msgctxt "SCRIPT60: 251"
 msgid ""
 "文字表示:１０円玉を使って、フラップを取り外した\n"
 " \n"
@@ -1567,18 +1816,21 @@ msgid ""
 "100"
 msgstr ""
 
-msgctxt "252"
+#, ignore-same
+msgctxt "SCRIPT60: 252"
 msgid "フラグカウントキャンセル:"
 msgstr ""
 
-msgctxt "253"
+#, ignore-same
+msgctxt "SCRIPT60: 253"
 msgid ""
 "フラグ:44:ダクトをあけた\n"
 "ON\n"
 "0"
 msgstr ""
 
-msgctxt "254"
+#, ignore-same
+msgctxt "SCRIPT60: 254"
 msgid ""
 "キャラアニメ:17\n"
 "176\n"
@@ -1586,31 +1838,36 @@ msgid ""
 "2"
 msgstr ""
 
-msgctxt "255"
+#, ignore-same
+msgctxt "SCRIPT60: 255"
 msgid ""
 "ＳＥ:CORP2-SE020.wav\n"
 "ON\n"
 "OFF"
 msgstr ""
 
-msgctxt "256"
+#, ignore-same
+msgctxt "SCRIPT60: 256"
 msgid ""
 "アイテム取得:１０円玉\n"
 "OFF"
 msgstr ""
 
-msgctxt "257"
+#, ignore-same
+msgctxt "SCRIPT60: 257"
 msgid ""
 "フェード:アウト\n"
 "30\n"
 "黒"
 msgstr ""
 
-msgctxt "258"
+#, ignore-same
+msgctxt "SCRIPT60: 258"
 msgid "カットシーン:#09-02CS"
 msgstr ""
 
-msgctxt "259"
+#, ignore-same
+msgctxt "SCRIPT60: 259"
 msgid ""
 "ＢＧＭ:CORP2-BGM001.wav\n"
 "OFF\n"
@@ -1620,14 +1877,16 @@ msgid ""
 "100"
 msgstr ""
 
-msgctxt "260"
+#, ignore-same
+msgctxt "SCRIPT60: 260"
 msgid ""
 "ＳＥ:CORP2-SE113-KANKYO.wav\n"
 "OFF\n"
 "OFF"
 msgstr ""
 
-msgctxt "261"
+#, ignore-same
+msgctxt "SCRIPT60: 261"
 msgid ""
 "キャラアニメ:0\n"
 "7\n"
@@ -1635,24 +1894,28 @@ msgid ""
 "1"
 msgstr ""
 
-msgctxt "262"
+#, ignore-same
+msgctxt "SCRIPT60: 262"
 msgid ""
 "パーティー編成:ritsuko_duct\n"
 "なし\n"
 "なし"
 msgstr ""
 
-msgctxt "263"
+#, ignore-same
+msgctxt "SCRIPT60: 263"
 msgid "フォグ:OFF"
 msgstr ""
 
-msgctxt "264"
+#, ignore-same
+msgctxt "SCRIPT60: 264"
 msgid ""
 "アイテム取得:１０円玉\n"
 "OFF"
 msgstr ""
 
-msgctxt "265"
+#, ignore-same
+msgctxt "SCRIPT60: 265"
 msgid ""
 "場所移動:■ダクト\n"
 "57\n"
@@ -1665,15 +1928,18 @@ msgid ""
 "on"
 msgstr ""
 
-msgctxt "266"
+#, ignore-same
+msgctxt "SCRIPT60: 266"
 msgid "●"
 msgstr ""
 
-msgctxt "267"
+#, ignore-same
+msgctxt "SCRIPT60: 267"
 msgid "▼:OFF"
 msgstr ""
 
-msgctxt "268"
+#, ignore-same
+msgctxt "SCRIPT60: 268"
 msgid ""
 "キャラアニメ:0\n"
 "99\n"
@@ -1681,58 +1947,70 @@ msgid ""
 "0"
 msgstr ""
 
-msgctxt "269"
+#, ignore-same
+msgctxt "SCRIPT60: 269"
 msgid "●"
 msgstr ""
 
-msgctxt "270"
+#, ignore-same
+msgctxt "SCRIPT60: 270"
 msgid "分岐終了"
 msgstr ""
 
-msgctxt "271"
+#, ignore-same
+msgctxt "SCRIPT60: 271"
 msgid "●"
 msgstr ""
 
-msgctxt "272"
+#, ignore-same
+msgctxt "SCRIPT60: 272"
 msgid "分岐終了"
 msgstr ""
 
-msgctxt "273"
+#, ignore-same
+msgctxt "SCRIPT60: 273"
 msgid "●"
 msgstr ""
 
-msgctxt "274"
+#, ignore-same
+msgctxt "SCRIPT60: 274"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "275"
+#, ignore-same
+msgctxt "SCRIPT60: 275"
 msgid ""
 "SCRIPT23\n"
 "0"
 msgstr ""
 
-msgctxt "276"
+#, ignore-same
+msgctxt "SCRIPT60: 276"
 msgid "●"
 msgstr ""
 
-msgctxt "277"
+#, ignore-same
+msgctxt "SCRIPT60: 277"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "278"
+#, ignore-same
+msgctxt "SCRIPT60: 278"
 msgid ""
 "SCRIPT24\n"
 "0"
 msgstr ""
 
-msgctxt "279"
+#, ignore-same
+msgctxt "SCRIPT60: 279"
 msgid ""
 "フェード:アウト\n"
 "30\n"
 "黒"
 msgstr ""
 
-msgctxt "280"
+#, ignore-same
+msgctxt "SCRIPT60: 280"
 msgid ""
 "キャラアニメ:0\n"
 "7\n"
@@ -1740,7 +2018,8 @@ msgid ""
 "0"
 msgstr ""
 
-msgctxt "281"
+#, ignore-same
+msgctxt "SCRIPT60: 281"
 msgid ""
 "場所移動:■ダクト\n"
 "57\n"
@@ -1753,21 +2032,25 @@ msgid ""
 "on"
 msgstr ""
 
-msgctxt "282"
+#, ignore-same
+msgctxt "SCRIPT60: 282"
 msgid "●"
 msgstr ""
 
-msgctxt "283"
+#, ignore-same
+msgctxt "SCRIPT60: 283"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "284"
+#, ignore-same
+msgctxt "SCRIPT60: 284"
 msgid ""
 "SCRIPT25\n"
 "0"
 msgstr ""
 
-msgctxt "285"
+#, ignore-same
+msgctxt "SCRIPT60: 285"
 msgid ""
 "ローカルフラグ:36:＃９開始\n"
 "ON\n"
@@ -1775,21 +2058,25 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "286"
+#, ignore-same
+msgctxt "SCRIPT60: 286"
 msgid "●"
 msgstr ""
 
-msgctxt "287"
+#, ignore-same
+msgctxt "SCRIPT60: 287"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "288"
+#, ignore-same
+msgctxt "SCRIPT60: 288"
 msgid ""
 "SCRIPT26\n"
 "0"
 msgstr ""
 
-msgctxt "289"
+#, ignore-same
+msgctxt "SCRIPT60: 289"
 msgid ""
 "文字表示:ナースコールの表示板に\n"
 "病院の部屋の名前が並んでいる\n"
@@ -1798,40 +2085,48 @@ msgid ""
 "100"
 msgstr ""
 
-msgctxt "290"
+#, ignore-same
+msgctxt "SCRIPT60: 290"
 msgid "●"
 msgstr ""
 
-msgctxt "291"
+#, ignore-same
+msgctxt "SCRIPT60: 291"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "292"
+#, ignore-same
+msgctxt "SCRIPT60: 292"
 msgid ""
 "SCRIPT26\n"
 "1"
 msgstr ""
 
-msgctxt "293"
+#, ignore-same
+msgctxt "SCRIPT60: 293"
 msgid ""
 "フェード:アウト\n"
 "30\n"
 "黒"
 msgstr ""
 
-msgctxt "294"
+#, ignore-same
+msgctxt "SCRIPT60: 294"
 msgid "カットシーン:#08-04CS"
 msgstr ""
 
-msgctxt "295"
+#, ignore-same
+msgctxt "SCRIPT60: 295"
 msgid "カットシーン:#08-05CS"
 msgstr ""
 
-msgctxt "296"
+#, ignore-same
+msgctxt "SCRIPT60: 296"
 msgid "カットシーン:#08-06CS"
 msgstr ""
 
-msgctxt "297"
+#, ignore-same
+msgctxt "SCRIPT60: 297"
 msgid ""
 "イベント移動:0\n"
 "1012\n"
@@ -1840,56 +2135,67 @@ msgid ""
 "ON"
 msgstr ""
 
-msgctxt "298"
+#, ignore-same
+msgctxt "SCRIPT60: 298"
 msgid ""
 "フラグ:46:ナースステーションで千代美と別れた\n"
 "ON\n"
 "0"
 msgstr ""
 
-msgctxt "299"
+#, ignore-same
+msgctxt "SCRIPT60: 299"
 msgid "●"
 msgstr ""
 
-msgctxt "300"
+#, ignore-same
+msgctxt "SCRIPT60: 300"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "301"
+#, ignore-same
+msgctxt "SCRIPT60: 301"
 msgid ""
 "SCRIPT26\n"
 "2"
 msgstr ""
 
-msgctxt "302"
+#, ignore-same
+msgctxt "SCRIPT60: 302"
 msgid "●"
 msgstr ""
 
-msgctxt "303"
+#, ignore-same
+msgctxt "SCRIPT60: 303"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "304"
+#, ignore-same
+msgctxt "SCRIPT60: 304"
 msgid ""
 "SCRIPT27\n"
 "0"
 msgstr ""
 
-msgctxt "305"
+#, ignore-same
+msgctxt "SCRIPT60: 305"
 msgid "●"
 msgstr ""
 
-msgctxt "306"
+#, ignore-same
+msgctxt "SCRIPT60: 306"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "307"
+#, ignore-same
+msgctxt "SCRIPT60: 307"
 msgid ""
 "SCRIPT28\n"
 "0"
 msgstr ""
 
-msgctxt "308"
+#, ignore-same
+msgctxt "SCRIPT60: 308"
 msgid ""
 "文字表示:あやめ:（千代美ちゃんも心配だけれど……）\n"
 "\n"
@@ -1903,7 +2209,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "309"
+#, ignore-same
+msgctxt "SCRIPT60: 309"
 msgid ""
 "文字表示:あやめ:（律子さんも放ってはおけないわ\n"
 "　ちゃんと説得しよう……）\n"
@@ -1917,15 +2224,18 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "310"
+#, ignore-same
+msgctxt "SCRIPT60: 310"
 msgid "近寄って、"
 msgstr ""
 
-msgctxt "311"
+#, ignore-same
+msgctxt "SCRIPT60: 311"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "312"
+#, ignore-same
+msgctxt "SCRIPT60: 312"
 msgid ""
 "文字表示:あやめ:律子さん、私やっぱり千代美ちゃんが心配です\n"
 "\n"
@@ -1939,7 +2249,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "313"
+#, ignore-same
+msgctxt "SCRIPT60: 313"
 msgid ""
 "文字表示:あやめ:こういう時の助け合いって……やっぱり\n"
 "足の引っ張り合いとは、違うと思うんです\n"
@@ -1953,15 +2264,18 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "314"
+#, ignore-same
+msgctxt "SCRIPT60: 314"
 msgid "SE:ピッピッ、……ピッ（律子携帯操作ループ）→STOP"
 msgstr ""
 
-msgctxt "315"
+#, ignore-same
+msgctxt "SCRIPT60: 315"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "316"
+#, ignore-same
+msgctxt "SCRIPT60: 316"
 msgid ""
 "文字表示:あやめ:他の友達が心配なのは確かですが……そうでなくても、\n"
 "無事な人がいるなら救いに行くべきです\n"
@@ -1975,7 +2289,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "317"
+#, ignore-same
+msgctxt "SCRIPT60: 317"
 msgid ""
 "キャラクター移動:16\n"
 "Ｐ\n"
@@ -1984,7 +2299,8 @@ msgid ""
 "ON"
 msgstr ""
 
-msgctxt "318"
+#, ignore-same
+msgctxt "SCRIPT60: 318"
 msgid ""
 "文字表示:律子:子供ね、話にならないわ\n"
 "\n"
@@ -1998,31 +2314,38 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "319"
+#, ignore-same
+msgctxt "SCRIPT60: 319"
 msgid "SE:ピロロロロロロ！"
 msgstr ""
 
-msgctxt "320"
+#, ignore-same
+msgctxt "SCRIPT60: 320"
 msgid "雅巳（律子彼氏）からメールの返信。"
 msgstr ""
 
-msgctxt "321"
+#, ignore-same
+msgctxt "SCRIPT60: 321"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "322"
+#, ignore-same
+msgctxt "SCRIPT60: 322"
 msgid "Se:ピッ"
 msgstr ""
 
-msgctxt "323"
+#, ignore-same
+msgctxt "SCRIPT60: 323"
 msgid "携帯を見る律子。"
 msgstr ""
 
-msgctxt "324"
+#, ignore-same
+msgctxt "SCRIPT60: 324"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "325"
+#, ignore-same
+msgctxt "SCRIPT60: 325"
 msgid ""
 "文字表示:律子:あっ……もう病院前に着いたみたいよ、\n"
 "「部屋から出ないで待て」だって\n"
@@ -2036,7 +2359,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "326"
+#, ignore-same
+msgctxt "SCRIPT60: 326"
 msgid ""
 "文字表示:あやめ:そ、そう……ですか\n"
 "\n"
@@ -2050,7 +2374,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "327"
+#, ignore-same
+msgctxt "SCRIPT60: 327"
 msgid ""
 "文字表示:律子:よかった！　……意外と早く出られそうね\n"
 "\n"
@@ -2064,21 +2389,24 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "328"
+#, ignore-same
+msgctxt "SCRIPT60: 328"
 msgid ""
 "ローカルフラグ:36:＃９開始\n"
 "ON\n"
 "300"
 msgstr ""
 
-msgctxt "329"
+#, ignore-same
+msgctxt "SCRIPT60: 329"
 msgid ""
 "ローカルフラグ:39:雅巳からメール２回目\n"
 "ON\n"
 "0"
 msgstr ""
 
-msgctxt "330"
+#, ignore-same
+msgctxt "SCRIPT60: 330"
 msgid ""
 "キャラクター移動:16\n"
 "上\n"
@@ -2087,84 +2415,101 @@ msgid ""
 "ON"
 msgstr ""
 
-msgctxt "331"
+#, ignore-same
+msgctxt "SCRIPT60: 331"
 msgid "●"
 msgstr ""
 
-msgctxt "332"
+#, ignore-same
+msgctxt "SCRIPT60: 332"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "333"
+#, ignore-same
+msgctxt "SCRIPT60: 333"
 msgid ""
 "SCRIPT28\n"
 "1"
 msgstr ""
 
-msgctxt "334"
+#, ignore-same
+msgctxt "SCRIPT60: 334"
 msgid "●"
 msgstr ""
 
-msgctxt "335"
+#, ignore-same
+msgctxt "SCRIPT60: 335"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "336"
+#, ignore-same
+msgctxt "SCRIPT60: 336"
 msgid ""
 "SCRIPT29\n"
 "0"
 msgstr ""
 
-msgctxt "337"
+#, ignore-same
+msgctxt "SCRIPT60: 337"
 msgid "●"
 msgstr ""
 
-msgctxt "338"
+#, ignore-same
+msgctxt "SCRIPT60: 338"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "339"
+#, ignore-same
+msgctxt "SCRIPT60: 339"
 msgid ""
 "SCRIPT29\n"
 "1"
 msgstr ""
 
-msgctxt "340"
+#, ignore-same
+msgctxt "SCRIPT60: 340"
 msgid "●"
 msgstr ""
 
-msgctxt "341"
+#, ignore-same
+msgctxt "SCRIPT60: 341"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "342"
+#, ignore-same
+msgctxt "SCRIPT60: 342"
 msgid ""
 "SCRIPT30\n"
 "0"
 msgstr ""
 
-msgctxt "343"
+#, ignore-same
+msgctxt "SCRIPT60: 343"
 msgid "●"
 msgstr ""
 
-msgctxt "344"
+#, ignore-same
+msgctxt "SCRIPT60: 344"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "345"
+#, ignore-same
+msgctxt "SCRIPT60: 345"
 msgid ""
 "SCRIPT31\n"
 "0"
 msgstr ""
 
-msgctxt "346"
+#, ignore-same
+msgctxt "SCRIPT60: 346"
 msgid ""
 "音声再生:VOICE/se/se_ayame/se_ayame_027b.wav\n"
 "0\n"
 "100"
 msgstr ""
 
-msgctxt "347"
+#, ignore-same
+msgctxt "SCRIPT60: 347"
 msgid ""
 "キャラアニメ:0\n"
 "98\n"
@@ -2172,7 +2517,8 @@ msgid ""
 "0"
 msgstr ""
 
-msgctxt "348"
+#, ignore-same
+msgctxt "SCRIPT60: 348"
 msgid ""
 "キャラアニメ:0\n"
 "98\n"
@@ -2180,7 +2526,8 @@ msgid ""
 "0"
 msgstr ""
 
-msgctxt "349"
+#, ignore-same
+msgctxt "SCRIPT60: 349"
 msgid ""
 "キャラアニメ:0\n"
 "98\n"
@@ -2188,7 +2535,8 @@ msgid ""
 "0"
 msgstr ""
 
-msgctxt "350"
+#, ignore-same
+msgctxt "SCRIPT60: 350"
 msgid ""
 "キャラアニメ:0\n"
 "99\n"
@@ -2196,17 +2544,20 @@ msgid ""
 "0"
 msgstr ""
 
-msgctxt "351"
+#, ignore-same
+msgctxt "SCRIPT60: 351"
 msgid "バッドエンド:3"
 msgstr ""
 
-msgctxt "352"
+#, ignore-same
+msgctxt "SCRIPT60: 352"
 msgid ""
 "時間待ち:1000\n"
 "CLOSE"
 msgstr ""
 
-msgctxt "353"
+#, ignore-same
+msgctxt "SCRIPT60: 353"
 msgid ""
 "ローカルフラグ:42:死亡終了\n"
 "ON\n"
@@ -2214,24 +2565,29 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "354"
+#, ignore-same
+msgctxt "SCRIPT60: 354"
 msgid "●"
 msgstr ""
 
-msgctxt "355"
+#, ignore-same
+msgctxt "SCRIPT60: 355"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "356"
+#, ignore-same
+msgctxt "SCRIPT60: 356"
 msgid ""
 "SCRIPT31\n"
 "1"
 msgstr ""
 
-msgctxt "357"
+#, ignore-same
+msgctxt "SCRIPT60: 357"
 msgid "●"
 msgstr ""
 
-msgctxt "358"
+#, ignore-same
+msgctxt "SCRIPT60: 358"
 msgid "END_SCRIPT"
 msgstr ""

@@ -5,16 +5,15 @@ msgstr ""
 "POT-Creation-Date: 21/05/2018\n"
 "PO-Revision-Date: 2018-05-23 15:31+0000\n"
 "Last-Translator: Van_Kaiji <alejandro.sh94@gmail.com>\n"
-"Language-Team: Spanish <http://54.37.11.10/projects/corpse-party-2/script75/"
-"es/>\n"
+"Language-Team: Spanish <http://54.37.11.10/projects/corpse-party-2/script75/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.20\n"
 
-msgctxt "0"
+#, ignore-same
+msgctxt "SCRIPT75: 0"
 msgid ""
 "SCRIPT1\n"
 "0"
@@ -22,15 +21,18 @@ msgstr ""
 "SCRIPT1\n"
 "0"
 
-msgctxt "1"
+#, ignore-same
+msgctxt "SCRIPT75: 1"
 msgid "●"
 msgstr "●"
 
-msgctxt "2"
+#, ignore-same
+msgctxt "SCRIPT75: 2"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "3"
+#, ignore-same
+msgctxt "SCRIPT75: 3"
 msgid ""
 "SCRIPT2\n"
 "0"
@@ -38,62 +40,74 @@ msgstr ""
 "SCRIPT2\n"
 "0"
 
-msgctxt "4"
+#, ignore-same
+msgctxt "SCRIPT75: 4"
 msgid ""
 "ローカルフラグ:0:洗濯機を調べた\n"
 "ON"
 msgstr ""
 
-msgctxt "5"
+#, ignore-same
+msgctxt "SCRIPT75: 5"
 msgid "●"
 msgstr ""
 
-msgctxt "6"
+#, ignore-same
+msgctxt "SCRIPT75: 6"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "7"
+#, ignore-same
+msgctxt "SCRIPT75: 7"
 msgid ""
 "SCRIPT3\n"
 "0"
 msgstr ""
 
-msgctxt "8"
+#, ignore-same
+msgctxt "SCRIPT75: 8"
 msgid ""
 "ローカルフラグ:3:バスケットを確認\n"
 "ON"
 msgstr ""
 
-msgctxt "9"
+#, ignore-same
+msgctxt "SCRIPT75: 9"
 msgid "●"
 msgstr ""
 
-msgctxt "10"
+#, ignore-same
+msgctxt "SCRIPT75: 10"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "11"
+#, ignore-same
+msgctxt "SCRIPT75: 11"
 msgid ""
 "SCRIPT4\n"
 "0"
 msgstr ""
 
-msgctxt "12"
+#, ignore-same
+msgctxt "SCRIPT75: 12"
 msgid ""
 "ローカルフラグ:3:バスケットの中身を確認\n"
 "ON\n"
 "0"
 msgstr ""
 
-msgctxt "13"
+#, ignore-same
+msgctxt "SCRIPT75: 13"
 msgid "●"
 msgstr "●"
 
-msgctxt "14"
+#, ignore-same
+msgctxt "SCRIPT75: 14"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "15"
+#, ignore-same
+msgctxt "SCRIPT75: 15"
 msgid ""
 "SCRIPT5\n"
 "0"
@@ -101,55 +115,66 @@ msgstr ""
 "SCRIPT5\n"
 "0"
 
-msgctxt "16"
+#, ignore-same
+msgctxt "SCRIPT75: 16"
 msgid ""
 "ローカルフラグ:0:洗濯機を調べた\n"
 "ON"
 msgstr ""
 
-msgctxt "17"
+#, ignore-same
+msgctxt "SCRIPT75: 17"
 msgid "●"
 msgstr ""
 
-msgctxt "18"
+#, ignore-same
+msgctxt "SCRIPT75: 18"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "19"
+#, ignore-same
+msgctxt "SCRIPT75: 19"
 msgid ""
 "SCRIPT6\n"
 "0"
 msgstr ""
 
-msgctxt "20"
+#, ignore-same
+msgctxt "SCRIPT75: 20"
 msgid ""
 "ローカルフラグ:0:洗濯機を調べた\n"
 "ON"
 msgstr ""
 
-msgctxt "21"
+#, ignore-same
+msgctxt "SCRIPT75: 21"
 msgid "●"
 msgstr ""
 
-msgctxt "22"
+#, ignore-same
+msgctxt "SCRIPT75: 22"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "23"
+#, ignore-same
+msgctxt "SCRIPT75: 23"
 msgid ""
 "SCRIPT7\n"
 "0"
 msgstr ""
 
-msgctxt "24"
+#, ignore-same
+msgctxt "SCRIPT75: 24"
 msgid "所持アイテム分岐:ロッカーのカギ１"
 msgstr ""
 
-msgctxt "25"
+#, ignore-same
+msgctxt "SCRIPT75: 25"
 msgid "▼:ON"
 msgstr ""
 
-msgctxt "26"
+#, ignore-same
+msgctxt "SCRIPT75: 26"
 msgid ""
 "文字表示:バスケットの中に白衣が入っている\n"
 "名札には「ニシダ」と書かれている\n"
@@ -158,15 +183,18 @@ msgid ""
 "1"
 msgstr ""
 
-msgctxt "27"
+#, ignore-same
+msgctxt "SCRIPT75: 27"
 msgid "●"
 msgstr ""
 
-msgctxt "28"
+#, ignore-same
+msgctxt "SCRIPT75: 28"
 msgid "▼:OFF"
 msgstr ""
 
-msgctxt "29"
+#, ignore-same
+msgctxt "SCRIPT75: 29"
 msgid ""
 "文字表示:バスケットの中に白衣が入っている\n"
 "名札には「ニシダ」と書かれている\n"
@@ -175,7 +203,8 @@ msgid ""
 "1"
 msgstr ""
 
-msgctxt "30"
+#, ignore-same
+msgctxt "SCRIPT75: 30"
 msgid ""
 "文字表示:ポケットの中にカギが入っていた\n"
 " \n"
@@ -189,20 +218,23 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "31"
+#, ignore-same
+msgctxt "SCRIPT75: 31"
 msgid ""
 "アイテム取得:ロッカーのカギ１\n"
 "ON"
 msgstr ""
 
-msgctxt "32"
+#, ignore-same
+msgctxt "SCRIPT75: 32"
 msgid ""
 "バストショット:bs_ayame_a01_a01.tga\n"
 "左\n"
 "OFF"
 msgstr ""
 
-msgctxt "33"
+#, ignore-same
+msgctxt "SCRIPT75: 33"
 msgid ""
 "文字表示:あやめ:更衣室のロッカーのどれかのカギみたいね\n"
 " \n"
@@ -216,29 +248,35 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "34"
+#, ignore-same
+msgctxt "SCRIPT75: 34"
 msgid "●"
 msgstr "●"
 
-msgctxt "35"
+#, ignore-same
+msgctxt "SCRIPT75: 35"
 msgid "分岐終了"
 msgstr ""
 
-msgctxt "36"
+#, ignore-same
+msgctxt "SCRIPT75: 36"
 msgid "●"
 msgstr ""
 
-msgctxt "37"
+#, ignore-same
+msgctxt "SCRIPT75: 37"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "38"
+#, ignore-same
+msgctxt "SCRIPT75: 38"
 msgid ""
 "SCRIPT7\n"
 "1"
 msgstr ""
 
-msgctxt "39"
+#, ignore-same
+msgctxt "SCRIPT75: 39"
 msgid ""
 "文字表示:バスケットの中に白衣が入っている。\n"
 "名札には「ニシダ」と書かれている。\n"
@@ -247,119 +285,143 @@ msgid ""
 "1"
 msgstr ""
 
-msgctxt "40"
+#, ignore-same
+msgctxt "SCRIPT75: 40"
 msgid "●"
 msgstr "●"
 
-msgctxt "41"
+#, ignore-same
+msgctxt "SCRIPT75: 41"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "42"
+#, ignore-same
+msgctxt "SCRIPT75: 42"
 msgid ""
 "SCRIPT8\n"
 "0"
 msgstr ""
 
-msgctxt "43"
+#, ignore-same
+msgctxt "SCRIPT75: 43"
 msgid "診察カード:26"
 msgstr ""
 
-msgctxt "44"
+#, ignore-same
+msgctxt "SCRIPT75: 44"
 msgid "●"
 msgstr ""
 
-msgctxt "45"
+#, ignore-same
+msgctxt "SCRIPT75: 45"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "46"
+#, ignore-same
+msgctxt "SCRIPT75: 46"
 msgid ""
 "SCRIPT9\n"
 "0"
 msgstr ""
 
-msgctxt "47"
+#, ignore-same
+msgctxt "SCRIPT75: 47"
 msgid ""
 "ローカルフラグ:3:バスケットを確認\n"
 "ON"
 msgstr ""
 
-msgctxt "48"
+#, ignore-same
+msgctxt "SCRIPT75: 48"
 msgid "●"
 msgstr ""
 
-msgctxt "49"
+#, ignore-same
+msgctxt "SCRIPT75: 49"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "50"
+#, ignore-same
+msgctxt "SCRIPT75: 50"
 msgid ""
 "SCRIPT10\n"
 "0"
 msgstr ""
 
-msgctxt "51"
+#, ignore-same
+msgctxt "SCRIPT75: 51"
 msgid ""
 "ローカルフラグ:3:バスケットを確認\n"
 "ON"
 msgstr ""
 
-msgctxt "52"
+#, ignore-same
+msgctxt "SCRIPT75: 52"
 msgid "●"
 msgstr ""
 
-msgctxt "53"
+#, ignore-same
+msgctxt "SCRIPT75: 53"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "54"
+#, ignore-same
+msgctxt "SCRIPT75: 54"
 msgid ""
 "SCRIPT11\n"
 "0"
 msgstr ""
 
-msgctxt "55"
+#, ignore-same
+msgctxt "SCRIPT75: 55"
 msgid ""
 "ローカルフラグ:3:バスケットを確認\n"
 "ON"
 msgstr ""
 
-msgctxt "56"
+#, ignore-same
+msgctxt "SCRIPT75: 56"
 msgid "●"
 msgstr ""
 
-msgctxt "57"
+#, ignore-same
+msgctxt "SCRIPT75: 57"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "58"
+#, ignore-same
+msgctxt "SCRIPT75: 58"
 msgid ""
 "SCRIPT12\n"
 "0"
 msgstr ""
 
-msgctxt "59"
+#, ignore-same
+msgctxt "SCRIPT75: 59"
 msgid ""
 "ローカルフラグ:3:バスケットを確認\n"
 "ON"
 msgstr ""
 
-msgctxt "60"
+#, ignore-same
+msgctxt "SCRIPT75: 60"
 msgid "●"
 msgstr ""
 
-msgctxt "61"
+#, ignore-same
+msgctxt "SCRIPT75: 61"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "62"
+#, ignore-same
+msgctxt "SCRIPT75: 62"
 msgid ""
 "SCRIPT13\n"
 "0"
 msgstr ""
 
-msgctxt "63"
+#, ignore-same
+msgctxt "SCRIPT75: 63"
 msgid ""
 "場所移動:■更衣室２F\n"
 "5\n"
@@ -371,75 +433,90 @@ msgid ""
 "なし"
 msgstr ""
 
-msgctxt "64"
+#, ignore-same
+msgctxt "SCRIPT75: 64"
 msgid "●"
 msgstr "●"
 
-msgctxt "65"
+#, ignore-same
+msgctxt "SCRIPT75: 65"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "66"
+#, ignore-same
+msgctxt "SCRIPT75: 66"
 msgid ""
 "SCRIPT14\n"
 "0"
 msgstr ""
 
-msgctxt "67"
+#, ignore-same
+msgctxt "SCRIPT75: 67"
 msgid "●"
 msgstr "●"
 
-msgctxt "68"
+#, ignore-same
+msgctxt "SCRIPT75: 68"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "69"
+#, ignore-same
+msgctxt "SCRIPT75: 69"
 msgid ""
 "SCRIPT15\n"
 "0"
 msgstr ""
 
-msgctxt "70"
+#, ignore-same
+msgctxt "SCRIPT75: 70"
 msgid ""
 "ローカルフラグ:0:洗濯機を調べた\n"
 "ON"
 msgstr ""
 
-msgctxt "71"
+#, ignore-same
+msgctxt "SCRIPT75: 71"
 msgid "●"
 msgstr ""
 
-msgctxt "72"
+#, ignore-same
+msgctxt "SCRIPT75: 72"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "73"
+#, ignore-same
+msgctxt "SCRIPT75: 73"
 msgid ""
 "SCRIPT16\n"
 "0"
 msgstr ""
 
-msgctxt "74"
+#, ignore-same
+msgctxt "SCRIPT75: 74"
 msgid ""
 "ローカルフラグ:0:洗濯機を調べた\n"
 "ON"
 msgstr ""
 
-msgctxt "75"
+#, ignore-same
+msgctxt "SCRIPT75: 75"
 msgid "●"
 msgstr ""
 
-msgctxt "76"
+#, ignore-same
+msgctxt "SCRIPT75: 76"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "77"
+#, ignore-same
+msgctxt "SCRIPT75: 77"
 msgid ""
 "SCRIPT17\n"
 "0"
 msgstr ""
 
-msgctxt "78"
+#, ignore-same
+msgctxt "SCRIPT75: 78"
 msgid ""
 "文字表示:掲示板には注意書きが貼りだされている\n"
 " \n"
@@ -453,7 +530,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "79"
+#, ignore-same
+msgctxt "SCRIPT75: 79"
 msgid ""
 "文字表示:「洗濯物は自分の担当曜日の\n"
 "バケットに入れること！」\n"
@@ -467,14 +545,16 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "80"
+#, ignore-same
+msgctxt "SCRIPT75: 80"
 msgid ""
 "バストショット:bs_ayame_a01_b01.tga\n"
 "左\n"
 "OFF"
 msgstr ""
 
-msgctxt "81"
+#, ignore-same
+msgctxt "SCRIPT75: 81"
 msgid ""
 "文字表示:あやめ:今日が何曜日かも覚えていないわ\n"
 " \n"
@@ -488,77 +568,93 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "82"
+#, ignore-same
+msgctxt "SCRIPT75: 82"
 msgid "●"
 msgstr "●"
 
-msgctxt "83"
+#, ignore-same
+msgctxt "SCRIPT75: 83"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "84"
+#, ignore-same
+msgctxt "SCRIPT75: 84"
 msgid ""
 "SCRIPT18\n"
 "0"
 msgstr ""
 
-msgctxt "85"
+#, ignore-same
+msgctxt "SCRIPT75: 85"
 msgid "●"
 msgstr "●"
 
-msgctxt "86"
+#, ignore-same
+msgctxt "SCRIPT75: 86"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "87"
+#, ignore-same
+msgctxt "SCRIPT75: 87"
 msgid ""
 "SCRIPT19\n"
 "0"
 msgstr ""
 
-msgctxt "88"
+#, ignore-same
+msgctxt "SCRIPT75: 88"
 msgid "●"
 msgstr ""
 
-msgctxt "89"
+#, ignore-same
+msgctxt "SCRIPT75: 89"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "90"
+#, ignore-same
+msgctxt "SCRIPT75: 90"
 msgid ""
 "SCRIPT20\n"
 "0"
 msgstr ""
 
-msgctxt "91"
+#, ignore-same
+msgctxt "SCRIPT75: 91"
 msgid "●"
 msgstr ""
 
-msgctxt "92"
+#, ignore-same
+msgctxt "SCRIPT75: 92"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "93"
+#, ignore-same
+msgctxt "SCRIPT75: 93"
 msgid ""
 "SCRIPT21\n"
 "0"
 msgstr ""
 
-msgctxt "94"
+#, ignore-same
+msgctxt "SCRIPT75: 94"
 msgid "●"
 msgstr ""
 
-msgctxt "95"
+#, ignore-same
+msgctxt "SCRIPT75: 95"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "96"
+#, ignore-same
+msgctxt "SCRIPT75: 96"
 msgid ""
 "SCRIPT22\n"
 "0"
 msgstr ""
 
-msgctxt "97"
+#, ignore-same
+msgctxt "SCRIPT75: 97"
 msgid ""
 "文字表示:洗濯機が置かれている\n"
 " \n"
@@ -572,7 +668,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "98"
+#, ignore-same
+msgctxt "SCRIPT75: 98"
 msgid ""
 "文字表示:中には洗濯物が濡れたまま入っていて、\n"
 "少しカビ臭い\n"
@@ -586,30 +683,36 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "99"
+#, ignore-same
+msgctxt "SCRIPT75: 99"
 msgid "ローカルフラグ分岐:2:洗濯機を確認"
 msgstr ""
 
-msgctxt "100"
+#, ignore-same
+msgctxt "SCRIPT75: 100"
 msgid "▼:ON"
 msgstr ""
 
-msgctxt "101"
+#, ignore-same
+msgctxt "SCRIPT75: 101"
 msgid "●"
 msgstr ""
 
-msgctxt "102"
+#, ignore-same
+msgctxt "SCRIPT75: 102"
 msgid "▼:OFF"
 msgstr ""
 
-msgctxt "103"
+#, ignore-same
+msgctxt "SCRIPT75: 103"
 msgid ""
 "バストショット:bs_ayame_a01_b04.tga\n"
 "左\n"
 "OFF"
 msgstr ""
 
-msgctxt "104"
+#, ignore-same
+msgctxt "SCRIPT75: 104"
 msgid ""
 "文字表示:あやめ:そういえば、この制服、\n"
 "いつから来てるのかしら……\n"
@@ -623,41 +726,49 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "105"
+#, ignore-same
+msgctxt "SCRIPT75: 105"
 msgid ""
 "ローカルフラグ:2:洗濯機を確認\n"
 "ON"
 msgstr ""
 
-msgctxt "106"
+#, ignore-same
+msgctxt "SCRIPT75: 106"
 msgid "●"
 msgstr ""
 
-msgctxt "107"
+#, ignore-same
+msgctxt "SCRIPT75: 107"
 msgid "分岐終了"
 msgstr ""
 
-msgctxt "108"
+#, ignore-same
+msgctxt "SCRIPT75: 108"
 msgid ""
 "ローカルフラグ:0:洗濯機を調べた\n"
 "OFF"
 msgstr ""
 
-msgctxt "109"
+#, ignore-same
+msgctxt "SCRIPT75: 109"
 msgid "●"
 msgstr "●"
 
-msgctxt "110"
+#, ignore-same
+msgctxt "SCRIPT75: 110"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "111"
+#, ignore-same
+msgctxt "SCRIPT75: 111"
 msgid ""
 "SCRIPT23\n"
 "0"
 msgstr ""
 
-msgctxt "112"
+#, ignore-same
+msgctxt "SCRIPT75: 112"
 msgid ""
 "文字表示:バケットの中にはなにも入っていない\n"
 " \n"
@@ -671,30 +782,36 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "113"
+#, ignore-same
+msgctxt "SCRIPT75: 113"
 msgid "ローカルフラグ分岐:1:バスケットの数を確認"
 msgstr ""
 
-msgctxt "114"
+#, ignore-same
+msgctxt "SCRIPT75: 114"
 msgid "▼:ON"
 msgstr ""
 
-msgctxt "115"
+#, ignore-same
+msgctxt "SCRIPT75: 115"
 msgid "●"
 msgstr ""
 
-msgctxt "116"
+#, ignore-same
+msgctxt "SCRIPT75: 116"
 msgid "▼:OFF"
 msgstr ""
 
-msgctxt "117"
+#, ignore-same
+msgctxt "SCRIPT75: 117"
 msgid ""
 "バストショット:bs_ayame_a01_a01.tga\n"
 "左\n"
 "OFF"
 msgstr ""
 
-msgctxt "118"
+#, ignore-same
+msgctxt "SCRIPT75: 118"
 msgid ""
 "文字表示:あやめ:バスケットが、\n"
 "ひとつ、ふたつ、みっつ・・・・・\n"
@@ -708,7 +825,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "119"
+#, ignore-same
+msgctxt "SCRIPT75: 119"
 msgid ""
 "文字表示:あやめ:７つも並べてあるのね\n"
 " \n"
@@ -722,41 +840,49 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "120"
+#, ignore-same
+msgctxt "SCRIPT75: 120"
 msgid ""
 "ローカルフラグ:1:バスケットの数を確認\n"
 "ON"
 msgstr ""
 
-msgctxt "121"
+#, ignore-same
+msgctxt "SCRIPT75: 121"
 msgid "●"
 msgstr ""
 
-msgctxt "122"
+#, ignore-same
+msgctxt "SCRIPT75: 122"
 msgid "分岐終了"
 msgstr ""
 
-msgctxt "123"
+#, ignore-same
+msgctxt "SCRIPT75: 123"
 msgid ""
 "ローカルフラグ:3:バスケットを確認\n"
 "OFF"
 msgstr ""
 
-msgctxt "124"
+#, ignore-same
+msgctxt "SCRIPT75: 124"
 msgid "●"
 msgstr ""
 
-msgctxt "125"
+#, ignore-same
+msgctxt "SCRIPT75: 125"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "126"
+#, ignore-same
+msgctxt "SCRIPT75: 126"
 msgid ""
 "SCRIPT24\n"
 "0"
 msgstr ""
 
-msgctxt "127"
+#, ignore-same
+msgctxt "SCRIPT75: 127"
 msgid ""
 "文字表示:小さな引き出しには曜日ごとに区分けされている。\n"
 " \n"
@@ -770,21 +896,25 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "128"
+#, ignore-same
+msgctxt "SCRIPT75: 128"
 msgid "●"
 msgstr ""
 
-msgctxt "129"
+#, ignore-same
+msgctxt "SCRIPT75: 129"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "130"
+#, ignore-same
+msgctxt "SCRIPT75: 130"
 msgid ""
 "SCRIPT25\n"
 "0"
 msgstr ""
 
-msgctxt "131"
+#, ignore-same
+msgctxt "SCRIPT75: 131"
 msgid ""
 "イベント移動:0\n"
 "100d0f0d\n"
@@ -793,27 +923,31 @@ msgid ""
 "ON"
 msgstr ""
 
-msgctxt "132"
+#, ignore-same
+msgctxt "SCRIPT75: 132"
 msgid ""
 "ＳＥ:CORP2-SE020.wav\n"
 "ON\n"
 "OFF"
 msgstr ""
 
-msgctxt "133"
+#, ignore-same
+msgctxt "SCRIPT75: 133"
 msgid ""
 "キャラアニメ:このイベント\n"
 "51\n"
 "1"
 msgstr ""
 
-msgctxt "134"
+#, ignore-same
+msgctxt "SCRIPT75: 134"
 msgid ""
 "時間待ち:20\n"
 "CLOSE"
 msgstr ""
 
-msgctxt "135"
+#, ignore-same
+msgctxt "SCRIPT75: 135"
 msgid ""
 "文字表示:中には役に立ちそうなものはない。\n"
 " \n"
@@ -827,28 +961,32 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "136"
+#, ignore-same
+msgctxt "SCRIPT75: 136"
 msgid ""
 "キャラアニメ:このイベント\n"
 "51\n"
 "3"
 msgstr ""
 
-msgctxt "137"
+#, ignore-same
+msgctxt "SCRIPT75: 137"
 msgid ""
 "キャラアニメ:このイベント\n"
 "51\n"
 "0"
 msgstr ""
 
-msgctxt "138"
+#, ignore-same
+msgctxt "SCRIPT75: 138"
 msgid ""
 "ＳＥ:CORP2-SE019.wav\n"
 "ON\n"
 "OFF"
 msgstr ""
 
-msgctxt "139"
+#, ignore-same
+msgctxt "SCRIPT75: 139"
 msgid ""
 "イベント移動:0\n"
 "0f0d100d\n"
@@ -857,21 +995,25 @@ msgid ""
 "ON"
 msgstr ""
 
-msgctxt "140"
+#, ignore-same
+msgctxt "SCRIPT75: 140"
 msgid "●"
 msgstr ""
 
-msgctxt "141"
+#, ignore-same
+msgctxt "SCRIPT75: 141"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "142"
+#, ignore-same
+msgctxt "SCRIPT75: 142"
 msgid ""
 "SCRIPT26\n"
 "0"
 msgstr ""
 
-msgctxt "143"
+#, ignore-same
+msgctxt "SCRIPT75: 143"
 msgid ""
 "イベント移動:0\n"
 "100b0f0b\n"
@@ -880,27 +1022,31 @@ msgid ""
 "ON"
 msgstr ""
 
-msgctxt "144"
+#, ignore-same
+msgctxt "SCRIPT75: 144"
 msgid ""
 "ＳＥ:CORP2-SE020.wav\n"
 "ON\n"
 "OFF"
 msgstr ""
 
-msgctxt "145"
+#, ignore-same
+msgctxt "SCRIPT75: 145"
 msgid ""
 "キャラアニメ:このイベント\n"
 "51\n"
 "1"
 msgstr ""
 
-msgctxt "146"
+#, ignore-same
+msgctxt "SCRIPT75: 146"
 msgid ""
 "時間待ち:20\n"
 "CLOSE"
 msgstr ""
 
-msgctxt "147"
+#, ignore-same
+msgctxt "SCRIPT75: 147"
 msgid ""
 "文字表示:中には役に立ちそうなものはない。\n"
 " \n"
@@ -914,28 +1060,32 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "148"
+#, ignore-same
+msgctxt "SCRIPT75: 148"
 msgid ""
 "キャラアニメ:このイベント\n"
 "51\n"
 "3"
 msgstr ""
 
-msgctxt "149"
+#, ignore-same
+msgctxt "SCRIPT75: 149"
 msgid ""
 "キャラアニメ:このイベント\n"
 "51\n"
 "0"
 msgstr ""
 
-msgctxt "150"
+#, ignore-same
+msgctxt "SCRIPT75: 150"
 msgid ""
 "ＳＥ:CORP2-SE019.wav\n"
 "ON\n"
 "OFF"
 msgstr ""
 
-msgctxt "151"
+#, ignore-same
+msgctxt "SCRIPT75: 151"
 msgid ""
 "イベント移動:0\n"
 "0f0b100b\n"
@@ -944,24 +1094,29 @@ msgid ""
 "ON"
 msgstr ""
 
-msgctxt "152"
+#, ignore-same
+msgctxt "SCRIPT75: 152"
 msgid "●"
 msgstr ""
 
-msgctxt "153"
+#, ignore-same
+msgctxt "SCRIPT75: 153"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "154"
+#, ignore-same
+msgctxt "SCRIPT75: 154"
 msgid ""
 "SCRIPT27\n"
 "0"
 msgstr ""
 
-msgctxt "155"
+#, ignore-same
+msgctxt "SCRIPT75: 155"
 msgid "●"
 msgstr ""
 
-msgctxt "156"
+#, ignore-same
+msgctxt "SCRIPT75: 156"
 msgid "END_SCRIPT"
 msgstr ""

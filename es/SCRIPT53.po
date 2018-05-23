@@ -5,16 +5,15 @@ msgstr ""
 "POT-Creation-Date: 21/05/2018\n"
 "PO-Revision-Date: 2018-05-23 10:48+0000\n"
 "Last-Translator: Van_Kaiji <alejandro.sh94@gmail.com>\n"
-"Language-Team: Spanish <http://54.37.11.10/projects/corpse-party-2/script53/"
-"es/>\n"
+"Language-Team: Spanish <http://54.37.11.10/projects/corpse-party-2/script53/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.20\n"
 
-msgctxt "0"
+#, ignore-same
+msgctxt "SCRIPT53: 0"
 msgid ""
 "SCRIPT1\n"
 "0"
@@ -22,15 +21,18 @@ msgstr ""
 "SCRIPT1\n"
 "0"
 
-msgctxt "1"
+#, ignore-same
+msgctxt "SCRIPT53: 1"
 msgid "●"
 msgstr "●"
 
-msgctxt "2"
+#, ignore-same
+msgctxt "SCRIPT53: 2"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "3"
+#, ignore-same
+msgctxt "SCRIPT53: 3"
 msgid ""
 "SCRIPT2\n"
 "0"
@@ -38,7 +40,8 @@ msgstr ""
 "SCRIPT2\n"
 "0"
 
-msgctxt "4"
+#, ignore-same
+msgctxt "SCRIPT53: 4"
 msgid ""
 "場所移動:新規マップ\n"
 "11\n"
@@ -50,21 +53,24 @@ msgid ""
 "なし"
 msgstr ""
 
-msgctxt "5"
+#, ignore-same
+msgctxt "SCRIPT53: 5"
 msgid ""
 "バストショット:bs_masato_a01_b01.tga\n"
 "左\n"
 "OFF"
 msgstr ""
 
-msgctxt "6"
+#, ignore-same
+msgctxt "SCRIPT53: 6"
 msgid ""
 "バストショット:bs_roujin_a_a01_a02.tga\n"
 "右\n"
 "OFF"
 msgstr ""
 
-msgctxt "7"
+#, ignore-same
+msgctxt "SCRIPT53: 7"
 msgid ""
 "文字表示:真里:沢山の人とか……ちょっと、苦手なもので\n"
 " \n"
@@ -78,7 +84,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "8"
+#, ignore-same
+msgctxt "SCRIPT53: 8"
 msgid ""
 "文字表示:老人:……そうか……\n"
 "いや、無理にとは言わないよ\n"
@@ -92,14 +99,16 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "9"
+#, ignore-same
+msgctxt "SCRIPT53: 9"
 msgid ""
 "バストショット:bs_masato_a01_e01.tga\n"
 "左\n"
 "OFF"
 msgstr ""
 
-msgctxt "10"
+#, ignore-same
+msgctxt "SCRIPT53: 10"
 msgid ""
 "文字表示:真里:すみません\n"
 " \n"
@@ -113,28 +122,34 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "11"
+#, ignore-same
+msgctxt "SCRIPT53: 11"
 msgid "●"
 msgstr ""
 
-msgctxt "12"
+#, ignore-same
+msgctxt "SCRIPT53: 12"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "13"
+#, ignore-same
+msgctxt "SCRIPT53: 13"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "14"
+#, ignore-same
+msgctxt "SCRIPT53: 14"
 msgid ""
 "SCRIPT3\n"
 "0"
 msgstr ""
 
-msgctxt "15"
+#, ignore-same
+msgctxt "SCRIPT53: 15"
 msgid "●"
 msgstr ""
 
-msgctxt "16"
+#, ignore-same
+msgctxt "SCRIPT53: 16"
 msgid "END_SCRIPT"
 msgstr ""

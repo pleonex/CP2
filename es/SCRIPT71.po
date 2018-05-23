@@ -5,16 +5,15 @@ msgstr ""
 "POT-Creation-Date: 21/05/2018\n"
 "PO-Revision-Date: 2018-05-23 10:48+0000\n"
 "Last-Translator: Van_Kaiji <alejandro.sh94@gmail.com>\n"
-"Language-Team: Spanish <http://54.37.11.10/projects/corpse-party-2/script71/"
-"es/>\n"
+"Language-Team: Spanish <http://54.37.11.10/projects/corpse-party-2/script71/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.20\n"
 
-msgctxt "0"
+#, ignore-same
+msgctxt "SCRIPT71: 0"
 msgid ""
 "SCRIPT1\n"
 "0"
@@ -22,170 +21,202 @@ msgstr ""
 "SCRIPT1\n"
 "0"
 
-msgctxt "1"
+#, ignore-same
+msgctxt "SCRIPT71: 1"
 msgid ""
 "ローカルフラグ:5:肥満サラリーマンを倒した\n"
 "ON\n"
 "0"
 msgstr ""
 
-msgctxt "2"
+#, ignore-same
+msgctxt "SCRIPT71: 2"
 msgid "●"
 msgstr ""
 
-msgctxt "3"
+#, ignore-same
+msgctxt "SCRIPT71: 3"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "4"
+#, ignore-same
+msgctxt "SCRIPT71: 4"
 msgid ""
 "SCRIPT1\n"
 "1"
 msgstr ""
 
-msgctxt "5"
+#, ignore-same
+msgctxt "SCRIPT71: 5"
 msgid "●"
 msgstr ""
 
-msgctxt "6"
+#, ignore-same
+msgctxt "SCRIPT71: 6"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "7"
+#, ignore-same
+msgctxt "SCRIPT71: 7"
 msgid ""
 "SCRIPT2\n"
 "0"
 msgstr ""
 
-msgctxt "8"
+#, ignore-same
+msgctxt "SCRIPT71: 8"
 msgid "●"
 msgstr ""
 
-msgctxt "9"
+#, ignore-same
+msgctxt "SCRIPT71: 9"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "10"
+#, ignore-same
+msgctxt "SCRIPT71: 10"
 msgid ""
 "SCRIPT2\n"
 "1"
 msgstr ""
 
-msgctxt "11"
+#, ignore-same
+msgctxt "SCRIPT71: 11"
 msgid "●"
 msgstr ""
 
-msgctxt "12"
+#, ignore-same
+msgctxt "SCRIPT71: 12"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "13"
+#, ignore-same
+msgctxt "SCRIPT71: 13"
 msgid ""
 "SCRIPT3\n"
 "0"
 msgstr ""
 
-msgctxt "14"
+#, ignore-same
+msgctxt "SCRIPT71: 14"
 msgid ""
 "ローカルフラグ:1:\n"
 "ON\n"
 "0"
 msgstr ""
 
-msgctxt "15"
+#, ignore-same
+msgctxt "SCRIPT71: 15"
 msgid ""
 "ＳＥ:CORP2-SE021.wav\n"
 "ON\n"
 "OFF"
 msgstr ""
 
-msgctxt "16"
+#, ignore-same
+msgctxt "SCRIPT71: 16"
 msgid "●"
 msgstr "●"
 
-msgctxt "17"
+#, ignore-same
+msgctxt "SCRIPT71: 17"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "18"
+#, ignore-same
+msgctxt "SCRIPT71: 18"
 msgid ""
 "SCRIPT3\n"
 "1"
 msgstr ""
 
-msgctxt "19"
+#, ignore-same
+msgctxt "SCRIPT71: 19"
 msgid ""
 "ローカルフラグ:1:\n"
 "OFF\n"
 "0"
 msgstr ""
 
-msgctxt "20"
+#, ignore-same
+msgctxt "SCRIPT71: 20"
 msgid "●"
 msgstr ""
 
-msgctxt "21"
+#, ignore-same
+msgctxt "SCRIPT71: 21"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "22"
+#, ignore-same
+msgctxt "SCRIPT71: 22"
 msgid ""
 "SCRIPT4\n"
 "0"
 msgstr ""
 
-msgctxt "23"
+#, ignore-same
+msgctxt "SCRIPT71: 23"
 msgid ""
 "フェード:アウト\n"
 "60\n"
 "黒"
 msgstr ""
 
-msgctxt "24"
+#, ignore-same
+msgctxt "SCRIPT71: 24"
 msgid "カットシーン:#12-04CS"
 msgstr ""
 
-msgctxt "25"
+#, ignore-same
+msgctxt "SCRIPT71: 25"
 msgid "カットシーン:#13-01CS"
 msgstr ""
 
-msgctxt "26"
+#, ignore-same
+msgctxt "SCRIPT71: 26"
 msgid "カットシーン:#13-02CS"
 msgstr ""
 
-msgctxt "27"
+#, ignore-same
+msgctxt "SCRIPT71: 27"
 msgid ""
 "フラグ:51:\n"
 "ON\n"
 "0"
 msgstr ""
 
-msgctxt "28"
+#, ignore-same
+msgctxt "SCRIPT71: 28"
 msgid ""
 "フラグ:98:手術室サラリーマンを倒した\n"
 "ON\n"
 "0"
 msgstr ""
 
-msgctxt "29"
+#, ignore-same
+msgctxt "SCRIPT71: 29"
 msgid "目的表示:一階に行って、出口を探す"
 msgstr ""
 
-msgctxt "30"
+#, ignore-same
+msgctxt "SCRIPT71: 30"
 msgid ""
 "パーティー編成:ritsuko_normal\n"
 "ryuzi_normal\n"
 "kurara_normal"
 msgstr ""
 
-msgctxt "31"
+#, ignore-same
+msgctxt "SCRIPT71: 31"
 msgid ""
 "フラグ:104:４人で探索中\n"
 "ON\n"
 "0"
 msgstr ""
 
-msgctxt "32"
+#, ignore-same
+msgctxt "SCRIPT71: 32"
 msgid ""
 "場所移動:■処理エリア２F\n"
 "16\n"
@@ -198,37 +229,45 @@ msgid ""
 "on"
 msgstr ""
 
-msgctxt "33"
+#, ignore-same
+msgctxt "SCRIPT71: 33"
 msgid "●"
 msgstr ""
 
-msgctxt "34"
+#, ignore-same
+msgctxt "SCRIPT71: 34"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "35"
+#, ignore-same
+msgctxt "SCRIPT71: 35"
 msgid ""
 "SCRIPT5\n"
 "0"
 msgstr ""
 
-msgctxt "36"
+#, ignore-same
+msgctxt "SCRIPT71: 36"
 msgid "//【場所】手術室内"
 msgstr ""
 
-msgctxt "37"
+#, ignore-same
+msgctxt "SCRIPT71: 37"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "38"
+#, ignore-same
+msgctxt "SCRIPT71: 38"
 msgid "くらら「ひゃーっ！」（※音声のみ）"
 msgstr ""
 
-msgctxt "39"
+#, ignore-same
+msgctxt "SCRIPT71: 39"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "40"
+#, ignore-same
+msgctxt "SCRIPT71: 40"
 msgid ""
 "文字表示:＊:静かにしろ！　見つかる……！\n"
 "//↑ヒソヒソと、竜司パートボイス音声もテキストも付ける\n"
@@ -242,15 +281,18 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "41"
+#, ignore-same
+msgctxt "SCRIPT71: 41"
 msgid "声はするが人の姿は見えない。"
 msgstr ""
 
-msgctxt "42"
+#, ignore-same
+msgctxt "SCRIPT71: 42"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "43"
+#, ignore-same
+msgctxt "SCRIPT71: 43"
 msgid ""
 "文字表示:あやめ:（人の声……？）\n"
 "\n"
@@ -264,19 +306,23 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "44"
+#, ignore-same
+msgctxt "SCRIPT71: 44"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "45"
+#, ignore-same
+msgctxt "SCRIPT71: 45"
 msgid "//■更に中に入ると進行。"
 msgstr ""
 
-msgctxt "46"
+#, ignore-same
+msgctxt "SCRIPT71: 46"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "47"
+#, ignore-same
+msgctxt "SCRIPT71: 47"
 msgid ""
 "文字表示:あやめ:誰かいますか……？\n"
 "ナースコールを、鳴らしましたか？\n"
@@ -290,7 +336,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "48"
+#, ignore-same
+msgctxt "SCRIPT71: 48"
 msgid ""
 "文字表示:あやめ:……真っ暗\n"
 "\n"
@@ -304,7 +351,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "49"
+#, ignore-same
+msgctxt "SCRIPT71: 49"
 msgid ""
 "文字表示:律子:懐中電灯を持ってくれば良かった……\n"
 "ごめんなさい、あやめ様\n"
@@ -318,39 +366,48 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "50"
+#, ignore-same
+msgctxt "SCRIPT71: 50"
 msgid "あやめは振り向き、ううん、と笑顔で首をふる。"
 msgstr ""
 
-msgctxt "51"
+#, ignore-same
+msgctxt "SCRIPT71: 51"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "52"
+#, ignore-same
+msgctxt "SCRIPT71: 52"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "53"
+#, ignore-same
+msgctxt "SCRIPT71: 53"
 msgid "//■更に中に入ると進行。"
 msgstr ""
 
-msgctxt "54"
+#, ignore-same
+msgctxt "SCRIPT71: 54"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "55"
+#, ignore-same
+msgctxt "SCRIPT71: 55"
 msgid "部屋の下の方に太い人影が。丁度ライトが当たっておらず"
 msgstr ""
 
-msgctxt "56"
+#, ignore-same
+msgctxt "SCRIPT71: 56"
 msgid "影になっていて、人物の判別はできない。ぼうっと立っている様子だ。"
 msgstr ""
 
-msgctxt "57"
+#, ignore-same
+msgctxt "SCRIPT71: 57"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "58"
+#, ignore-same
+msgctxt "SCRIPT71: 58"
 msgid ""
 "文字表示:あやめ:！　あの……\n"
 "\n"
@@ -364,7 +421,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "59"
+#, ignore-same
+msgctxt "SCRIPT71: 59"
 msgid ""
 "文字表示:あやめ:大丈夫ですか？\n"
 "\n"
@@ -378,43 +436,53 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "60"
+#, ignore-same
+msgctxt "SCRIPT71: 60"
 msgid "やや間があり、人影の頭から黒いもやが吹き出し始める。"
 msgstr ""
 
-msgctxt "61"
+#, ignore-same
+msgctxt "SCRIPT71: 61"
 msgid "激太サラリーマン「うう……」（※音声のみ）"
 msgstr ""
 
-msgctxt "62"
+#, ignore-same
+msgctxt "SCRIPT71: 62"
 msgid "直後、おもむろにつかつか歩み寄ってくる"
 msgstr ""
 
-msgctxt "63"
+#, ignore-same
+msgctxt "SCRIPT71: 63"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "64"
+#, ignore-same
+msgctxt "SCRIPT71: 64"
 msgid "激太サラリーマン「ガアアァァァァァァァ！！！！」（※音声のみ）"
 msgstr ""
 
-msgctxt "65"
+#, ignore-same
+msgctxt "SCRIPT71: 65"
 msgid "人影は、顔が真っ黒にもやもやと煙ったサラリーマンだった。激太の身体は、間違いなくMRI室の死体だ。"
 msgstr ""
 
-msgctxt "66"
+#, ignore-same
+msgctxt "SCRIPT71: 66"
 msgid "不意に襲い掛かられ、馬乗りになられるあやめ。"
 msgstr ""
 
-msgctxt "67"
+#, ignore-same
+msgctxt "SCRIPT71: 67"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "68"
+#, ignore-same
+msgctxt "SCRIPT71: 68"
 msgid "あやめ「きゃああぁ！」（※音声のみ）"
 msgstr ""
 
-msgctxt "69"
+#, ignore-same
+msgctxt "SCRIPT71: 69"
 msgid ""
 "文字表示://BGM：大ピン:\n"
 "律子：\n"
@@ -428,7 +496,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "70"
+#, ignore-same
+msgctxt "SCRIPT71: 70"
 msgid ""
 "文字表示:律子:（こいつは……この男は！\n"
 "　確かに死んだ、あの男！　ううっ……！）\n"
@@ -442,7 +511,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "71"
+#, ignore-same
+msgctxt "SCRIPT71: 71"
 msgid ""
 "文字表示:SE：ピーピーピーピー！（ループ:機械音声「PA００８９を検知しました。隔離します」（※淡々とした女性アナウンス・音声のみ）※ループ\n"
 "SE：バシュウウゥッ！\n"
@@ -456,7 +526,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "72"
+#, ignore-same
+msgctxt "SCRIPT71: 72"
 msgid ""
 "文字表示:SE：バシュウウゥッ:エアーが吹き出し、オートで入り口が閉まると、ゴクンとロックがかかる。\n"
 "\n"
@@ -470,15 +541,18 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "73"
+#, ignore-same
+msgctxt "SCRIPT71: 73"
 msgid "あやめ「ぐ……あ……いやあぁぁ！」（※音声のみ）"
 msgstr ""
 
-msgctxt "74"
+#, ignore-same
+msgctxt "SCRIPT71: 74"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "75"
+#, ignore-same
+msgctxt "SCRIPT71: 75"
 msgid ""
 "文字表示:律子:！　あやめ様！\n"
 "……うわあぁぁぁ！\n"
@@ -492,23 +566,28 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "76"
+#, ignore-same
+msgctxt "SCRIPT71: 76"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "77"
+#, ignore-same
+msgctxt "SCRIPT71: 77"
 msgid "あやめに馬乗りになっている激太サラリーマン死人の脇腹に、"
 msgstr ""
 
-msgctxt "78"
+#, ignore-same
+msgctxt "SCRIPT71: 78"
 msgid "ドカリと蹴りを入れて転がす律子。"
 msgstr ""
 
-msgctxt "79"
+#, ignore-same
+msgctxt "SCRIPT71: 79"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "80"
+#, ignore-same
+msgctxt "SCRIPT71: 80"
 msgid ""
 "文字表示:あやめ:げほっげほっ！　……ごほっ！\n"
 "はぁはぁ\n"
@@ -522,19 +601,23 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "81"
+#, ignore-same
+msgctxt "SCRIPT71: 81"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "82"
+#, ignore-same
+msgctxt "SCRIPT71: 82"
 msgid "仰向けからうつ伏せになり、四つん這いから立ち上がるあやめ。"
 msgstr ""
 
-msgctxt "83"
+#, ignore-same
+msgctxt "SCRIPT71: 83"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "84"
+#, ignore-same
+msgctxt "SCRIPT71: 84"
 msgid ""
 "文字表示:律子:大丈夫ですか！\n"
 "立って、あやめ様！\n"
@@ -548,15 +631,18 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "85"
+#, ignore-same
+msgctxt "SCRIPT71: 85"
 msgid "駆け寄る律子、ふらふらと立ち上がるあやめ"
 msgstr ""
 
-msgctxt "86"
+#, ignore-same
+msgctxt "SCRIPT71: 86"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "87"
+#, ignore-same
+msgctxt "SCRIPT71: 87"
 msgid ""
 "文字表示:あやめ:あ、ありがとう……律子さん……\n"
 "はぁ、はぁ、……けほっ！\n"
@@ -570,15 +656,18 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "88"
+#, ignore-same
+msgctxt "SCRIPT71: 88"
 msgid "律子は扉を開けようとするが、固くロックされてビクともしない。"
 msgstr ""
 
-msgctxt "89"
+#, ignore-same
+msgctxt "SCRIPT71: 89"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "90"
+#, ignore-same
+msgctxt "SCRIPT71: 90"
 msgid ""
 "文字表示:律子:くっ……何よ！\n"
 "開いてよ……！\n"
@@ -592,15 +681,18 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "91"
+#, ignore-same
+msgctxt "SCRIPT71: 91"
 msgid "ガチャガチャ揺するが開かないドア。"
 msgstr ""
 
-msgctxt "92"
+#, ignore-same
+msgctxt "SCRIPT71: 92"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "93"
+#, ignore-same
+msgctxt "SCRIPT71: 93"
 msgid ""
 "文字表示:あやめ:そんな……\n"
 "\n"
@@ -614,7 +706,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "94"
+#, ignore-same
+msgctxt "SCRIPT71: 94"
 msgid ""
 "文字表示:律子:だめです……あやめ様、\n"
 "あいつ、起き上がって来る……！\n"
@@ -628,15 +721,18 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "95"
+#, ignore-same
+msgctxt "SCRIPT71: 95"
 msgid "サラリーマン死人はよろよろと起き上がる。"
 msgstr ""
 
-msgctxt "96"
+#, ignore-same
+msgctxt "SCRIPT71: 96"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "97"
+#, ignore-same
+msgctxt "SCRIPT71: 97"
 msgid ""
 "文字表示:＊:うああぁぁぁー！\n"
 "//（竜司。パートボイス、テキスト＋音声あり）\n"
@@ -650,35 +746,43 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "98"
+#, ignore-same
+msgctxt "SCRIPT71: 98"
 msgid "画面、部屋奥のロッカーにPAN。"
 msgstr ""
 
-msgctxt "99"
+#, ignore-same
+msgctxt "SCRIPT71: 99"
 msgid "バンッと戸が開いて、竜司が飛び出してくる。ロッカー奥にはくららが怯えている。"
 msgstr ""
 
-msgctxt "100"
+#, ignore-same
+msgctxt "SCRIPT71: 100"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "101"
+#, ignore-same
+msgctxt "SCRIPT71: 101"
 msgid "竜司はその場にあったモップをひっつかみ、サラリーマン死人を殴りつける。"
 msgstr ""
 
-msgctxt "102"
+#, ignore-same
+msgctxt "SCRIPT71: 102"
 msgid "竜司「おッるァー！」（※音声のみ）"
 msgstr ""
 
-msgctxt "103"
+#, ignore-same
+msgctxt "SCRIPT71: 103"
 msgid "モップがバキリとへし折れ、ネックがすごい勢いで部屋の隅に転がってゆく。"
 msgstr ""
 
-msgctxt "104"
+#, ignore-same
+msgctxt "SCRIPT71: 104"
 msgid "大して動じないサラリーマン死人と、折れたモップの先を交互に見て慌てる竜司。"
 msgstr ""
 
-msgctxt "105"
+#, ignore-same
+msgctxt "SCRIPT71: 105"
 msgid ""
 "文字表示:＊:……！　う……うっ？！\n"
 "\n"
@@ -692,23 +796,28 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "106"
+#, ignore-same
+msgctxt "SCRIPT71: 106"
 msgid "しかしサラリーマン死人はゆっくりとうずくまる。"
 msgstr ""
 
-msgctxt "107"
+#, ignore-same
+msgctxt "SCRIPT71: 107"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "108"
+#, ignore-same
+msgctxt "SCRIPT71: 108"
 msgid "声をかけるあやめ。"
 msgstr ""
 
-msgctxt "109"
+#, ignore-same
+msgctxt "SCRIPT71: 109"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "110"
+#, ignore-same
+msgctxt "SCRIPT71: 110"
 msgid ""
 "文字表示:あやめ:あのっ……！\n"
 "\n"
@@ -722,15 +831,18 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "111"
+#, ignore-same
+msgctxt "SCRIPT71: 111"
 msgid "すぐさま答える竜司。"
 msgstr ""
 
-msgctxt "112"
+#, ignore-same
+msgctxt "SCRIPT71: 112"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "113"
+#, ignore-same
+msgctxt "SCRIPT71: 113"
 msgid ""
 "文字表示:＊:君っ！　大丈夫か！\n"
 "……ロッカーの中に隠れていろ――？！\n"
@@ -744,11 +856,13 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "114"
+#, ignore-same
+msgctxt "SCRIPT71: 114"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "115"
+#, ignore-same
+msgctxt "SCRIPT71: 115"
 msgid ""
 "文字表示:あやめ:――！\n"
 "//（あやめも気づく）\n"
@@ -762,7 +876,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "116"
+#, ignore-same
+msgctxt "SCRIPT71: 116"
 msgid ""
 "文字表示:＊:……伊藤！？　伊藤か！？\n"
 "\n"
@@ -776,7 +891,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "117"
+#, ignore-same
+msgctxt "SCRIPT71: 117"
 msgid ""
 "文字表示:＊:あやめさんー！？\n"
 "//（ロッカーからくららが声を出す。）\n"
@@ -790,7 +906,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "118"
+#, ignore-same
+msgctxt "SCRIPT71: 118"
 msgid ""
 "文字表示:あやめ:島崎くん！　手清水さん！\n"
 "\n"
@@ -804,7 +921,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "119"
+#, ignore-same
+msgctxt "SCRIPT71: 119"
 msgid ""
 "文字表示:手清水くらら:良かったー、無事だったのですねー？\n"
 "\n"
@@ -818,7 +936,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "120"
+#, ignore-same
+msgctxt "SCRIPT71: 120"
 msgid ""
 "文字表示:島崎竜司:探したんだぞ！　心配させやがって！\n"
 "\n"
@@ -832,47 +951,58 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "121"
+#, ignore-same
+msgctxt "SCRIPT71: 121"
 msgid "竜司があやめの方を向いている隙に、起き上がったサラリーマン死人は後ろから竜司に殴りかかった。"
 msgstr ""
 
-msgctxt "122"
+#, ignore-same
+msgctxt "SCRIPT71: 122"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "123"
+#, ignore-same
+msgctxt "SCRIPT71: 123"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "124"
+#, ignore-same
+msgctxt "SCRIPT71: 124"
 msgid "くららのいるロッカーまで弾き飛ばされる竜司、ロッカーに激突。"
 msgstr ""
 
-msgctxt "125"
+#, ignore-same
+msgctxt "SCRIPT71: 125"
 msgid "くらら「ひゃぁー！」（※音声のみ）"
 msgstr ""
 
-msgctxt "126"
+#, ignore-same
+msgctxt "SCRIPT71: 126"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "127"
+#, ignore-same
+msgctxt "SCRIPT71: 127"
 msgid "竜司「ぐッは！」（※音声のみ）"
 msgstr ""
 
-msgctxt "128"
+#, ignore-same
+msgctxt "SCRIPT71: 128"
 msgid "竜司その場にうずくまる。"
 msgstr ""
 
-msgctxt "129"
+#, ignore-same
+msgctxt "SCRIPT71: 129"
 msgid "勢いでくららの入っているロッカーの扉がガシャンと閉まる。"
 msgstr ""
 
-msgctxt "130"
+#, ignore-same
+msgctxt "SCRIPT71: 130"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "131"
+#, ignore-same
+msgctxt "SCRIPT71: 131"
 msgid ""
 "文字表示:竜司:げほっ、ごほっ……\n"
 "く……ぐぐっ\n"
@@ -886,15 +1016,18 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "132"
+#, ignore-same
+msgctxt "SCRIPT71: 132"
 msgid "竜司はうずくまり立ち上がれない。"
 msgstr ""
 
-msgctxt "133"
+#, ignore-same
+msgctxt "SCRIPT71: 133"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "134"
+#, ignore-same
+msgctxt "SCRIPT71: 134"
 msgid ""
 "文字表示:あやめ:手清水さん！　そのまま隠れてて！\n"
 "\n"
@@ -908,15 +1041,18 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "135"
+#, ignore-same
+msgctxt "SCRIPT71: 135"
 msgid "くらら「うううぅぅぅ～」（※ロッカーの中から音声のみ）"
 msgstr ""
 
-msgctxt "136"
+#, ignore-same
+msgctxt "SCRIPT71: 136"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "137"
+#, ignore-same
+msgctxt "SCRIPT71: 137"
 msgid ""
 "文字表示:あやめ:（何とか……何とかしなきゃ！）\n"
 "\n"
@@ -930,15 +1066,18 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "138"
+#, ignore-same
+msgctxt "SCRIPT71: 138"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "139"
+#, ignore-same
+msgctxt "SCRIPT71: 139"
 msgid "//■あやめとともに逃げ回っている律子に話しかけると***********"
 msgstr ""
 
-msgctxt "140"
+#, ignore-same
+msgctxt "SCRIPT71: 140"
 msgid ""
 "文字表示:律子:……うう、懐中電灯があれば……\n"
 "あいつは、光に弱いはずなのに！\n"
@@ -952,67 +1091,83 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "141"
+#, ignore-same
+msgctxt "SCRIPT71: 141"
 msgid "***************************************"
 msgstr ""
 
-msgctxt "142"
+#, ignore-same
+msgctxt "SCRIPT71: 142"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "143"
+#, ignore-same
+msgctxt "SCRIPT71: 143"
 msgid "//■攻略"
 msgstr ""
 
-msgctxt "144"
+#, ignore-same
+msgctxt "SCRIPT71: 144"
 msgid "・サラリーマン死人に捕まると顔を食われダメージ→ゲームオーバー"
 msgstr ""
 
-msgctxt "145"
+#, ignore-same
+msgctxt "SCRIPT71: 145"
 msgid "・手術台をはさむと手術台の上をまたいで乗り越えようとするが、疲れて一度休むアクション。"
 msgstr ""
 
-msgctxt "146"
+#, ignore-same
+msgctxt "SCRIPT71: 146"
 msgid "　そのタイミングで部屋のスイッチで手術台のライトを点けると、強烈な光が敵にあたり、倒すことが出来る。"
 msgstr ""
 
-msgctxt "147"
+#, ignore-same
+msgctxt "SCRIPT71: 147"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "148"
+#, ignore-same
+msgctxt "SCRIPT71: 148"
 msgid "「ピギイィィィ！」（音声のみ）＞ライト照射"
 msgstr ""
 
-msgctxt "149"
+#, ignore-same
+msgctxt "SCRIPT71: 149"
 msgid "「ギアアァァァァァァーーーー！！」（音声のみ）＞激しい断末魔"
 msgstr ""
 
-msgctxt "150"
+#, ignore-same
+msgctxt "SCRIPT71: 150"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "151"
+#, ignore-same
+msgctxt "SCRIPT71: 151"
 msgid "動かなくなる死人。"
 msgstr ""
 
-msgctxt "152"
+#, ignore-same
+msgctxt "SCRIPT71: 152"
 msgid "アラートも鳴り止み、ドアのロックもバシュウ、ゴクンと開いて"
 msgstr ""
 
-msgctxt "153"
+#, ignore-same
+msgctxt "SCRIPT71: 153"
 msgid "扉が半開きになる。"
 msgstr ""
 
-msgctxt "154"
+#, ignore-same
+msgctxt "SCRIPT71: 154"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "155"
+#, ignore-same
+msgctxt "SCRIPT71: 155"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "156"
+#, ignore-same
+msgctxt "SCRIPT71: 156"
 msgid ""
 "文字表示:あやめ:はぁ、はぁ、はぁ……\n"
 "\n"
@@ -1026,19 +1181,23 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "157"
+#, ignore-same
+msgctxt "SCRIPT71: 157"
 msgid "ズルズル、と床に座り込むあやめ。"
 msgstr ""
 
-msgctxt "158"
+#, ignore-same
+msgctxt "SCRIPT71: 158"
 msgid "ロッカーを開けて出てくるくらら。しゃがんで、竜司を介抱する。"
 msgstr ""
 
-msgctxt "159"
+#, ignore-same
+msgctxt "SCRIPT71: 159"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "160"
+#, ignore-same
+msgctxt "SCRIPT71: 160"
 msgid ""
 "文字表示:くらら:ふぅ……ふぅ……\n"
 "大丈夫ー？　島崎くんー？\n"
@@ -1052,11 +1211,13 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "161"
+#, ignore-same
+msgctxt "SCRIPT71: 161"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "162"
+#, ignore-same
+msgctxt "SCRIPT71: 162"
 msgid ""
 "文字表示:竜司:あ……あぁ……\n"
 "呼吸が出来なくて驚いたが、もう平気だ\n"
@@ -1070,15 +1231,18 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "163"
+#, ignore-same
+msgctxt "SCRIPT71: 163"
 msgid "体を起こし、"
 msgstr ""
 
-msgctxt "164"
+#, ignore-same
+msgctxt "SCRIPT71: 164"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "165"
+#, ignore-same
+msgctxt "SCRIPT71: 165"
 msgid ""
 "文字表示:竜司:伊藤……！　伊藤、無事か？\n"
 "よくコイツを仕留めたな\n"
@@ -1092,7 +1256,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "166"
+#, ignore-same
+msgctxt "SCRIPT71: 166"
 msgid ""
 "文字表示:律子:仕留めたとは限らないわ\n"
 "またいつ起き上がってくるか……縛りましょう\n"
@@ -1106,7 +1271,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "167"
+#, ignore-same
+msgctxt "SCRIPT71: 167"
 msgid ""
 "文字表示:竜司:……あんたは……？　味方のよう、だが\n"
 "\n"
@@ -1120,7 +1286,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "168"
+#, ignore-same
+msgctxt "SCRIPT71: 168"
 msgid ""
 "文字表示:律子:里見律子……\n"
 "背景もしがらみもない、只の年増よ\n"
@@ -1134,7 +1301,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "169"
+#, ignore-same
+msgctxt "SCRIPT71: 169"
 msgid ""
 "文字表示:あやめ:り、律子さん\n"
 "どうしてそんな事を言うの？\n"
@@ -1148,7 +1316,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "170"
+#, ignore-same
+msgctxt "SCRIPT71: 170"
 msgid ""
 "文字表示:律子:私の相棒だった、カメラも無い……\n"
 "心の中心にいた、愛しい人も消えた……\n"
@@ -1162,7 +1331,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "171"
+#, ignore-same
+msgctxt "SCRIPT71: 171"
 msgid ""
 "文字表示:律子:私はもう、からっぽなの\n"
 "//力なく笑う\n"
@@ -1176,7 +1346,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "172"
+#, ignore-same
+msgctxt "SCRIPT71: 172"
 msgid ""
 "文字表示:あやめ:っ……\n"
 "律子さんは、報道カメラマンで……\n"
@@ -1190,7 +1361,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "173"
+#, ignore-same
+msgctxt "SCRIPT71: 173"
 msgid ""
 "文字表示:竜司:報道？\n"
 "\n"
@@ -1204,7 +1376,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "174"
+#, ignore-same
+msgctxt "SCRIPT71: 174"
 msgid ""
 "文字表示:律子:いいのです、あやめ様\n"
 "\n"
@@ -1218,7 +1391,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "175"
+#, ignore-same
+msgctxt "SCRIPT71: 175"
 msgid ""
 "文字表示:律子:――さぁ、手伝いなさい、アンタ達\n"
 "あやめ様の手をわずらわせるんじゃないわ\n"
@@ -1232,29 +1406,35 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "176"
+#, ignore-same
+msgctxt "SCRIPT71: 176"
 msgid "ビニールテープの玉を投げてよこす律子。"
 msgstr ""
 
-msgctxt "177"
+#, ignore-same
+msgctxt "SCRIPT71: 177"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "178"
+#, ignore-same
+msgctxt "SCRIPT71: 178"
 msgid "●"
 msgstr ""
 
-msgctxt "179"
+#, ignore-same
+msgctxt "SCRIPT71: 179"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "180"
+#, ignore-same
+msgctxt "SCRIPT71: 180"
 msgid ""
 "SCRIPT6\n"
 "0"
 msgstr ""
 
-msgctxt "181"
+#, ignore-same
+msgctxt "SCRIPT71: 181"
 msgid ""
 "文字表示:【＃１３：手術室～ホールへ戻る】***************************************************:登場NPC：里見律子・島崎竜司・手清水くらら\n"
 "\n"
@@ -1268,7 +1448,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "182"
+#, ignore-same
+msgctxt "SCRIPT71: 182"
 msgid ""
 "文字表示:登場NPC：里見律子・島崎竜司・手清水くら:\n"
 "ビイィーッ、とビニールテープで\n"
@@ -1282,11 +1463,13 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "183"
+#, ignore-same
+msgctxt "SCRIPT71: 183"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "184"
+#, ignore-same
+msgctxt "SCRIPT71: 184"
 msgid ""
 "文字表示:律子:これは……本当に病気なの？\n"
 "人間が何かに感染して、ここまで変化するもの？\n"
@@ -1300,7 +1483,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "185"
+#, ignore-same
+msgctxt "SCRIPT71: 185"
 msgid ""
 "文字表示:竜司:いや、お言葉だが\n"
 "コイツら病気の人間なんかじゃない……死人だ\n"
@@ -1314,7 +1498,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "186"
+#, ignore-same
+msgctxt "SCRIPT71: 186"
 msgid ""
 "文字表示:竜司:見ろ\n"
 "\n"
@@ -1328,11 +1513,13 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "187"
+#, ignore-same
+msgctxt "SCRIPT71: 187"
 msgid "黒化人間の胸をまくると、心臓の位置に大穴が開いていた。"
 msgstr ""
 
-msgctxt "188"
+#, ignore-same
+msgctxt "SCRIPT71: 188"
 msgid ""
 "文字表示:【EVグラフィック】：胸に大穴のある死:\n"
 "くらら：\n"
@@ -1346,7 +1533,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "189"
+#, ignore-same
+msgctxt "SCRIPT71: 189"
 msgid ""
 "文字表示:くらら:あらー……\n"
 "\n"
@@ -1360,7 +1548,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "190"
+#, ignore-same
+msgctxt "SCRIPT71: 190"
 msgid ""
 "文字表示:あやめ:心臓が……無い……？\n"
 "\n"
@@ -1374,7 +1563,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "191"
+#, ignore-same
+msgctxt "SCRIPT71: 191"
 msgid ""
 "文字表示:律子:この状態で動いていたの？\n"
 "これじゃ、生きてるわけがない……\n"
@@ -1388,15 +1578,18 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "192"
+#, ignore-same
+msgctxt "SCRIPT71: 192"
 msgid "ゾッとする一同。"
 msgstr ""
 
-msgctxt "193"
+#, ignore-same
+msgctxt "SCRIPT71: 193"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "194"
+#, ignore-same
+msgctxt "SCRIPT71: 194"
 msgid ""
 "文字表示:くらら:とにかく……ここを出ませんかー？\n"
 "怖いです……くさいし\n"
@@ -1410,60 +1603,72 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "195"
+#, ignore-same
+msgctxt "SCRIPT71: 195"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "196"
+#, ignore-same
+msgctxt "SCRIPT71: 196"
 msgid "●"
 msgstr ""
 
-msgctxt "197"
+#, ignore-same
+msgctxt "SCRIPT71: 197"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "198"
+#, ignore-same
+msgctxt "SCRIPT71: 198"
 msgid ""
 "SCRIPT7\n"
 "0"
 msgstr ""
 
-msgctxt "199"
+#, ignore-same
+msgctxt "SCRIPT71: 199"
 msgid "●"
 msgstr ""
 
-msgctxt "200"
+#, ignore-same
+msgctxt "SCRIPT71: 200"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "201"
+#, ignore-same
+msgctxt "SCRIPT71: 201"
 msgid ""
 "SCRIPT8\n"
 "0"
 msgstr ""
 
-msgctxt "202"
+#, ignore-same
+msgctxt "SCRIPT71: 202"
 msgid "●"
 msgstr ""
 
-msgctxt "203"
+#, ignore-same
+msgctxt "SCRIPT71: 203"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "204"
+#, ignore-same
+msgctxt "SCRIPT71: 204"
 msgid ""
 "SCRIPT9\n"
 "0"
 msgstr ""
 
-msgctxt "205"
+#, ignore-same
+msgctxt "SCRIPT71: 205"
 msgid ""
 "キャラアニメ:このイベント\n"
 "24\n"
 "1"
 msgstr ""
 
-msgctxt "206"
+#, ignore-same
+msgctxt "SCRIPT71: 206"
 msgid ""
 "場所移動:廊下２F\n"
 "85\n"
@@ -1472,49 +1677,59 @@ msgid ""
 "上"
 msgstr ""
 
-msgctxt "207"
+#, ignore-same
+msgctxt "SCRIPT71: 207"
 msgid "●"
 msgstr ""
 
-msgctxt "208"
+#, ignore-same
+msgctxt "SCRIPT71: 208"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "209"
+#, ignore-same
+msgctxt "SCRIPT71: 209"
 msgid ""
 "SCRIPT10\n"
 "0"
 msgstr ""
 
-msgctxt "210"
+#, ignore-same
+msgctxt "SCRIPT71: 210"
 msgid "●"
 msgstr ""
 
-msgctxt "211"
+#, ignore-same
+msgctxt "SCRIPT71: 211"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "212"
+#, ignore-same
+msgctxt "SCRIPT71: 212"
 msgid ""
 "SCRIPT11\n"
 "0"
 msgstr ""
 
-msgctxt "213"
+#, ignore-same
+msgctxt "SCRIPT71: 213"
 msgid "●"
 msgstr ""
 
-msgctxt "214"
+#, ignore-same
+msgctxt "SCRIPT71: 214"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "215"
+#, ignore-same
+msgctxt "SCRIPT71: 215"
 msgid ""
 "SCRIPT12\n"
 "0"
 msgstr ""
 
-msgctxt "216"
+#, ignore-same
+msgctxt "SCRIPT71: 216"
 msgid ""
 "イベントコピー:-1\n"
 "-1\n"
@@ -1523,7 +1738,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "217"
+#, ignore-same
+msgctxt "SCRIPT71: 217"
 msgid ""
 "ローカルフラグ:10:包帯配置\n"
 "ON\n"
@@ -1531,116 +1747,141 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "218"
+#, ignore-same
+msgctxt "SCRIPT71: 218"
 msgid "●"
 msgstr ""
 
-msgctxt "219"
+#, ignore-same
+msgctxt "SCRIPT71: 219"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "220"
+#, ignore-same
+msgctxt "SCRIPT71: 220"
 msgid ""
 "SCRIPT12\n"
 "1"
 msgstr ""
 
-msgctxt "221"
+#, ignore-same
+msgctxt "SCRIPT71: 221"
 msgid "●"
 msgstr ""
 
-msgctxt "222"
+#, ignore-same
+msgctxt "SCRIPT71: 222"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "223"
+#, ignore-same
+msgctxt "SCRIPT71: 223"
 msgid ""
 "SCRIPT13\n"
 "0"
 msgstr ""
 
-msgctxt "224"
+#, ignore-same
+msgctxt "SCRIPT71: 224"
 msgid "診察カード:8"
 msgstr ""
 
-msgctxt "225"
+#, ignore-same
+msgctxt "SCRIPT71: 225"
 msgid "●"
 msgstr ""
 
-msgctxt "226"
+#, ignore-same
+msgctxt "SCRIPT71: 226"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "227"
+#, ignore-same
+msgctxt "SCRIPT71: 227"
 msgid ""
 "SCRIPT14\n"
 "0"
 msgstr ""
 
-msgctxt "228"
+#, ignore-same
+msgctxt "SCRIPT71: 228"
 msgid "●"
 msgstr ""
 
-msgctxt "229"
+#, ignore-same
+msgctxt "SCRIPT71: 229"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "230"
+#, ignore-same
+msgctxt "SCRIPT71: 230"
 msgid ""
 "SCRIPT14\n"
 "1"
 msgstr ""
 
-msgctxt "231"
+#, ignore-same
+msgctxt "SCRIPT71: 231"
 msgid "●"
 msgstr ""
 
-msgctxt "232"
+#, ignore-same
+msgctxt "SCRIPT71: 232"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "233"
+#, ignore-same
+msgctxt "SCRIPT71: 233"
 msgid ""
 "SCRIPT15\n"
 "0"
 msgstr ""
 
-msgctxt "234"
+#, ignore-same
+msgctxt "SCRIPT71: 234"
 msgid "診察カード:3"
 msgstr ""
 
-msgctxt "235"
+#, ignore-same
+msgctxt "SCRIPT71: 235"
 msgid "●"
 msgstr ""
 
-msgctxt "236"
+#, ignore-same
+msgctxt "SCRIPT71: 236"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "237"
+#, ignore-same
+msgctxt "SCRIPT71: 237"
 msgid ""
 "SCRIPT16\n"
 "0"
 msgstr ""
 
-msgctxt "238"
+#, ignore-same
+msgctxt "SCRIPT71: 238"
 msgid "●"
 msgstr ""
 
-msgctxt "239"
+#, ignore-same
+msgctxt "SCRIPT71: 239"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "240"
+#, ignore-same
+msgctxt "SCRIPT71: 240"
 msgid ""
 "SCRIPT17\n"
 "0"
 msgstr ""
 
-msgctxt "241"
+#, ignore-same
+msgctxt "SCRIPT71: 241"
 msgid "●"
 msgstr ""
 
-msgctxt "242"
+#, ignore-same
+msgctxt "SCRIPT71: 242"
 msgid "END_SCRIPT"
 msgstr ""

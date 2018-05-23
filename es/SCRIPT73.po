@@ -5,16 +5,15 @@ msgstr ""
 "POT-Creation-Date: 21/05/2018\n"
 "PO-Revision-Date: 2018-05-23 15:31+0000\n"
 "Last-Translator: Van_Kaiji <alejandro.sh94@gmail.com>\n"
-"Language-Team: Spanish <http://54.37.11.10/projects/corpse-party-2/script73/"
-"es/>\n"
+"Language-Team: Spanish <http://54.37.11.10/projects/corpse-party-2/script73/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.20\n"
 
-msgctxt "0"
+#, ignore-same
+msgctxt "SCRIPT73: 0"
 msgid ""
 "SCRIPT1\n"
 "0"
@@ -22,73 +21,87 @@ msgstr ""
 "SCRIPT1\n"
 "0"
 
-msgctxt "1"
+#, ignore-same
+msgctxt "SCRIPT73: 1"
 msgid "ローカルフラグ分岐:32:"
 msgstr ""
 
-msgctxt "2"
+#, ignore-same
+msgctxt "SCRIPT73: 2"
 msgid "▼:ON"
 msgstr ""
 
-msgctxt "3"
+#, ignore-same
+msgctxt "SCRIPT73: 3"
 msgid ""
 "ローカルフラグ:32:\n"
 "OFF\n"
 "0"
 msgstr ""
 
-msgctxt "4"
+#, ignore-same
+msgctxt "SCRIPT73: 4"
 msgid ""
 "ＳＥ:CORP2-SE021.wav\n"
 "ON\n"
 "OFF"
 msgstr ""
 
-msgctxt "5"
+#, ignore-same
+msgctxt "SCRIPT73: 5"
 msgid "●"
 msgstr ""
 
-msgctxt "6"
+#, ignore-same
+msgctxt "SCRIPT73: 6"
 msgid "▼:OFF"
 msgstr ""
 
-msgctxt "7"
+#, ignore-same
+msgctxt "SCRIPT73: 7"
 msgid ""
 "ローカルフラグ:32:\n"
 "ON\n"
 "0"
 msgstr ""
 
-msgctxt "8"
+#, ignore-same
+msgctxt "SCRIPT73: 8"
 msgid ""
 "ＳＥ:CORP2-SE022.wav\n"
 "ON\n"
 "OFF"
 msgstr ""
 
-msgctxt "9"
+#, ignore-same
+msgctxt "SCRIPT73: 9"
 msgid "●"
 msgstr ""
 
-msgctxt "10"
+#, ignore-same
+msgctxt "SCRIPT73: 10"
 msgid "分岐終了"
 msgstr ""
 
-msgctxt "11"
+#, ignore-same
+msgctxt "SCRIPT73: 11"
 msgid "●"
 msgstr ""
 
-msgctxt "12"
+#, ignore-same
+msgctxt "SCRIPT73: 12"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "13"
+#, ignore-same
+msgctxt "SCRIPT73: 13"
 msgid ""
 "SCRIPT2\n"
 "0"
 msgstr ""
 
-msgctxt "14"
+#, ignore-same
+msgctxt "SCRIPT73: 14"
 msgid ""
 "文字表示:赤く、警告表示のようなものが点滅している……\n"
 " \n"
@@ -102,21 +115,25 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "15"
+#, ignore-same
+msgctxt "SCRIPT73: 15"
 msgid "●"
 msgstr ""
 
-msgctxt "16"
+#, ignore-same
+msgctxt "SCRIPT73: 16"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "17"
+#, ignore-same
+msgctxt "SCRIPT73: 17"
 msgid ""
 "SCRIPT3\n"
 "0"
 msgstr ""
 
-msgctxt "18"
+#, ignore-same
+msgctxt "SCRIPT73: 18"
 msgid ""
 "文字表示:扉が開かない……\n"
 "横の端末を操作する必要があるようだ\n"
@@ -125,21 +142,25 @@ msgid ""
 "1"
 msgstr ""
 
-msgctxt "19"
+#, ignore-same
+msgctxt "SCRIPT73: 19"
 msgid "●"
 msgstr "●"
 
-msgctxt "20"
+#, ignore-same
+msgctxt "SCRIPT73: 20"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "21"
+#, ignore-same
+msgctxt "SCRIPT73: 21"
 msgid ""
 "SCRIPT3\n"
 "1"
 msgstr ""
 
-msgctxt "22"
+#, ignore-same
+msgctxt "SCRIPT73: 22"
 msgid ""
 "ＢＧＭ:CORP2-BGM008.wav\n"
 "OFF\n"
@@ -149,7 +170,8 @@ msgid ""
 "100"
 msgstr ""
 
-msgctxt "23"
+#, ignore-same
+msgctxt "SCRIPT73: 23"
 msgid ""
 "場所移動:■処理エリア２F\n"
 "14\n"
@@ -161,21 +183,25 @@ msgid ""
 "なし"
 msgstr ""
 
-msgctxt "24"
+#, ignore-same
+msgctxt "SCRIPT73: 24"
 msgid "●"
 msgstr ""
 
-msgctxt "25"
+#, ignore-same
+msgctxt "SCRIPT73: 25"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "26"
+#, ignore-same
+msgctxt "SCRIPT73: 26"
 msgid ""
 "SCRIPT3\n"
 "2"
 msgstr ""
 
-msgctxt "27"
+#, ignore-same
+msgctxt "SCRIPT73: 27"
 msgid ""
 "ＢＧＭ:CORP2-BGM008.wav\n"
 "OFF\n"
@@ -185,7 +211,8 @@ msgid ""
 "100"
 msgstr ""
 
-msgctxt "28"
+#, ignore-same
+msgctxt "SCRIPT73: 28"
 msgid ""
 "場所移動:■処理エリア２F\n"
 "14\n"
@@ -197,21 +224,25 @@ msgid ""
 "なし"
 msgstr ""
 
-msgctxt "29"
+#, ignore-same
+msgctxt "SCRIPT73: 29"
 msgid "●"
 msgstr ""
 
-msgctxt "30"
+#, ignore-same
+msgctxt "SCRIPT73: 30"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "31"
+#, ignore-same
+msgctxt "SCRIPT73: 31"
 msgid ""
 "SCRIPT4\n"
 "0"
 msgstr ""
 
-msgctxt "32"
+#, ignore-same
+msgctxt "SCRIPT73: 32"
 msgid ""
 "文字表示:モニターに何かの値を示すグラフが\n"
 "激しく上下している\n"
@@ -225,21 +256,25 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "33"
+#, ignore-same
+msgctxt "SCRIPT73: 33"
 msgid "●"
 msgstr ""
 
-msgctxt "34"
+#, ignore-same
+msgctxt "SCRIPT73: 34"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "35"
+#, ignore-same
+msgctxt "SCRIPT73: 35"
 msgid ""
 "SCRIPT5\n"
 "0"
 msgstr ""
 
-msgctxt "36"
+#, ignore-same
+msgctxt "SCRIPT73: 36"
 msgid ""
 "文字表示:手術用の鉗子などの器具が置いてある。\n"
 " \n"
@@ -253,78 +288,94 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "37"
+#, ignore-same
+msgctxt "SCRIPT73: 37"
 msgid "ローカルフラグ分岐:8:鉗子を取得"
 msgstr ""
 
-msgctxt "38"
+#, ignore-same
+msgctxt "SCRIPT73: 38"
 msgid "▼:ON"
 msgstr ""
 
-msgctxt "39"
+#, ignore-same
+msgctxt "SCRIPT73: 39"
 msgid "●"
 msgstr "●"
 
-msgctxt "40"
+#, ignore-same
+msgctxt "SCRIPT73: 40"
 msgid "▼:OFF"
 msgstr ""
 
-msgctxt "41"
+#, ignore-same
+msgctxt "SCRIPT73: 41"
 msgid ""
 "ローカルフラグ:8:鉗子を取得\n"
 "ON\n"
 "0"
 msgstr ""
 
-msgctxt "42"
+#, ignore-same
+msgctxt "SCRIPT73: 42"
 msgid ""
 "アイテム取得:手術用鉗子\n"
 "ON"
 msgstr ""
 
-msgctxt "43"
+#, ignore-same
+msgctxt "SCRIPT73: 43"
 msgid ""
 "ローカルフラグ:5:アイテムを取得\n"
 "ON"
 msgstr ""
 
-msgctxt "44"
+#, ignore-same
+msgctxt "SCRIPT73: 44"
 msgid "●"
 msgstr ""
 
-msgctxt "45"
+#, ignore-same
+msgctxt "SCRIPT73: 45"
 msgid "分岐終了"
 msgstr ""
 
-msgctxt "46"
+#, ignore-same
+msgctxt "SCRIPT73: 46"
 msgid "●"
 msgstr "●"
 
-msgctxt "47"
+#, ignore-same
+msgctxt "SCRIPT73: 47"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "48"
+#, ignore-same
+msgctxt "SCRIPT73: 48"
 msgid ""
 "SCRIPT5\n"
 "1"
 msgstr ""
 
-msgctxt "49"
+#, ignore-same
+msgctxt "SCRIPT73: 49"
 msgid "●"
 msgstr "●"
 
-msgctxt "50"
+#, ignore-same
+msgctxt "SCRIPT73: 50"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "51"
+#, ignore-same
+msgctxt "SCRIPT73: 51"
 msgid ""
 "SCRIPT6\n"
 "0"
 msgstr ""
 
-msgctxt "52"
+#, ignore-same
+msgctxt "SCRIPT73: 52"
 msgid ""
 "ＢＧＭ:CORP2-BGM010-1.wav\n"
 "ON\n"
@@ -334,13 +385,15 @@ msgid ""
 "100"
 msgstr ""
 
-msgctxt "53"
+#, ignore-same
+msgctxt "SCRIPT73: 53"
 msgid ""
 "ローカルフラグ:0:初期設定\n"
 "ON"
 msgstr ""
 
-msgctxt "54"
+#, ignore-same
+msgctxt "SCRIPT73: 54"
 msgid ""
 "グラフィック変更:0\n"
 "ayame_normal\n"
@@ -355,35 +408,42 @@ msgid ""
 "1"
 msgstr ""
 
-msgctxt "55"
+#, ignore-same
+msgctxt "SCRIPT73: 55"
 msgid "●"
 msgstr "●"
 
-msgctxt "56"
+#, ignore-same
+msgctxt "SCRIPT73: 56"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "57"
+#, ignore-same
+msgctxt "SCRIPT73: 57"
 msgid ""
 "SCRIPT6\n"
 "1"
 msgstr ""
 
-msgctxt "58"
+#, ignore-same
+msgctxt "SCRIPT73: 58"
 msgid "●"
 msgstr "●"
 
-msgctxt "59"
+#, ignore-same
+msgctxt "SCRIPT73: 59"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "60"
+#, ignore-same
+msgctxt "SCRIPT73: 60"
 msgid ""
 "SCRIPT7\n"
 "0"
 msgstr ""
 
-msgctxt "61"
+#, ignore-same
+msgctxt "SCRIPT73: 61"
 msgid ""
 "場所移動:■廊下１Ｆ（暗）\n"
 "113\n"
@@ -396,21 +456,25 @@ msgid ""
 "on"
 msgstr ""
 
-msgctxt "62"
+#, ignore-same
+msgctxt "SCRIPT73: 62"
 msgid "●"
 msgstr ""
 
-msgctxt "63"
+#, ignore-same
+msgctxt "SCRIPT73: 63"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "64"
+#, ignore-same
+msgctxt "SCRIPT73: 64"
 msgid ""
 "SCRIPT8\n"
 "0"
 msgstr ""
 
-msgctxt "65"
+#, ignore-same
+msgctxt "SCRIPT73: 65"
 msgid ""
 "文字表示:認証カードを読み取る【カードリーダー】がある\n"
 " \n"
@@ -424,7 +488,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "66"
+#, ignore-same
+msgctxt "SCRIPT73: 66"
 msgid ""
 "文字表示:ケーブルが引きちぎられ、リーダーに通電して\n"
 "いないようだ……\n"
@@ -438,28 +503,33 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "67"
+#, ignore-same
+msgctxt "SCRIPT73: 67"
 msgid ""
 "時間待ち:7\n"
 "CLOSE"
 msgstr ""
 
-msgctxt "68"
+#, ignore-same
+msgctxt "SCRIPT73: 68"
 msgid "使用アイテム分岐:手術用鉗子"
 msgstr ""
 
-msgctxt "69"
+#, ignore-same
+msgctxt "SCRIPT73: 69"
 msgid "▼:ON"
 msgstr ""
 
-msgctxt "70"
+#, ignore-same
+msgctxt "SCRIPT73: 70"
 msgid ""
 "バストショット:bs_ayame_a01_a01.tga\n"
 "左\n"
 "OFF"
 msgstr ""
 
-msgctxt "71"
+#, ignore-same
+msgctxt "SCRIPT73: 71"
 msgid ""
 "文字表示:あやめ:この『手術用鉗子』を使って、導線をはさめば……\n"
 " \n"
@@ -473,34 +543,39 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "72"
+#, ignore-same
+msgctxt "SCRIPT73: 72"
 msgid ""
 "バストショット:bs_ayame_a01_j01.tga\n"
 "左\n"
 "OFF"
 msgstr ""
 
-msgctxt "73"
+#, ignore-same
+msgctxt "SCRIPT73: 73"
 msgid ""
 "カメラ振動:ON\n"
 "2"
 msgstr ""
 
-msgctxt "74"
+#, ignore-same
+msgctxt "SCRIPT73: 74"
 msgid ""
 "ＳＥ:CORP2-SE007.wav\n"
 "ON\n"
 "OFF"
 msgstr ""
 
-msgctxt "75"
+#, ignore-same
+msgctxt "SCRIPT73: 75"
 msgid ""
 "フェード:イン\n"
 "2\n"
 "水色"
 msgstr ""
 
-msgctxt "76"
+#, ignore-same
+msgctxt "SCRIPT73: 76"
 msgid ""
 "文字表示:あやめ:きゃっ！！\n"
 " \n"
@@ -509,7 +584,8 @@ msgid ""
 "100"
 msgstr ""
 
-msgctxt "77"
+#, ignore-same
+msgctxt "SCRIPT73: 77"
 msgid ""
 "文字表示:鉗子にケーブルの電流が流れ、感電してしまう\n"
 "直に触るのは危険だ……！\n"
@@ -523,44 +599,53 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "78"
+#, ignore-same
+msgctxt "SCRIPT73: 78"
 msgid ""
 "ローカルフラグ:2:感電した。\n"
 "ON"
 msgstr ""
 
-msgctxt "79"
+#, ignore-same
+msgctxt "SCRIPT73: 79"
 msgid "●"
 msgstr "●"
 
-msgctxt "80"
+#, ignore-same
+msgctxt "SCRIPT73: 80"
 msgid "▼:OFF"
 msgstr ""
 
-msgctxt "81"
+#, ignore-same
+msgctxt "SCRIPT73: 81"
 msgid "使用アイテム分岐:ゴム手袋"
 msgstr ""
 
-msgctxt "82"
+#, ignore-same
+msgctxt "SCRIPT73: 82"
 msgid "▼:ON"
 msgstr ""
 
-msgctxt "83"
+#, ignore-same
+msgctxt "SCRIPT73: 83"
 msgid "ローカルフラグ分岐:2:感電した。"
 msgstr ""
 
-msgctxt "84"
+#, ignore-same
+msgctxt "SCRIPT73: 84"
 msgid "▼:ON"
 msgstr ""
 
-msgctxt "85"
+#, ignore-same
+msgctxt "SCRIPT73: 85"
 msgid ""
 "バストショット:bs_ayame_a01_a01.tga\n"
 "左\n"
 "OFF"
 msgstr ""
 
-msgctxt "86"
+#, ignore-same
+msgctxt "SCRIPT73: 86"
 msgid ""
 "文字表示:あやめ:この『手袋』をして『手術用鉗子』を使えば、\n"
 "感電しないはず……\n"
@@ -569,7 +654,8 @@ msgid ""
 "1"
 msgstr ""
 
-msgctxt "87"
+#, ignore-same
+msgctxt "SCRIPT73: 87"
 msgid ""
 "グラフィック変更:このイベント\n"
 "27\n"
@@ -584,21 +670,24 @@ msgid ""
 "2"
 msgstr ""
 
-msgctxt "88"
+#, ignore-same
+msgctxt "SCRIPT73: 88"
 msgid ""
 "ＳＥ:CORP2-SE011.wav\n"
 "ON\n"
 "OFF"
 msgstr ""
 
-msgctxt "89"
+#, ignore-same
+msgctxt "SCRIPT73: 89"
 msgid ""
 "フェード:イン\n"
 "2\n"
 "白"
 msgstr ""
 
-msgctxt "90"
+#, ignore-same
+msgctxt "SCRIPT73: 90"
 msgid ""
 "ローカルフラグ:3:\n"
 "ON\n"
@@ -606,34 +695,40 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "91"
+#, ignore-same
+msgctxt "SCRIPT73: 91"
 msgid ""
 "アイテム取得:手術用鉗子\n"
 "OFF"
 msgstr ""
 
-msgctxt "92"
+#, ignore-same
+msgctxt "SCRIPT73: 92"
 msgid ""
 "アイテム取得:ゴム手袋\n"
 "OFF"
 msgstr ""
 
-msgctxt "93"
+#, ignore-same
+msgctxt "SCRIPT73: 93"
 msgid "●"
 msgstr ""
 
-msgctxt "94"
+#, ignore-same
+msgctxt "SCRIPT73: 94"
 msgid "▼:OFF"
 msgstr ""
 
-msgctxt "95"
+#, ignore-same
+msgctxt "SCRIPT73: 95"
 msgid ""
 "バストショット:bs_ayame_a01_a01.tga\n"
 "左\n"
 "OFF"
 msgstr ""
 
-msgctxt "96"
+#, ignore-same
+msgctxt "SCRIPT73: 96"
 msgid ""
 "文字表示:あやめ:ちぎれたケーブルを、何かで繋げないかしら……\n"
 " \n"
@@ -642,30 +737,36 @@ msgid ""
 "100"
 msgstr ""
 
-msgctxt "97"
+#, ignore-same
+msgctxt "SCRIPT73: 97"
 msgid "●"
 msgstr ""
 
-msgctxt "98"
+#, ignore-same
+msgctxt "SCRIPT73: 98"
 msgid "分岐終了"
 msgstr ""
 
-msgctxt "99"
+#, ignore-same
+msgctxt "SCRIPT73: 99"
 msgid "●"
 msgstr ""
 
-msgctxt "100"
+#, ignore-same
+msgctxt "SCRIPT73: 100"
 msgid "▼:OFF"
 msgstr ""
 
-msgctxt "101"
+#, ignore-same
+msgctxt "SCRIPT73: 101"
 msgid ""
 "バストショット:bs_ayame_a01_a01.tga\n"
 "左\n"
 "OFF"
 msgstr ""
 
-msgctxt "102"
+#, ignore-same
+msgctxt "SCRIPT73: 102"
 msgid ""
 "文字表示:あやめ:ちぎれたケーブルを、何かで繋げないかしら……\n"
 " \n"
@@ -674,84 +775,101 @@ msgid ""
 "100"
 msgstr ""
 
-msgctxt "103"
+#, ignore-same
+msgctxt "SCRIPT73: 103"
 msgid "●"
 msgstr ""
 
-msgctxt "104"
+#, ignore-same
+msgctxt "SCRIPT73: 104"
 msgid "分岐終了"
 msgstr ""
 
-msgctxt "105"
+#, ignore-same
+msgctxt "SCRIPT73: 105"
 msgid "●"
 msgstr "●"
 
-msgctxt "106"
+#, ignore-same
+msgctxt "SCRIPT73: 106"
 msgid "分岐終了"
 msgstr ""
 
-msgctxt "107"
+#, ignore-same
+msgctxt "SCRIPT73: 107"
 msgid "●"
 msgstr ""
 
-msgctxt "108"
+#, ignore-same
+msgctxt "SCRIPT73: 108"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "109"
+#, ignore-same
+msgctxt "SCRIPT73: 109"
 msgid ""
 "SCRIPT8\n"
 "1"
 msgstr ""
 
-msgctxt "110"
+#, ignore-same
+msgctxt "SCRIPT73: 110"
 msgid "使用アイテム分岐:ＩＤカード"
 msgstr ""
 
-msgctxt "111"
+#, ignore-same
+msgctxt "SCRIPT73: 111"
 msgid "▼:ON"
 msgstr ""
 
-msgctxt "112"
+#, ignore-same
+msgctxt "SCRIPT73: 112"
 msgid ""
 "ＳＥ:CORP2-SE010.wav\n"
 "ON\n"
 "OFF"
 msgstr ""
 
-msgctxt "113"
+#, ignore-same
+msgctxt "SCRIPT73: 113"
 msgid ""
 "キャラアニメ:3\n"
 "24\n"
 "1"
 msgstr ""
 
-msgctxt "114"
+#, ignore-same
+msgctxt "SCRIPT73: 114"
 msgid ""
 "ローカルフラグ:4:エアロック解除\n"
 "ON\n"
 "0"
 msgstr ""
 
-msgctxt "115"
+#, ignore-same
+msgctxt "SCRIPT73: 115"
 msgid ""
 "アイテム取得:ＩＤカード\n"
 "OFF"
 msgstr ""
 
-msgctxt "116"
+#, ignore-same
+msgctxt "SCRIPT73: 116"
 msgid "目的表示:"
 msgstr ""
 
-msgctxt "117"
+#, ignore-same
+msgctxt "SCRIPT73: 117"
 msgid "●"
 msgstr ""
 
-msgctxt "118"
+#, ignore-same
+msgctxt "SCRIPT73: 118"
 msgid "▼:OFF"
 msgstr ""
 
-msgctxt "119"
+#, ignore-same
+msgctxt "SCRIPT73: 119"
 msgid ""
 "文字表示:カードリーダーが待機状態になっている。\n"
 "ＩＤカードがあれば……\n"
@@ -760,29 +878,35 @@ msgid ""
 "1"
 msgstr ""
 
-msgctxt "120"
+#, ignore-same
+msgctxt "SCRIPT73: 120"
 msgid "●"
 msgstr ""
 
-msgctxt "121"
+#, ignore-same
+msgctxt "SCRIPT73: 121"
 msgid "分岐終了"
 msgstr ""
 
-msgctxt "122"
+#, ignore-same
+msgctxt "SCRIPT73: 122"
 msgid "●"
 msgstr ""
 
-msgctxt "123"
+#, ignore-same
+msgctxt "SCRIPT73: 123"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "124"
+#, ignore-same
+msgctxt "SCRIPT73: 124"
 msgid ""
 "SCRIPT9\n"
 "0"
 msgstr ""
 
-msgctxt "125"
+#, ignore-same
+msgctxt "SCRIPT73: 125"
 msgid ""
 "文字表示:モニターにくるくると回転するグラフが表示されている\n"
 "……何の数値なのだろう？\n"
@@ -796,35 +920,42 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "126"
+#, ignore-same
+msgctxt "SCRIPT73: 126"
 msgid "●"
 msgstr ""
 
-msgctxt "127"
+#, ignore-same
+msgctxt "SCRIPT73: 127"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "128"
+#, ignore-same
+msgctxt "SCRIPT73: 128"
 msgid ""
 "SCRIPT10\n"
 "0"
 msgstr ""
 
-msgctxt "129"
+#, ignore-same
+msgctxt "SCRIPT73: 129"
 msgid "●"
 msgstr ""
 
-msgctxt "130"
+#, ignore-same
+msgctxt "SCRIPT73: 130"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "131"
+#, ignore-same
+msgctxt "SCRIPT73: 131"
 msgid ""
 "SCRIPT11\n"
 "0"
 msgstr ""
 
-msgctxt "132"
+#, ignore-same
+msgctxt "SCRIPT73: 132"
 msgid ""
 "文字表示:椅子の上に、小さく光るカギがある\n"
 " \n"
@@ -838,53 +969,63 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "133"
+#, ignore-same
+msgctxt "SCRIPT73: 133"
 msgid ""
 "アイテム取得:小さなカギ\n"
 "ON"
 msgstr ""
 
-msgctxt "134"
+#, ignore-same
+msgctxt "SCRIPT73: 134"
 msgid ""
 "ローカルフラグ:5:アイテムを取得\n"
 "ON"
 msgstr ""
 
-msgctxt "135"
+#, ignore-same
+msgctxt "SCRIPT73: 135"
 msgid ""
 "ローカルフラグ:7:小さなカギを入手\n"
 "ON"
 msgstr ""
 
-msgctxt "136"
+#, ignore-same
+msgctxt "SCRIPT73: 136"
 msgid "●"
 msgstr ""
 
-msgctxt "137"
+#, ignore-same
+msgctxt "SCRIPT73: 137"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "138"
+#, ignore-same
+msgctxt "SCRIPT73: 138"
 msgid ""
 "SCRIPT11\n"
 "1"
 msgstr ""
 
-msgctxt "139"
+#, ignore-same
+msgctxt "SCRIPT73: 139"
 msgid "●"
 msgstr ""
 
-msgctxt "140"
+#, ignore-same
+msgctxt "SCRIPT73: 140"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "141"
+#, ignore-same
+msgctxt "SCRIPT73: 141"
 msgid ""
 "SCRIPT12\n"
 "0"
 msgstr ""
 
-msgctxt "142"
+#, ignore-same
+msgctxt "SCRIPT73: 142"
 msgid ""
 "文字表示:メモと一緒に、一枚のカルテを発見した\n"
 "写真と名前が明記されている……\n"
@@ -898,7 +1039,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "143"
+#, ignore-same
+msgctxt "SCRIPT73: 143"
 msgid ""
 "文字表示:カルテを読みますか？\n"
 " \n"
@@ -912,30 +1054,35 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "144"
+#, ignore-same
+msgctxt "SCRIPT73: 144"
 msgid ""
 "選択肢:はい\n"
 "いいえ"
 msgstr ""
 
-msgctxt "145"
+#, ignore-same
+msgctxt "SCRIPT73: 145"
 msgid "▼:はい"
 msgstr ""
 
-msgctxt "146"
+#, ignore-same
+msgctxt "SCRIPT73: 146"
 msgid ""
 "時間待ち:2\n"
 "CLOSE"
 msgstr ""
 
-msgctxt "147"
+#, ignore-same
+msgctxt "SCRIPT73: 147"
 msgid ""
 "フェード:イン\n"
 "30\n"
 "白"
 msgstr ""
 
-msgctxt "148"
+#, ignore-same
+msgctxt "SCRIPT73: 148"
 msgid ""
 "ＢＧＭ:CORP2-BGM010-2.wav\n"
 "OFF\n"
@@ -945,14 +1092,16 @@ msgid ""
 "100"
 msgstr ""
 
-msgctxt "149"
+#, ignore-same
+msgctxt "SCRIPT73: 149"
 msgid ""
 "ＳＥ:CORP2-SE017.wav\n"
 "ON\n"
 "OFF"
 msgstr ""
 
-msgctxt "150"
+#, ignore-same
+msgctxt "SCRIPT73: 150"
 msgid ""
 "グラフィック変更:このイベント\n"
 "28\n"
@@ -967,13 +1116,15 @@ msgid ""
 "2"
 msgstr ""
 
-msgctxt "151"
+#, ignore-same
+msgctxt "SCRIPT73: 151"
 msgid ""
 "時間待ち:2\n"
 "CLOSE"
 msgstr ""
 
-msgctxt "152"
+#, ignore-same
+msgctxt "SCRIPT73: 152"
 msgid ""
 "グラフィック変更:このイベント\n"
 "30\n"
@@ -988,20 +1139,23 @@ msgid ""
 "2"
 msgstr ""
 
-msgctxt "153"
+#, ignore-same
+msgctxt "SCRIPT73: 153"
 msgid ""
 "時間待ち:30\n"
 "CLOSE"
 msgstr ""
 
-msgctxt "154"
+#, ignore-same
+msgctxt "SCRIPT73: 154"
 msgid ""
 "バストショット:bs_ayame_a01_a01.tga\n"
 "左\n"
 "OFF"
 msgstr ""
 
-msgctxt "155"
+#, ignore-same
+msgctxt "SCRIPT73: 155"
 msgid ""
 "文字表示:あやめ:これは……私の写真……！\n"
 " \n"
@@ -1010,13 +1164,15 @@ msgid ""
 "100"
 msgstr ""
 
-msgctxt "156"
+#, ignore-same
+msgctxt "SCRIPT73: 156"
 msgid ""
 "時間待ち:20\n"
 "OPEN"
 msgstr ""
 
-msgctxt "157"
+#, ignore-same
+msgctxt "SCRIPT73: 157"
 msgid ""
 "文字表示:あやめ:伊藤……あやめ……\n"
 " \n"
@@ -1025,20 +1181,23 @@ msgid ""
 "1"
 msgstr ""
 
-msgctxt "158"
+#, ignore-same
+msgctxt "SCRIPT73: 158"
 msgid ""
 "時間待ち:40\n"
 "OPEN"
 msgstr ""
 
-msgctxt "159"
+#, ignore-same
+msgctxt "SCRIPT73: 159"
 msgid ""
 "フェード:イン\n"
 "3\n"
 "白"
 msgstr ""
 
-msgctxt "160"
+#, ignore-same
+msgctxt "SCRIPT73: 160"
 msgid ""
 "文字表示:あやめ:あやめ……？　そう、そうだわ！\n"
 "……私の名前は、\n"
@@ -1047,26 +1206,30 @@ msgid ""
 "100"
 msgstr ""
 
-msgctxt "161"
+#, ignore-same
+msgctxt "SCRIPT73: 161"
 msgid ""
 "時間待ち:20\n"
 "CLOSE"
 msgstr ""
 
-msgctxt "162"
+#, ignore-same
+msgctxt "SCRIPT73: 162"
 msgid ""
 "ＳＥ:CORP2-SE017.wav\n"
 "ON\n"
 "OFF"
 msgstr ""
 
-msgctxt "163"
+#, ignore-same
+msgctxt "SCRIPT73: 163"
 msgid ""
 "時間待ち:2\n"
 "CLOSE"
 msgstr ""
 
-msgctxt "164"
+#, ignore-same
+msgctxt "SCRIPT73: 164"
 msgid ""
 "グラフィック変更:このイベント\n"
 "28\n"
@@ -1081,13 +1244,15 @@ msgid ""
 "2"
 msgstr ""
 
-msgctxt "165"
+#, ignore-same
+msgctxt "SCRIPT73: 165"
 msgid ""
 "時間待ち:2\n"
 "CLOSE"
 msgstr ""
 
-msgctxt "166"
+#, ignore-same
+msgctxt "SCRIPT73: 166"
 msgid ""
 "グラフィック変更:このイベント\n"
 "18\n"
@@ -1102,13 +1267,15 @@ msgid ""
 "2"
 msgstr ""
 
-msgctxt "167"
+#, ignore-same
+msgctxt "SCRIPT73: 167"
 msgid ""
 "時間待ち:20\n"
 "OPEN"
 msgstr ""
 
-msgctxt "168"
+#, ignore-same
+msgctxt "SCRIPT73: 168"
 msgid ""
 "イベント移動:0\n"
 "190c\n"
@@ -1117,27 +1284,31 @@ msgid ""
 "ON"
 msgstr ""
 
-msgctxt "169"
+#, ignore-same
+msgctxt "SCRIPT73: 169"
 msgid ""
 "時間待ち:20\n"
 "OPEN"
 msgstr ""
 
-msgctxt "170"
+#, ignore-same
+msgctxt "SCRIPT73: 170"
 msgid ""
 "フェード:イン\n"
 "20\n"
 "白"
 msgstr ""
 
-msgctxt "171"
+#, ignore-same
+msgctxt "SCRIPT73: 171"
 msgid ""
 "ＳＥ:CORP2-SE_K_SHOCK001.wav\n"
 "ON\n"
 "OFF"
 msgstr ""
 
-msgctxt "172"
+#, ignore-same
+msgctxt "SCRIPT73: 172"
 msgid ""
 "文字表示:あやめ:伊藤あやめ、だわ……　　　　　　\n"
 "思い、出せた……\n"
@@ -1146,27 +1317,31 @@ msgid ""
 "100"
 msgstr ""
 
-msgctxt "173"
+#, ignore-same
+msgctxt "SCRIPT73: 173"
 msgid ""
 "バストショット:なし\n"
 "左\n"
 "OFF"
 msgstr ""
 
-msgctxt "174"
+#, ignore-same
+msgctxt "SCRIPT73: 174"
 msgid ""
 "時間待ち:10\n"
 "OPEN"
 msgstr ""
 
-msgctxt "175"
+#, ignore-same
+msgctxt "SCRIPT73: 175"
 msgid ""
 "音声再生:VOICE/se/se_ayame/se_ayame_003.wav\n"
 "0\n"
 "100"
 msgstr ""
 
-msgctxt "176"
+#, ignore-same
+msgctxt "SCRIPT73: 176"
 msgid ""
 "イベント移動:0\n"
 "190d\n"
@@ -1175,20 +1350,23 @@ msgid ""
 "ON"
 msgstr ""
 
-msgctxt "177"
+#, ignore-same
+msgctxt "SCRIPT73: 177"
 msgid ""
 "バストショット:なし\n"
 "左\n"
 "OFF"
 msgstr ""
 
-msgctxt "178"
+#, ignore-same
+msgctxt "SCRIPT73: 178"
 msgid ""
 "時間待ち:40\n"
 "CLOSE"
 msgstr ""
 
-msgctxt "179"
+#, ignore-same
+msgctxt "SCRIPT73: 179"
 msgid ""
 "文字表示:カルテに【IDカード】が挟み込まれていた\n"
 " \n"
@@ -1197,25 +1375,29 @@ msgid ""
 "100"
 msgstr ""
 
-msgctxt "180"
+#, ignore-same
+msgctxt "SCRIPT73: 180"
 msgid ""
 "アイテム取得:ＩＤカード\n"
 "ON"
 msgstr ""
 
-msgctxt "181"
+#, ignore-same
+msgctxt "SCRIPT73: 181"
 msgid ""
 "ローカルフラグ:5:アイテムを取得\n"
 "ON"
 msgstr ""
 
-msgctxt "182"
+#, ignore-same
+msgctxt "SCRIPT73: 182"
 msgid ""
 "時間待ち:15\n"
 "CLOSE"
 msgstr ""
 
-msgctxt "183"
+#, ignore-same
+msgctxt "SCRIPT73: 183"
 msgid ""
 "ＢＧＭ:CORP2-BGM010-2.wav\n"
 "ON\n"
@@ -1225,20 +1407,23 @@ msgid ""
 "100"
 msgstr ""
 
-msgctxt "184"
+#, ignore-same
+msgctxt "SCRIPT73: 184"
 msgid ""
 "時間待ち:6\n"
 "CLOSE"
 msgstr ""
 
-msgctxt "185"
+#, ignore-same
+msgctxt "SCRIPT73: 185"
 msgid ""
 "バストショット:bs_ayame_a01_a01.tga\n"
 "左\n"
 "OFF"
 msgstr ""
 
-msgctxt "186"
+#, ignore-same
+msgctxt "SCRIPT73: 186"
 msgid ""
 "文字表示:あやめ:……ＩＤカード……\n"
 " \n"
@@ -1252,70 +1437,83 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "187"
+#, ignore-same
+msgctxt "SCRIPT73: 187"
 msgid ""
 "バストショット:なし\n"
 "左\n"
 "OFF"
 msgstr ""
 
-msgctxt "188"
+#, ignore-same
+msgctxt "SCRIPT73: 188"
 msgid ""
 "時間待ち:6\n"
 "CLOSE"
 msgstr ""
 
-msgctxt "189"
+#, ignore-same
+msgctxt "SCRIPT73: 189"
 msgid ""
 "フェード:イン\n"
 "30\n"
 "黒"
 msgstr ""
 
-msgctxt "190"
+#, ignore-same
+msgctxt "SCRIPT73: 190"
 msgid ""
 "フラグ:192:最初：カルテを見つけた\n"
 "ON"
 msgstr ""
 
-msgctxt "191"
+#, ignore-same
+msgctxt "SCRIPT73: 191"
 msgid "●"
 msgstr ""
 
-msgctxt "192"
+#, ignore-same
+msgctxt "SCRIPT73: 192"
 msgid "▼:いいえ"
 msgstr ""
 
-msgctxt "193"
+#, ignore-same
+msgctxt "SCRIPT73: 193"
 msgid ""
 "フェード:イン\n"
 "10\n"
 "黒"
 msgstr ""
 
-msgctxt "194"
+#, ignore-same
+msgctxt "SCRIPT73: 194"
 msgid "●"
 msgstr ""
 
-msgctxt "195"
+#, ignore-same
+msgctxt "SCRIPT73: 195"
 msgid "選択終了"
 msgstr ""
 
-msgctxt "196"
+#, ignore-same
+msgctxt "SCRIPT73: 196"
 msgid "●"
 msgstr ""
 
-msgctxt "197"
+#, ignore-same
+msgctxt "SCRIPT73: 197"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "198"
+#, ignore-same
+msgctxt "SCRIPT73: 198"
 msgid ""
 "SCRIPT12\n"
 "1"
 msgstr ""
 
-msgctxt "199"
+#, ignore-same
+msgctxt "SCRIPT73: 199"
 msgid ""
 "文字表示:他には特に何もないようだ……\n"
 " \n"
@@ -1329,36 +1527,43 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "200"
+#, ignore-same
+msgctxt "SCRIPT73: 200"
 msgid "●"
 msgstr ""
 
-msgctxt "201"
+#, ignore-same
+msgctxt "SCRIPT73: 201"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "202"
+#, ignore-same
+msgctxt "SCRIPT73: 202"
 msgid ""
 "SCRIPT13\n"
 "0"
 msgstr ""
 
-msgctxt "203"
+#, ignore-same
+msgctxt "SCRIPT73: 203"
 msgid "使用アイテム分岐:小さなカギ"
 msgstr ""
 
-msgctxt "204"
+#, ignore-same
+msgctxt "SCRIPT73: 204"
 msgid "▼:ON"
 msgstr ""
 
-msgctxt "205"
+#, ignore-same
+msgctxt "SCRIPT73: 205"
 msgid ""
 "ＳＥ:CORP2-SE016.wav\n"
 "ON\n"
 "OFF"
 msgstr ""
 
-msgctxt "206"
+#, ignore-same
+msgctxt "SCRIPT73: 206"
 msgid ""
 "文字表示:小さなカギで、戸棚が開いた\n"
 " \n"
@@ -1372,26 +1577,30 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "207"
+#, ignore-same
+msgctxt "SCRIPT73: 207"
 msgid ""
 "アイテム取得:小さなカギ\n"
 "OFF"
 msgstr ""
 
-msgctxt "208"
+#, ignore-same
+msgctxt "SCRIPT73: 208"
 msgid ""
 "時間待ち:3\n"
 "CLOSE"
 msgstr ""
 
-msgctxt "209"
+#, ignore-same
+msgctxt "SCRIPT73: 209"
 msgid ""
 "ＳＥ:CORP2-SE018.wav\n"
 "ON\n"
 "OFF"
 msgstr ""
 
-msgctxt "210"
+#, ignore-same
+msgctxt "SCRIPT73: 210"
 msgid ""
 "グラフィック変更:このイベント\n"
 "28\n"
@@ -1406,13 +1615,15 @@ msgid ""
 "2"
 msgstr ""
 
-msgctxt "211"
+#, ignore-same
+msgctxt "SCRIPT73: 211"
 msgid ""
 "時間待ち:3\n"
 "CLOSE"
 msgstr ""
 
-msgctxt "212"
+#, ignore-same
+msgctxt "SCRIPT73: 212"
 msgid ""
 "グラフィック変更:このイベント\n"
 "30\n"
@@ -1427,13 +1638,15 @@ msgid ""
 "2"
 msgstr ""
 
-msgctxt "213"
+#, ignore-same
+msgctxt "SCRIPT73: 213"
 msgid ""
 "時間待ち:3\n"
 "CLOSE"
 msgstr ""
 
-msgctxt "214"
+#, ignore-same
+msgctxt "SCRIPT73: 214"
 msgid ""
 "文字表示:手術用の消耗品を置く棚のようだ\n"
 "消毒済みの【ゴム手袋】が並んでいる……\n"
@@ -1447,32 +1660,37 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "215"
+#, ignore-same
+msgctxt "SCRIPT73: 215"
 msgid ""
 "アイテム取得:ゴム手袋\n"
 "ON"
 msgstr ""
 
-msgctxt "216"
+#, ignore-same
+msgctxt "SCRIPT73: 216"
 msgid ""
 "ローカルフラグ:1:ゴム手袋を手に入れた\n"
 "ON"
 msgstr ""
 
-msgctxt "217"
+#, ignore-same
+msgctxt "SCRIPT73: 217"
 msgid ""
 "時間待ち:3\n"
 "CLOSE"
 msgstr ""
 
-msgctxt "218"
+#, ignore-same
+msgctxt "SCRIPT73: 218"
 msgid ""
 "ＳＥ:CORP2-SE018.wav\n"
 "ON\n"
 "OFF"
 msgstr ""
 
-msgctxt "219"
+#, ignore-same
+msgctxt "SCRIPT73: 219"
 msgid ""
 "グラフィック変更:このイベント\n"
 "28\n"
@@ -1487,13 +1705,15 @@ msgid ""
 "2"
 msgstr ""
 
-msgctxt "220"
+#, ignore-same
+msgctxt "SCRIPT73: 220"
 msgid ""
 "時間待ち:3\n"
 "CLOSE"
 msgstr ""
 
-msgctxt "221"
+#, ignore-same
+msgctxt "SCRIPT73: 221"
 msgid ""
 "グラフィック変更:このイベント\n"
 "16\n"
@@ -1508,28 +1728,33 @@ msgid ""
 "2"
 msgstr ""
 
-msgctxt "222"
+#, ignore-same
+msgctxt "SCRIPT73: 222"
 msgid ""
 "時間待ち:3\n"
 "CLOSE"
 msgstr ""
 
-msgctxt "223"
+#, ignore-same
+msgctxt "SCRIPT73: 223"
 msgid ""
 "ローカルフラグ:1:戸棚を開けた\n"
 "ON\n"
 "0"
 msgstr ""
 
-msgctxt "224"
+#, ignore-same
+msgctxt "SCRIPT73: 224"
 msgid "●"
 msgstr ""
 
-msgctxt "225"
+#, ignore-same
+msgctxt "SCRIPT73: 225"
 msgid "▼:OFF"
 msgstr ""
 
-msgctxt "226"
+#, ignore-same
+msgctxt "SCRIPT73: 226"
 msgid ""
 "文字表示:戸棚にはカギがかかっていて、開けることができない……\n"
 " \n"
@@ -1543,14 +1768,16 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "227"
+#, ignore-same
+msgctxt "SCRIPT73: 227"
 msgid ""
 "バストショット:bs_ayame_a01_b01.tga\n"
 "左\n"
 "OFF"
 msgstr ""
 
-msgctxt "228"
+#, ignore-same
+msgctxt "SCRIPT73: 228"
 msgid ""
 "文字表示:あやめ:……こまったわ\n"
 " \n"
@@ -1559,29 +1786,35 @@ msgid ""
 "100"
 msgstr ""
 
-msgctxt "229"
+#, ignore-same
+msgctxt "SCRIPT73: 229"
 msgid "●"
 msgstr ""
 
-msgctxt "230"
+#, ignore-same
+msgctxt "SCRIPT73: 230"
 msgid "分岐終了"
 msgstr ""
 
-msgctxt "231"
+#, ignore-same
+msgctxt "SCRIPT73: 231"
 msgid "●"
 msgstr ""
 
-msgctxt "232"
+#, ignore-same
+msgctxt "SCRIPT73: 232"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "233"
+#, ignore-same
+msgctxt "SCRIPT73: 233"
 msgid ""
 "SCRIPT13\n"
 "1"
 msgstr ""
 
-msgctxt "234"
+#, ignore-same
+msgctxt "SCRIPT73: 234"
 msgid ""
 "文字表示:手術用の道具が入れられている。\n"
 "特に必要な物は無さそうだ。\n"
@@ -1595,67 +1828,81 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "235"
+#, ignore-same
+msgctxt "SCRIPT73: 235"
 msgid "●"
 msgstr ""
 
-msgctxt "236"
+#, ignore-same
+msgctxt "SCRIPT73: 236"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "237"
+#, ignore-same
+msgctxt "SCRIPT73: 237"
 msgid ""
 "SCRIPT14\n"
 "0"
 msgstr ""
 
-msgctxt "238"
+#, ignore-same
+msgctxt "SCRIPT73: 238"
 msgid "●"
 msgstr ""
 
-msgctxt "239"
+#, ignore-same
+msgctxt "SCRIPT73: 239"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "240"
+#, ignore-same
+msgctxt "SCRIPT73: 240"
 msgid ""
 "SCRIPT14\n"
 "1"
 msgstr ""
 
-msgctxt "241"
+#, ignore-same
+msgctxt "SCRIPT73: 241"
 msgid "●"
 msgstr ""
 
-msgctxt "242"
+#, ignore-same
+msgctxt "SCRIPT73: 242"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "243"
+#, ignore-same
+msgctxt "SCRIPT73: 243"
 msgid ""
 "SCRIPT15\n"
 "0"
 msgstr ""
 
-msgctxt "244"
+#, ignore-same
+msgctxt "SCRIPT73: 244"
 msgid "診察カード:3"
 msgstr ""
 
-msgctxt "245"
+#, ignore-same
+msgctxt "SCRIPT73: 245"
 msgid "●"
 msgstr ""
 
-msgctxt "246"
+#, ignore-same
+msgctxt "SCRIPT73: 246"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "247"
+#, ignore-same
+msgctxt "SCRIPT73: 247"
 msgid ""
 "SCRIPT16\n"
 "0"
 msgstr ""
 
-msgctxt "248"
+#, ignore-same
+msgctxt "SCRIPT73: 248"
 msgid ""
 "モノローグ:［Ｂ］ボタンを押し、左右キーで、\n"
 "取得したアイテムを確認できる\n"
@@ -1663,7 +1910,8 @@ msgid ""
 "なし"
 msgstr ""
 
-msgctxt "249"
+#, ignore-same
+msgctxt "SCRIPT73: 249"
 msgid ""
 "モノローグ:アイテムを取得したら、\n"
 "必ずアイテムメニューで選択し、\n"
@@ -1671,56 +1919,67 @@ msgid ""
 "なし"
 msgstr ""
 
-msgctxt "250"
+#, ignore-same
+msgctxt "SCRIPT73: 250"
 msgid ""
 "ローカルフラグ:6:アイテム説明完了\n"
 "ON\n"
 "0"
 msgstr ""
 
-msgctxt "251"
+#, ignore-same
+msgctxt "SCRIPT73: 251"
 msgid "●"
 msgstr ""
 
-msgctxt "252"
+#, ignore-same
+msgctxt "SCRIPT73: 252"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "253"
+#, ignore-same
+msgctxt "SCRIPT73: 253"
 msgid ""
 "SCRIPT16\n"
 "1"
 msgstr ""
 
-msgctxt "254"
+#, ignore-same
+msgctxt "SCRIPT73: 254"
 msgid "●"
 msgstr ""
 
-msgctxt "255"
+#, ignore-same
+msgctxt "SCRIPT73: 255"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "256"
+#, ignore-same
+msgctxt "SCRIPT73: 256"
 msgid ""
 "SCRIPT17\n"
 "0"
 msgstr ""
 
-msgctxt "257"
+#, ignore-same
+msgctxt "SCRIPT73: 257"
 msgid "●"
 msgstr ""
 
-msgctxt "258"
+#, ignore-same
+msgctxt "SCRIPT73: 258"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "259"
+#, ignore-same
+msgctxt "SCRIPT73: 259"
 msgid ""
 "SCRIPT18\n"
 "0"
 msgstr ""
 
-msgctxt "260"
+#, ignore-same
+msgctxt "SCRIPT73: 260"
 msgid ""
 "キャラクター移動:0\n"
 "←\n"
@@ -1729,7 +1988,8 @@ msgid ""
 "ON"
 msgstr ""
 
-msgctxt "261"
+#, ignore-same
+msgctxt "SCRIPT73: 261"
 msgid ""
 "キャラアニメ:このイベント\n"
 "112\n"
@@ -1737,7 +1997,8 @@ msgid ""
 "0"
 msgstr ""
 
-msgctxt "262"
+#, ignore-same
+msgctxt "SCRIPT73: 262"
 msgid ""
 "文字表示:人が入れそうなぐらい大きなロッカーだ\n"
 "特に役立ちそうなものはない\n"
@@ -1746,7 +2007,8 @@ msgid ""
 "100"
 msgstr ""
 
-msgctxt "263"
+#, ignore-same
+msgctxt "SCRIPT73: 263"
 msgid ""
 "キャラアニメ:このイベント\n"
 "112\n"
@@ -1754,14 +2016,16 @@ msgid ""
 "0"
 msgstr ""
 
-msgctxt "264"
+#, ignore-same
+msgctxt "SCRIPT73: 264"
 msgid ""
 "ＳＥ:CORP2-SE050.wav\n"
 "ON\n"
 "OFF"
 msgstr ""
 
-msgctxt "265"
+#, ignore-same
+msgctxt "SCRIPT73: 265"
 msgid ""
 "キャラアニメ:このイベント\n"
 "112\n"
@@ -1769,66 +2033,80 @@ msgid ""
 "0"
 msgstr ""
 
-msgctxt "266"
+#, ignore-same
+msgctxt "SCRIPT73: 266"
 msgid "●"
 msgstr ""
 
-msgctxt "267"
+#, ignore-same
+msgctxt "SCRIPT73: 267"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "268"
+#, ignore-same
+msgctxt "SCRIPT73: 268"
 msgid ""
 "SCRIPT19\n"
 "0"
 msgstr ""
 
-msgctxt "269"
+#, ignore-same
+msgctxt "SCRIPT73: 269"
 msgid "●"
 msgstr ""
 
-msgctxt "270"
+#, ignore-same
+msgctxt "SCRIPT73: 270"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "271"
+#, ignore-same
+msgctxt "SCRIPT73: 271"
 msgid ""
 "SCRIPT20\n"
 "0"
 msgstr ""
 
-msgctxt "272"
+#, ignore-same
+msgctxt "SCRIPT73: 272"
 msgid "●"
 msgstr ""
 
-msgctxt "273"
+#, ignore-same
+msgctxt "SCRIPT73: 273"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "274"
+#, ignore-same
+msgctxt "SCRIPT73: 274"
 msgid ""
 "SCRIPT20\n"
 "1"
 msgstr ""
 
-msgctxt "275"
+#, ignore-same
+msgctxt "SCRIPT73: 275"
 msgid "●"
 msgstr ""
 
-msgctxt "276"
+#, ignore-same
+msgctxt "SCRIPT73: 276"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "277"
+#, ignore-same
+msgctxt "SCRIPT73: 277"
 msgid ""
 "SCRIPT20\n"
 "2"
 msgstr ""
 
-msgctxt "278"
+#, ignore-same
+msgctxt "SCRIPT73: 278"
 msgid "●"
 msgstr ""
 
-msgctxt "279"
+#, ignore-same
+msgctxt "SCRIPT73: 279"
 msgid "END_SCRIPT"
 msgstr ""

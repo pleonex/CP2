@@ -5,16 +5,15 @@ msgstr ""
 "POT-Creation-Date: 21/05/2018\n"
 "PO-Revision-Date: 2018-05-23 15:31+0000\n"
 "Last-Translator: Van_Kaiji <alejandro.sh94@gmail.com>\n"
-"Language-Team: Spanish <http://54.37.11.10/projects/corpse-party-2/script50/"
-"es/>\n"
+"Language-Team: Spanish <http://54.37.11.10/projects/corpse-party-2/script50/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.20\n"
 
-msgctxt "0"
+#, ignore-same
+msgctxt "SCRIPT50: 0"
 msgid ""
 "SCRIPT1\n"
 "0"
@@ -22,7 +21,8 @@ msgstr ""
 "SCRIPT1\n"
 "0"
 
-msgctxt "1"
+#, ignore-same
+msgctxt "SCRIPT50: 1"
 msgid ""
 "場所移動:■廊下１Ｆ\n"
 "9\n"
@@ -35,39 +35,47 @@ msgid ""
 "on"
 msgstr ""
 
-msgctxt "2"
+#, ignore-same
+msgctxt "SCRIPT50: 2"
 msgid "●"
 msgstr ""
 
-msgctxt "3"
+#, ignore-same
+msgctxt "SCRIPT50: 3"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "4"
+#, ignore-same
+msgctxt "SCRIPT50: 4"
 msgid ""
 "SCRIPT2\n"
 "0"
 msgstr ""
 
-msgctxt "5"
+#, ignore-same
+msgctxt "SCRIPT50: 5"
 msgid "●"
 msgstr ""
 
-msgctxt "6"
+#, ignore-same
+msgctxt "SCRIPT50: 6"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "7"
+#, ignore-same
+msgctxt "SCRIPT50: 7"
 msgid ""
 "SCRIPT3\n"
 "0"
 msgstr ""
 
-msgctxt "8"
+#, ignore-same
+msgctxt "SCRIPT50: 8"
 msgid "【■※手洗い台（赤いコンパクトが置いてある）を調べるとリアクション】"
 msgstr ""
 
-msgctxt "9"
+#, ignore-same
+msgctxt "SCRIPT50: 9"
 msgid ""
 "文字表示:テキスト:洗面台に、誰かの赤いコンパクトが置いてある。\n"
 "正面の鏡に、自分が映っている……\n"
@@ -81,7 +89,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "10"
+#, ignore-same
+msgctxt "SCRIPT50: 10"
 msgid ""
 "文字表示:テキスト:目を覆いたくなるほどに下眼瞼にくまができ、\n"
 "げっそりと窶れている\n"
@@ -95,7 +104,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "11"
+#, ignore-same
+msgctxt "SCRIPT50: 11"
 msgid ""
 "文字表示:テキスト:目尻には沢山の皺があり、いつの間にか\n"
 "酷く齢を取ったようにも見える……\n"
@@ -109,7 +119,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "12"
+#, ignore-same
+msgctxt "SCRIPT50: 12"
 msgid ""
 "文字表示:【ＢＧＭ：不快（弱アレンジ）】　※貞子の弦の音チックな環境ＢＧＭ:\n"
 "あやめ：\n"
@@ -123,7 +134,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "13"
+#, ignore-same
+msgctxt "SCRIPT50: 13"
 msgid ""
 "文字表示:あやめ:……これ……私……？\n"
 "\n"
@@ -137,7 +149,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "14"
+#, ignore-same
+msgctxt "SCRIPT50: 14"
 msgid ""
 "文字表示:テキスト:頬のところに水ぶくれのような水泡がある……\n"
 "触ってみるときゅるんと中で何かが回転した\n"
@@ -151,7 +164,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "15"
+#, ignore-same
+msgctxt "SCRIPT50: 15"
 msgid ""
 "文字表示:あやめ:ぴっ！？\n"
 "\n"
@@ -165,7 +179,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "16"
+#, ignore-same
+msgctxt "SCRIPT50: 16"
 msgid ""
 "文字表示:テキスト:沢山の節を持った長細い虫が、顔の皮膚の下で\n"
 "くるくると回っている。\n"
@@ -179,7 +194,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "17"
+#, ignore-same
+msgctxt "SCRIPT50: 17"
 msgid ""
 "文字表示:あやめ:いや、いや……！\n"
 "気持ち悪い……！　と、取らなきゃ！\n"
@@ -193,19 +209,23 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "18"
+#, ignore-same
+msgctxt "SCRIPT50: 18"
 msgid "指で皮膚の中の虫を押すと、"
 msgstr ""
 
-msgctxt "19"
+#, ignore-same
+msgctxt "SCRIPT50: 19"
 msgid "くしゃっとつぶれて皮膚の下に赤い染みが広がった。"
 msgstr ""
 
-msgctxt "20"
+#, ignore-same
+msgctxt "SCRIPT50: 20"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "21"
+#, ignore-same
+msgctxt "SCRIPT50: 21"
 msgid ""
 "文字表示:あやめ:……や……\n"
 "\n"
@@ -219,7 +239,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "22"
+#, ignore-same
+msgctxt "SCRIPT50: 22"
 msgid ""
 "文字表示:ＳＥ：水道水出しっぱなし（ループ開始:\n"
 "テキスト：\n"
@@ -233,7 +254,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "23"
+#, ignore-same
+msgctxt "SCRIPT50: 23"
 msgid ""
 "文字表示:テキスト:水で必死に擦ってみるが、皮膚の下で\n"
 "つぶれた虫の体液は拭き取れない\n"
@@ -247,7 +269,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "24"
+#, ignore-same
+msgctxt "SCRIPT50: 24"
 msgid ""
 "文字表示:あやめ:いやぁ！\n"
 "\n"
@@ -261,7 +284,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "25"
+#, ignore-same
+msgctxt "SCRIPT50: 25"
 msgid ""
 "文字表示:テキスト:皮膚をつまんで引っ張ると、ぺろんと５ｃｍ四方ほどの顔の皮膚が\n"
 "めくれ下がった\n"
@@ -275,7 +299,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "26"
+#, ignore-same
+msgctxt "SCRIPT50: 26"
 msgid ""
 "文字表示:【ＢＧＭ：不快（中アレンジ）】　※貞子の弦の音チックな環境ＢＧＭ:\n"
 "あやめ：\n"
@@ -289,7 +314,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "27"
+#, ignore-same
+msgctxt "SCRIPT50: 27"
 msgid ""
 "文字表示:あやめ:きゃぁ！\n"
 "\n"
@@ -303,7 +329,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "28"
+#, ignore-same
+msgctxt "SCRIPT50: 28"
 msgid ""
 "文字表示:ＳＥ：水でバシャバシャ顔を洗:\n"
 "テキスト：\n"
@@ -317,7 +344,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "29"
+#, ignore-same
+msgctxt "SCRIPT50: 29"
 msgid ""
 "文字表示:テキスト:水がむき出しの顔の真皮に激しく染みる。\n"
 "\n"
@@ -331,7 +359,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "30"
+#, ignore-same
+msgctxt "SCRIPT50: 30"
 msgid ""
 "文字表示:テキスト:しかし洗い落とせたはず……と鏡を見ると。\n"
 "皮を剥いた皮膚の下、ピンク色の薄皮の\n"
@@ -345,11 +374,13 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "31"
+#, ignore-same
+msgctxt "SCRIPT50: 31"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "32"
+#, ignore-same
+msgctxt "SCRIPT50: 32"
 msgid ""
 "文字表示:あやめ:やああぁ！\n"
 "\n"
@@ -363,7 +394,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "33"
+#, ignore-same
+msgctxt "SCRIPT50: 33"
 msgid ""
 "文字表示:ＳＥ：水でバシャバシャ顔を洗:\n"
 "テキスト：\n"
@@ -377,7 +409,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "34"
+#, ignore-same
+msgctxt "SCRIPT50: 34"
 msgid ""
 "文字表示:テキスト:夢中で頬を擦り続けると、\n"
 "やがて顔に焼けるような痛みを覚える。\n"
@@ -391,7 +424,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "35"
+#, ignore-same
+msgctxt "SCRIPT50: 35"
 msgid ""
 "文字表示:あやめ:痛いっ！　……なに……？\n"
 "ひっ！\n"
@@ -405,7 +439,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "36"
+#, ignore-same
+msgctxt "SCRIPT50: 36"
 msgid ""
 "文字表示:【ＢＧＭ：不快（強アレンジ）】　※貞子の弦の音チックな環境ＢＧＭ:\n"
 "テキスト：\n"
@@ -419,7 +454,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "37"
+#, ignore-same
+msgctxt "SCRIPT50: 37"
 msgid ""
 "文字表示:テキスト:気付くと、洗面台は血で真っ赤になっている。\n"
 "\n"
@@ -433,7 +469,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "38"
+#, ignore-same
+msgctxt "SCRIPT50: 38"
 msgid ""
 "文字表示:テキスト:鏡を見上げると、顔の肉が一部削げ落ち\n"
 "骨が見えていた\n"
@@ -447,7 +484,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "39"
+#, ignore-same
+msgctxt "SCRIPT50: 39"
 msgid ""
 "文字表示:【EVグラフィック】：洗面台に肉片と血だま:\n"
 "テキスト：\n"
@@ -461,7 +499,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "40"
+#, ignore-same
+msgctxt "SCRIPT50: 40"
 msgid ""
 "文字表示:テキスト:ぽと、ぽとっと、指に絡みついた\n"
 "あやめの眼窩脂肪や頬の肉が洗面台に\n"
@@ -475,11 +514,13 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "41"
+#, ignore-same
+msgctxt "SCRIPT50: 41"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "42"
+#, ignore-same
+msgctxt "SCRIPT50: 42"
 msgid ""
 "文字表示:あやめ:いや……！\n"
 "\n"
@@ -493,7 +534,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "43"
+#, ignore-same
+msgctxt "SCRIPT50: 43"
 msgid ""
 "文字表示:【ＳＥ：カシャーン:\n"
 "テキスト：\n"
@@ -507,7 +549,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "44"
+#, ignore-same
+msgctxt "SCRIPT50: 44"
 msgid ""
 "文字表示:テキスト:洗面台に、何かプラスチック製の器具が投げ落とされた\n"
 "\n"
@@ -521,7 +564,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "45"
+#, ignore-same
+msgctxt "SCRIPT50: 45"
 msgid ""
 "文字表示:テキスト:血と肉片が散らばった白い陶器の台には、\n"
 "赤黒く血に塗れたピーラーが転がっていた――\n"
@@ -535,7 +579,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "46"
+#, ignore-same
+msgctxt "SCRIPT50: 46"
 msgid ""
 "文字表示:あやめ:……いやああぁぁ！！\n"
 "\n"
@@ -549,15 +594,18 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "47"
+#, ignore-same
+msgctxt "SCRIPT50: 47"
 msgid "※腰を抜かして床に尻餅をつくと、同時に鏡がパァンと飛び散る"
 msgstr ""
 
-msgctxt "48"
+#, ignore-same
+msgctxt "SCRIPT50: 48"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "49"
+#, ignore-same
+msgctxt "SCRIPT50: 49"
 msgid ""
 "文字表示:あやめ:きゃああぁぁ！！\n"
 "\n"
@@ -571,7 +619,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "50"
+#, ignore-same
+msgctxt "SCRIPT50: 50"
 msgid ""
 "文字表示:？：（音声のみ・赤いドレスの女の霊:薬はもう嫌ェェェ！！！！\n"
 "【ＢＧＭ：ＳＴＯＰ】\n"
@@ -585,7 +634,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "51"
+#, ignore-same
+msgctxt "SCRIPT50: 51"
 msgid ""
 "文字表示:【ＢＧＭ：ＳＴＯＰ:※以降、ＳＥ：水道水出しっぱなしの音が鳴りっぱなす。\n"
 "\n"
@@ -599,7 +649,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "52"
+#, ignore-same
+msgctxt "SCRIPT50: 52"
 msgid ""
 "文字表示:※以降、ＳＥ：水道水出しっぱなしの音が鳴りっぱなす:\n"
 "\n"
@@ -613,11 +664,13 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "53"
+#, ignore-same
+msgctxt "SCRIPT50: 53"
 msgid "（二回目以降）"
 msgstr ""
 
-msgctxt "54"
+#, ignore-same
+msgctxt "SCRIPT50: 54"
 msgid ""
 "文字表示:ＳＥ：水道水出しっぱなし（ループ終了）キュッと止め:テキスト：\n"
 "鏡が割れてしまっている\n"
@@ -631,7 +684,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "55"
+#, ignore-same
+msgctxt "SCRIPT50: 55"
 msgid ""
 "文字表示:テキスト:鏡が割れてしまっている\n"
 "\n"
@@ -645,7 +699,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "56"
+#, ignore-same
+msgctxt "SCRIPT50: 56"
 msgid ""
 "文字表示:テキスト:コンパクトの下にカルテが置いてあった\n"
 "【・カルテ】ＧＥＴ\n"
@@ -659,73 +714,88 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "57"
+#, ignore-same
+msgctxt "SCRIPT50: 57"
 msgid ""
 "フラグ:21:女子トイレでコンパクトを調べた\n"
 "ON"
 msgstr ""
 
-msgctxt "58"
+#, ignore-same
+msgctxt "SCRIPT50: 58"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "59"
+#, ignore-same
+msgctxt "SCRIPT50: 59"
 msgid "●"
 msgstr ""
 
-msgctxt "60"
+#, ignore-same
+msgctxt "SCRIPT50: 60"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "61"
+#, ignore-same
+msgctxt "SCRIPT50: 61"
 msgid ""
 "SCRIPT3\n"
 "1"
 msgstr ""
 
-msgctxt "62"
+#, ignore-same
+msgctxt "SCRIPT50: 62"
 msgid "●"
 msgstr ""
 
-msgctxt "63"
+#, ignore-same
+msgctxt "SCRIPT50: 63"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "64"
+#, ignore-same
+msgctxt "SCRIPT50: 64"
 msgid ""
 "SCRIPT4\n"
 "0"
 msgstr ""
 
-msgctxt "65"
+#, ignore-same
+msgctxt "SCRIPT50: 65"
 msgid "●"
 msgstr ""
 
-msgctxt "66"
+#, ignore-same
+msgctxt "SCRIPT50: 66"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "67"
+#, ignore-same
+msgctxt "SCRIPT50: 67"
 msgid ""
 "SCRIPT5\n"
 "0"
 msgstr ""
 
-msgctxt "68"
+#, ignore-same
+msgctxt "SCRIPT50: 68"
 msgid "●"
 msgstr ""
 
-msgctxt "69"
+#, ignore-same
+msgctxt "SCRIPT50: 69"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "70"
+#, ignore-same
+msgctxt "SCRIPT50: 70"
 msgid ""
 "SCRIPT6\n"
 "0"
 msgstr ""
 
-msgctxt "71"
+#, ignore-same
+msgctxt "SCRIPT50: 71"
 msgid ""
 "文字表示:テキスト:この個室だけ、扉に鍵がかかっている\n"
 "\n"
@@ -739,15 +809,18 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "72"
+#, ignore-same
+msgctxt "SCRIPT50: 72"
 msgid "（SE:ノック）"
 msgstr ""
 
-msgctxt "73"
+#, ignore-same
+msgctxt "SCRIPT50: 73"
 msgid "<!empty>"
 msgstr ""
 
-msgctxt "74"
+#, ignore-same
+msgctxt "SCRIPT50: 74"
 msgid ""
 "文字表示:あやめ:……？　あの……\n"
 "だれか、いますか？\n"
@@ -761,7 +834,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "75"
+#, ignore-same
+msgctxt "SCRIPT50: 75"
 msgid ""
 "文字表示:テキスト:しかし返事は返ってこない\n"
 "\n"
@@ -775,7 +849,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "76"
+#, ignore-same
+msgctxt "SCRIPT50: 76"
 msgid ""
 "文字表示:あやめ:（下から……覗くのは良くないわ）\n"
 "\n"
@@ -789,7 +864,8 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "77"
+#, ignore-same
+msgctxt "SCRIPT50: 77"
 msgid ""
 "文字表示:あやめ:（私だったら、覗かれたらいやだもの）\n"
 "\n"
@@ -803,133 +879,161 @@ msgid ""
 "OFF"
 msgstr ""
 
-msgctxt "78"
+#, ignore-same
+msgctxt "SCRIPT50: 78"
 msgid "●"
 msgstr ""
 
-msgctxt "79"
+#, ignore-same
+msgctxt "SCRIPT50: 79"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "80"
+#, ignore-same
+msgctxt "SCRIPT50: 80"
 msgid ""
 "SCRIPT7\n"
 "0"
 msgstr ""
 
-msgctxt "81"
+#, ignore-same
+msgctxt "SCRIPT50: 81"
 msgid "●"
 msgstr ""
 
-msgctxt "82"
+#, ignore-same
+msgctxt "SCRIPT50: 82"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "83"
+#, ignore-same
+msgctxt "SCRIPT50: 83"
 msgid ""
 "SCRIPT8\n"
 "0"
 msgstr ""
 
-msgctxt "84"
+#, ignore-same
+msgctxt "SCRIPT50: 84"
 msgid "●"
 msgstr ""
 
-msgctxt "85"
+#, ignore-same
+msgctxt "SCRIPT50: 85"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "86"
+#, ignore-same
+msgctxt "SCRIPT50: 86"
 msgid ""
 "SCRIPT9\n"
 "0"
 msgstr ""
 
-msgctxt "87"
+#, ignore-same
+msgctxt "SCRIPT50: 87"
 msgid "●"
 msgstr ""
 
-msgctxt "88"
+#, ignore-same
+msgctxt "SCRIPT50: 88"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "89"
+#, ignore-same
+msgctxt "SCRIPT50: 89"
 msgid ""
 "SCRIPT10\n"
 "0"
 msgstr ""
 
-msgctxt "90"
+#, ignore-same
+msgctxt "SCRIPT50: 90"
 msgid "●"
 msgstr "●"
 
-msgctxt "91"
+#, ignore-same
+msgctxt "SCRIPT50: 91"
 msgid "END_SCRIPT"
 msgstr "END_SCRIPT"
 
-msgctxt "92"
+#, ignore-same
+msgctxt "SCRIPT50: 92"
 msgid ""
 "SCRIPT10\n"
 "1"
 msgstr ""
 
-msgctxt "93"
+#, ignore-same
+msgctxt "SCRIPT50: 93"
 msgid "●"
 msgstr ""
 
-msgctxt "94"
+#, ignore-same
+msgctxt "SCRIPT50: 94"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "95"
+#, ignore-same
+msgctxt "SCRIPT50: 95"
 msgid ""
 "SCRIPT11\n"
 "0"
 msgstr ""
 
-msgctxt "96"
+#, ignore-same
+msgctxt "SCRIPT50: 96"
 msgid "●"
 msgstr ""
 
-msgctxt "97"
+#, ignore-same
+msgctxt "SCRIPT50: 97"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "98"
+#, ignore-same
+msgctxt "SCRIPT50: 98"
 msgid ""
 "SCRIPT12\n"
 "0"
 msgstr ""
 
-msgctxt "99"
+#, ignore-same
+msgctxt "SCRIPT50: 99"
 msgid "●"
 msgstr ""
 
-msgctxt "100"
+#, ignore-same
+msgctxt "SCRIPT50: 100"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "101"
+#, ignore-same
+msgctxt "SCRIPT50: 101"
 msgid ""
 "SCRIPT13\n"
 "0"
 msgstr ""
 
-msgctxt "102"
+#, ignore-same
+msgctxt "SCRIPT50: 102"
 msgid "●"
 msgstr ""
 
-msgctxt "103"
+#, ignore-same
+msgctxt "SCRIPT50: 103"
 msgid "END_SCRIPT"
 msgstr ""
 
-msgctxt "104"
+#, ignore-same
+msgctxt "SCRIPT50: 104"
 msgid ""
 "SCRIPT14\n"
 "0"
 msgstr ""
 
-msgctxt "105"
+#, ignore-same
+msgctxt "SCRIPT50: 105"
 msgid ""
 "文字表示:手が届かない\n"
 " \n"
@@ -938,10 +1042,12 @@ msgid ""
 "100"
 msgstr ""
 
-msgctxt "106"
+#, ignore-same
+msgctxt "SCRIPT50: 106"
 msgid "●"
 msgstr ""
 
-msgctxt "107"
+#, ignore-same
+msgctxt "SCRIPT50: 107"
 msgid "END_SCRIPT"
 msgstr ""
