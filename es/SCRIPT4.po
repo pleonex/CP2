@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Corpse Party 2\n"
 "Report-Msgid-Bugs-To: pleonex <benito356@gmail.com>\n"
 "POT-Creation-Date: 21/05/2018\n"
-"PO-Revision-Date: 2018-05-23 10:47+0000\n"
+"PO-Revision-Date: 2018-05-23 15:31+0000\n"
 "Last-Translator: Van_Kaiji <alejandro.sh94@gmail.com>\n"
 "Language-Team: Spanish <http://54.37.11.10/projects/corpse-party-2/script4/"
 "es/>\n"
@@ -154,11 +154,11 @@ msgstr ""
 
 msgctxt "25"
 msgid "●"
-msgstr ""
+msgstr "●"
 
 msgctxt "26"
 msgid "END_SCRIPT"
-msgstr ""
+msgstr "END_SCRIPT"
 
 msgctxt "27"
 msgid ""
@@ -168,11 +168,11 @@ msgstr ""
 
 msgctxt "28"
 msgid "●"
-msgstr ""
+msgstr "●"
 
 msgctxt "29"
 msgid "END_SCRIPT"
-msgstr ""
+msgstr "END_SCRIPT"
 
 msgctxt "30"
 msgid ""
@@ -182,11 +182,11 @@ msgstr ""
 
 msgctxt "31"
 msgid "●"
-msgstr ""
+msgstr "●"
 
 msgctxt "32"
 msgid "END_SCRIPT"
-msgstr ""
+msgstr "END_SCRIPT"
 
 msgctxt "33"
 msgid ""
@@ -196,11 +196,11 @@ msgstr ""
 
 msgctxt "34"
 msgid "●"
-msgstr ""
+msgstr "●"
 
 msgctxt "35"
 msgid "END_SCRIPT"
-msgstr ""
+msgstr "END_SCRIPT"
 
 msgctxt "36"
 msgid ""
@@ -210,11 +210,11 @@ msgstr ""
 
 msgctxt "37"
 msgid "●"
-msgstr ""
+msgstr "●"
 
 msgctxt "38"
 msgid "END_SCRIPT"
-msgstr ""
+msgstr "END_SCRIPT"
 
 msgctxt "39"
 msgid ""
@@ -224,11 +224,11 @@ msgstr ""
 
 msgctxt "40"
 msgid "●"
-msgstr ""
+msgstr "●"
 
 msgctxt "41"
 msgid "END_SCRIPT"
-msgstr ""
+msgstr "END_SCRIPT"
 
 msgctxt "42"
 msgid ""
@@ -238,11 +238,11 @@ msgstr ""
 
 msgctxt "43"
 msgid "●"
-msgstr ""
+msgstr "●"
 
 msgctxt "44"
 msgid "END_SCRIPT"
-msgstr ""
+msgstr "END_SCRIPT"
 
 msgctxt "45"
 msgid ""
@@ -252,11 +252,11 @@ msgstr ""
 
 msgctxt "46"
 msgid "●"
-msgstr ""
+msgstr "●"
 
 msgctxt "47"
 msgid "END_SCRIPT"
-msgstr ""
+msgstr "END_SCRIPT"
 
 msgctxt "48"
 msgid ""
@@ -266,11 +266,11 @@ msgstr ""
 
 msgctxt "49"
 msgid "●"
-msgstr ""
+msgstr "●"
 
 msgctxt "50"
 msgid "END_SCRIPT"
-msgstr ""
+msgstr "END_SCRIPT"
 
 msgctxt "51"
 msgid ""
@@ -361,11 +361,11 @@ msgstr ""
 
 msgctxt "67"
 msgid "●"
-msgstr ""
+msgstr "●"
 
 msgctxt "68"
 msgid "END_SCRIPT"
-msgstr ""
+msgstr "END_SCRIPT"
 
 msgctxt "69"
 msgid ""
@@ -375,11 +375,11 @@ msgstr ""
 
 msgctxt "70"
 msgid "●"
-msgstr ""
+msgstr "●"
 
 msgctxt "71"
 msgid "END_SCRIPT"
-msgstr ""
+msgstr "END_SCRIPT"
 
 msgctxt "72"
 msgid ""
@@ -389,11 +389,11 @@ msgstr ""
 
 msgctxt "73"
 msgid "●"
-msgstr ""
+msgstr "●"
 
 msgctxt "74"
 msgid "END_SCRIPT"
-msgstr ""
+msgstr "END_SCRIPT"
 
 msgctxt "75"
 msgid ""
@@ -403,11 +403,11 @@ msgstr ""
 
 msgctxt "76"
 msgid "●"
-msgstr ""
+msgstr "●"
 
 msgctxt "77"
 msgid "END_SCRIPT"
-msgstr ""
+msgstr "END_SCRIPT"
 
 msgctxt "78"
 msgid ""
@@ -417,11 +417,11 @@ msgstr ""
 
 msgctxt "79"
 msgid "●"
-msgstr ""
+msgstr "●"
 
 msgctxt "80"
 msgid "END_SCRIPT"
-msgstr ""
+msgstr "END_SCRIPT"
 
 msgctxt "81"
 msgid ""
@@ -431,11 +431,11 @@ msgstr ""
 
 msgctxt "82"
 msgid "●"
-msgstr ""
+msgstr "●"
 
 msgctxt "83"
 msgid "END_SCRIPT"
-msgstr ""
+msgstr "END_SCRIPT"
 
 msgctxt "84"
 msgid ""
